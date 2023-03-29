@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T07:48:26.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dve4K9CzyzUtD9ncH5QX" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T07:49:30.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5Iqf1v69kyTGxZ5OoMuH" version="21.1.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1562" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,10 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="Register to&amp;nbsp;&lt;br&gt;start a glocal&lt;br&gt;Transaction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="180" y="129" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d-oNC6kE6kxb4CZ7EZcE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="okEvWX8VrjNMSibzl_vv-24" target="d-oNC6kE6kxb4CZ7EZcE-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="d-oNC6kE6kxb4CZ7EZcE-7" value="Rollback 指令" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="okEvWX8VrjNMSibzl_vv-24" target="d-oNC6kE6kxb4CZ7EZcE-2">
+          <mxGeometry x="-0.8612" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="okEvWX8VrjNMSibzl_vv-24" value="Report Failure" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="353" y="129" width="80" height="60" as="geometry" />
@@ -32,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="okEvWX8VrjNMSibzl_vv-32" value="Registry&lt;br&gt;RM transaction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;direction=south;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="650" y="129" width="90" height="55" as="geometry" />
+          <mxGeometry x="651" y="129" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="d-oNC6kE6kxb4CZ7EZcE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="okEvWX8VrjNMSibzl_vv-42" target="d-oNC6kE6kxb4CZ7EZcE-2">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +53,7 @@
         </mxCell>
         <mxCell id="d-oNC6kE6kxb4CZ7EZcE-17" value="Rollback 指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d-oNC6kE6kxb4CZ7EZcE-15">
           <mxGeometry x="-0.6484" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="okEvWX8VrjNMSibzl_vv-53" value="Report Failure" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
