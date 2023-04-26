@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T08:42:56.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DAB5vDUu7T69VBIyp3nP" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T08:44:42.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DHw5DziECDh7s9oRdaS8" version="21.2.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1802" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
         <mxCell id="d-oNC6kE6kxb4CZ7EZcE-20" value="Response" style="ellipse;whiteSpace=wrap;html=1;fontColor=#F0F0F0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="1500" y="40" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mjdFwXQ91mD9-8cXEvQh-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;①&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="940" y="23" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="okEvWX8VrjNMSibzl_vv-25" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#F0F0F0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-36" target="okEvWX8VrjNMSibzl_vv-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -176,8 +179,8 @@
           <mxGeometry x="-0.8223" relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="960" y="390" />
-              <mxPoint x="960" y="162" />
+              <mxPoint x="980" y="390" />
+              <mxPoint x="980" y="162" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -206,9 +209,6 @@
         </mxCell>
         <mxCell id="d-oNC6kE6kxb4CZ7EZcE-31" value="1. 事务过程中，SEATA server 持续与TM RM交互，任何一次通讯因网络失败 或服务宕机 都会导致全局事务的失败；&lt;br&gt;2. 如 Seata server 宕机，一定重试次数内重启或接到被阻塞的网络请求，则可以继续事务；&lt;br&gt;3.但超出充实的次数，就会放弃该次事务，会造成事务执行到一半烂尾的情况；&lt;br&gt;4. 但我们可以从 SEATA 元数据，配合RM的事务中间表 来重新捕捉未执行完的情况" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="540" width="640" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="mjdFwXQ91mD9-8cXEvQh-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;①&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="273" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
