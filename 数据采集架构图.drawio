@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T15:37:54.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="O7HNtsb5qMSMDw3qZYiS" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T15:37:59.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jM9_r7psURl2gyHQfhq9" version="21.3.8" type="github">
   <diagram name="第 1 页" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1562" dy="829" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,9 +61,6 @@
         </mxCell>
         <mxCell id="QkV-Cp4CuRcncDUJaHf6-19" value="Metric Adapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="535" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QkV-Cp4CuRcncDUJaHf6-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QkV-Cp4CuRcncDUJaHf6-20" target="QkV-Cp4CuRcncDUJaHf6-33">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QkV-Cp4CuRcncDUJaHf6-20" value="Log Adapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="245" width="120" height="30" as="geometry" />
