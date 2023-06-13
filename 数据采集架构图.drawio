@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T15:27:35.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="u8AwX4te-xnPYJgiLZBa" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T15:28:16.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PJDb9ljT5qcyZEs80Ht4" version="21.3.8" type="github">
   <diagram name="第 1 页" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="940" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
         <mxCell id="QkV-Cp4CuRcncDUJaHf6-42" value="One Agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="50" width="710" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="QkV-Cp4CuRcncDUJaHf6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkV-Cp4CuRcncDUJaHf6-44" target="QkV-Cp4CuRcncDUJaHf6-39">
+        <mxCell id="QkV-Cp4CuRcncDUJaHf6-47" value="自动处理&lt;br&gt;智能排障&lt;br&gt;优化建议" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkV-Cp4CuRcncDUJaHf6-44" target="QkV-Cp4CuRcncDUJaHf6-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QkV-Cp4CuRcncDUJaHf6-44" value="AI大模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
