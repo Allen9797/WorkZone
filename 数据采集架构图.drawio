@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T06:43:41.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MJzDXOPaFAlJtsvFD2xB" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T06:45:26.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-s1oeWHw5OlLMekPOAkh" version="21.3.8" type="github">
   <diagram name="第 1 页" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1562" dy="837" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,6 +219,9 @@
             <mxPoint x="690" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Go API&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-12" target="Kcm9yG_U1b7y-MvVWpOY-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-12" value="Log Adapter&lt;br&gt;(OpenTelmetry)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1170" width="120" height="40" as="geometry" />
         </mxCell>
@@ -239,17 +242,14 @@
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-15" target="Kcm9yG_U1b7y-MvVWpOY-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-15" value="AWS&lt;br&gt;CloudWatch" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-15" value="AWS&lt;br&gt;CloudWatch" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="540" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-16" value="AWS&lt;br&gt;CloudWatch" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="540" y="1255" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-18" value="TecentCloud &lt;br&gt;Log Service&lt;br&gt;(CLS)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="540" y="1355" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-19" value="Tecent&lt;br&gt;Log Tank Service&lt;br&gt;（LTS）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="540" y="1455" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-21" value="应用" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="865" width="90" height="30" as="geometry" />
@@ -266,11 +266,17 @@
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-32" value="job拉网关&lt;br&gt;获取page -&amp;gt; request&lt;br&gt;关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Go API&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-35" target="Kcm9yG_U1b7y-MvVWpOY-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-35" value="mongoDB" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1180" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-39" value="私有云" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="1040" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-41" target="Kcm9yG_U1b7y-MvVWpOY-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-41" value="AWS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="1160" width="250" height="60" as="geometry" />
@@ -280,6 +286,12 @@
         </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-43" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="1170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-45" value="TecentCloud &lt;br&gt;Log Service&lt;br&gt;(CLS)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="540" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-46" value="Proctal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
