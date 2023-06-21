@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T11:11:47.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NCRwRr-DEhSwl3gyFY_M" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T06:36:03.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PVpeTanJB2xLwleS1dSA" version="21.3.8" type="github">
   <diagram name="第 1 页" id="N1-KNFquu0YFQFn82y0o">
-    <mxGraphModel dx="1802" dy="837" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="837" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,64 @@
         </mxCell>
         <mxCell id="QkV-Cp4CuRcncDUJaHf6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QkV-Cp4CuRcncDUJaHf6-48" target="QkV-Cp4CuRcncDUJaHf6-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-3" value="ES" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-4" value="Ali&lt;br&gt;SLS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-5" value="DRDS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="410" y="720" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-6" value="REDIS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="810" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-7" value="MSE" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="880" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-11" value="EventBridge&lt;br&gt;自动同步&lt;br&gt;（公测功能）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-4" target="Kcm9yG_U1b7y-MvVWpOY-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-12" value="Log Adapter&lt;br&gt;(OpenTelmetry)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1050" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-14" target="Kcm9yG_U1b7y-MvVWpOY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-27" value="Error 数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="Kcm9yG_U1b7y-MvVWpOY-13">
+          <mxGeometry x="-0.0981" y="-4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-14" value="云上 kafka&lt;br&gt;按时间收费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-17" value="直接output，不需要经过其他组件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-15" target="Kcm9yG_U1b7y-MvVWpOY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-15" value="AWS&lt;br&gt;CloudWatch" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="530" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-16" value="AWS&lt;br&gt;CloudWatch" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="530" y="1255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-18" value="TecentCloud &lt;br&gt;Log Service&lt;br&gt;(CLS)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="530" y="1355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-19" value="Tecent&lt;br&gt;Log Tank Service&lt;br&gt;（LTS）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="530" y="1455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-20" value="私有云" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-21" value="应用" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="470" y="700" width="50" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
