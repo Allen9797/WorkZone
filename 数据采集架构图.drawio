@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T06:47:37.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="47pHD5cX--p_FI2sADQY" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T08:18:08.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1XZwXYIQ_Tjmpwt1V82P" version="21.3.8" type="github">
   <diagram name="第 1 页" id="N1-KNFquu0YFQFn82y0o">
-    <mxGraphModel dx="794" dy="404" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="475" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-12" value="Log Adapter&lt;br&gt;(OpenTelmetry)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-14" target="Kcm9yG_U1b7y-MvVWpOY-12">
+        <mxCell id="Kcm9yG_U1b7y-MvVWpOY-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kcm9yG_U1b7y-MvVWpOY-14" target="Kcm9yG_U1b7y-MvVWpOY-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kcm9yG_U1b7y-MvVWpOY-27" value="Error 数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="Kcm9yG_U1b7y-MvVWpOY-13">
