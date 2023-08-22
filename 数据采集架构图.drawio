@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T08:49:28.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MjbrX5_9eLG-3CnI2kl2" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T08:52:02.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="joH0ubcfT5duM-oZ5ug7" version="21.6.6" type="github">
   <diagram name="第 1 页" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1323" dy="663" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,7 +255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-100" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="430" y="300" width="290" height="80" as="geometry" />
+          <mxGeometry x="430" y="300" width="310" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QkV-Cp4CuRcncDUJaHf6-59" value="Skywalking" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="Uf4ihw__WMp9rh9Pb5De-100" vertex="1">
           <mxGeometry y="10" width="120" height="60" as="geometry" />
@@ -268,6 +268,9 @@
             <mxPoint x="547" y="248" as="sourcePoint" />
             <mxPoint x="650" y="213" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Uf4ihw__WMp9rh9Pb5De-132" value="Bob" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;" vertex="1" parent="Uf4ihw__WMp9rh9Pb5De-100">
+          <mxGeometry x="-30" y="-30" width="340" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-101" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="81" width="360" height="130" as="geometry" />
@@ -381,7 +384,7 @@
           <mxGeometry x="920" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-125" value="Allen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="590" width="970" height="190" as="geometry" />
+          <mxGeometry x="330" y="590" width="980" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-126" value="Even" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="880" y="360" width="180" height="200" as="geometry" />
@@ -389,7 +392,7 @@
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-127" value="Even" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1160" y="210" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Uf4ihw__WMp9rh9Pb5De-128" value="Bob" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Uf4ihw__WMp9rh9Pb5De-128" value="书昊、Bob" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1060" y="460" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-129" value="Bob" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;" vertex="1" parent="1">
@@ -397,6 +400,15 @@
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-130" value="琳任、新的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1410" y="70" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf4ihw__WMp9rh9Pb5De-131" value="晓彬" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="900" y="70" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf4ihw__WMp9rh9Pb5De-133" value="Raymond" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="80" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf4ihw__WMp9rh9Pb5De-134" value="书昊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="900" y="620" width="400" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
