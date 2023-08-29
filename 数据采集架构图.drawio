@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T10:25:35.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9cmXjQTaCgxCuQKsEmqw" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T10:39:09.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="aUiunMWVsJHVqMA9DiS6" version="21.6.9" type="github" pages="2">
   <diagram name="第 1 页" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1774" dy="864" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -465,6 +465,35 @@
         </mxCell>
         <mxCell id="axlJpJIH7ohh_0OiFWJf-60" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Project&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="1620" y="182" width="69" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ElEL79qhTSs3qBUgYvSJ" name="第 2 页">
+    <mxGraphModel dx="1774" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wzn8WJlHbgpO-Zo9pZHe-2" value="OpenTelemetry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontColor=#FF3333;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" width="160" height="923" as="geometry" />
+        </mxCell>
+        <mxCell id="wzn8WJlHbgpO-Zo9pZHe-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;metric-api&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzn8WJlHbgpO-Zo9pZHe-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;log-api&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzn8WJlHbgpO-Zo9pZHe-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;meta-api&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzn8WJlHbgpO-Zo9pZHe-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Alter-api&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wzn8WJlHbgpO-Zo9pZHe-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CICD-api&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wzn8WJlHbgpO-Zo9pZHe-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;重要、紧急：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1. &lt;b&gt;Influx&lt;/b&gt; 是否能用，用哪个版本、哪些功能，数据是否会丢，坏了是否能重启&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;2. &lt;b&gt;采集端&lt;/b&gt;的统一格式：cronjob调度还是go调度、包结构以及SDK封装使用、培训&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;3. &lt;b&gt;skywalking&lt;/b&gt; 拉数据：指标、链路、日志&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;重要不紧急：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;5. &lt;b&gt;TraceId&lt;/b&gt; 关联 API&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;6. 网关 关联页面&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;不重要不紧急：&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;3&quot;&gt;4. ES 必须用的话，Mongo是不是可以切换到ES上了&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;7. 应用深入堆栈信息&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="211" y="370" width="590" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
