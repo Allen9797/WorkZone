@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T15:53:33.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3vkAhG-44X8hgOpLWWQl" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-29T16:03:07.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uvTFSZSgZ8WimQLA4JXN" version="21.6.9" type="github" pages="2">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1774" dy="864" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -458,7 +458,7 @@
           <mxGeometry x="1434" y="813" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69dbhkjmrjV_-nLnOfld-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1676" y="80" width="90" height="246" as="geometry" />
+          <mxGeometry x="1600" y="90" width="90" height="246" as="geometry" />
         </mxCell>
         <mxCell id="axlJpJIH7ohh_0OiFWJf-62" value="组件" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#A9C4EB;" vertex="1" parent="69dbhkjmrjV_-nLnOfld-1">
           <mxGeometry y="164" width="90" height="40" as="geometry" />
