@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T10:23:31.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sGYhFIK7myecLCJ5nATp" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T10:25:12.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SHwEszfY9nkp5gQNJUfF" version="21.6.9" type="github">
   <diagram name="第 1 页" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1774" dy="864" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="axlJpJIH7ohh_0OiFWJf-36" value="&lt;b&gt;&lt;font color=&quot;#ff9999&quot; style=&quot;font-size: 16px;&quot;&gt;监控应用集群&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;dashPattern=1 2;verticalAlign=top;horizontal=1;fontSize=14;shadow=1;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="176" width="1473" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="axlJpJIH7ohh_0OiFWJf-62" value="组件" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="288" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axlJpJIH7ohh_0OiFWJf-61" value="&lt;font color=&quot;#e6e6e6&quot;&gt;能力&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontStyle=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="244" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QkV-Cp4CuRcncDUJaHf6-42" value="One Adapter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1;arcSize=14;" parent="1" vertex="1">
           <mxGeometry x="339" y="40" width="441" height="880" as="geometry" />
@@ -456,6 +462,9 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="axlJpJIH7ohh_0OiFWJf-60" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Project&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="182" width="69" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
