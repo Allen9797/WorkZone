@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T06:28:19.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="e3Hccy7AhzqyxPgf0Dz7" version="21.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-01T06:28:56.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="czU6NQsauvM26lYdr-Mt" version="21.7.0" type="github" pages="2">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1774" dy="830" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,15 @@
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-73" value="Configuration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" parent="yH-I_deU1Ts9g914RF5G-14" vertex="1">
           <mxGeometry x="169" width="124" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="yH-I_deU1Ts9g914RF5G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yH-I_deU1Ts9g914RF5G-14" source="yH-I_deU1Ts9g914RF5G-20" target="yH-I_deU1Ts9g914RF5G-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yH-I_deU1Ts9g914RF5G-20" value="Cloud&lt;br&gt;Config" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="yH-I_deU1Ts9g914RF5G-14">
+          <mxGeometry x="190" y="405" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yH-I_deU1Ts9g914RF5G-21" value="Cloud Service" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FFFF;" vertex="1" parent="yH-I_deU1Ts9g914RF5G-14">
+          <mxGeometry x="20" y="410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-135" value="&lt;font color=&quot;#452ef5&quot;&gt;&lt;b&gt;Allen&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="363" y="370" width="1201" height="440" as="geometry" />
@@ -361,6 +370,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yH-I_deU1Ts9g914RF5G-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yH-I_deU1Ts9g914RF5G-9" target="Uf4ihw__WMp9rh9Pb5De-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yH-I_deU1Ts9g914RF5G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yH-I_deU1Ts9g914RF5G-9" target="yH-I_deU1Ts9g914RF5G-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yH-I_deU1Ts9g914RF5G-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
