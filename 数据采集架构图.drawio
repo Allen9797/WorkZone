@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T06:44:04.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kFECB891E7tTO3ywFWo4" version="21.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-01T06:44:15.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dQARkiXqUUfgm6p16Cyd" version="21.7.0" type="github" pages="2">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1774" dy="830" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="10" y="51" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="axlJpJIH7ohh_0OiFWJf-25" value="Skywalking" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF8595;" parent="yH-I_deU1Ts9g914RF5G-11" vertex="1">
-          <mxGeometry x="101" y="110" width="80" height="50" as="geometry" />
+          <mxGeometry x="99" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-66" value="&lt;b&gt;Metric Agent&lt;br&gt;Plugin&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yH-I_deU1Ts9g914RF5G-11" vertex="1">
           <mxGeometry x="11" y="9" width="79" height="30" as="geometry" />
