@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T05:53:59.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ROmodeo98RtGDdM5lAxq" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-19T08:46:00.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="r1_z5MoS7YLbxi1x6MBe" version="21.7.2" type="github" pages="3">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2389" dy="1999" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YtPBcmMmHd4DkpWPOoQg" name="第 3 页">
+  <diagram id="YtPBcmMmHd4DkpWPOoQg" name="采集架构">
     <mxGraphModel dx="3216" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -581,6 +581,17 @@
         </mxCell>
         <mxCell id="V6c60m8x6awT7QbHivlQ-1" value="App" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="-1601" y="-1031" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2eOjDk_vSsISpltEyAU6" name="采集项目目录">
+    <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T08SVvTdbtLM7ot-Di66-1" value="collector" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="610" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
