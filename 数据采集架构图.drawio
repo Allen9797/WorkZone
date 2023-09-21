@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T04:06:43.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EiE7Xoo0CWloB9-1xWeu" version="21.7.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-21T06:24:02.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FkVzdpfugyXvP_NLdT1e" version="21.7.2" type="github" pages="4">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2665" dy="2145" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -606,8 +606,8 @@
         <mxCell id="T08SVvTdbtLM7ot-Di66-37" value="main" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="60" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LO7CbdOpUDHf_iZm1wpm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ENV FUNCTION 控制&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="55" width="170" height="50" as="geometry" />
+        <mxCell id="LO7CbdOpUDHf_iZm1wpm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ENV FUNCTION 控制&lt;br&gt;启动exporter, api 还是 cronjob&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="55" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -743,7 +743,7 @@
             <mxPoint x="310" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YDf2Bj9Vn7H24FSmLvet-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="YDf2Bj9Vn7H24FSmLvet-18" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YDf2Bj9Vn7H24FSmLvet-21" value="es" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#A9C4EB;" vertex="1" parent="1">
