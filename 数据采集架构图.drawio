@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T03:26:12.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mU62Nz70oxAhqBL4UWu1" version="21.7.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-22T03:36:21.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="w_iteItQN-niRIz7RD5R" version="21.7.2" type="github" pages="4">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2914" dy="2185" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -682,7 +682,7 @@
           <mxGeometry x="1170" y="1362" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mpQ7ECvcLg0SLpvPckab-2" value="1. 根据用户配置，启动若干个对应的 collector (deployment)，负责向数据源查数并返回给exporter&lt;br&gt;&lt;br&gt;2. prometheus 的 scrape config 控制按照一定时间间隔 从 exporter 拿数据&lt;br&gt;&lt;br&gt;3. exporter 则到不同的 collector 上要数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="932" width="320" height="140" as="geometry" />
+          <mxGeometry x="850" y="932" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="laS5npC69qBM7cNcd-Nc-4" value="exporter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="417" y="1332" width="120" height="60" as="geometry" />
@@ -739,7 +739,7 @@
           <mxGeometry x="10" y="1212" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkvTusG9Keb5ujc12jsV-2" value="1. 梳理代码、schema 定义、指标定义，按照模块整合，配置、启动设计，节前&lt;br&gt;&lt;br&gt;2. 阿里云 dev pd，2周&lt;br&gt;&lt;br&gt;3. 亚马逊 demo，2周" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="932" width="320" height="140" as="geometry" />
+          <mxGeometry x="1210" y="920" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ZkvTusG9Keb5ujc12jsV-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZkvTusG9Keb5ujc12jsV-7" target="ZkvTusG9Keb5ujc12jsV-11">
           <mxGeometry relative="1" as="geometry" />
@@ -889,6 +889,12 @@
         </mxCell>
         <mxCell id="dgqV7D723ngrnINFuLhB-2" value="CloudOperator" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="858" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xQ1OYMCeHs27jiuqnk2-1" value="Question: 是否要合成1个exporter&lt;br&gt;1. 如果有多个采集源，单个exporter会变得很重&lt;br&gt;2. 如果某个采集任务很大，OOM或者fatal 都会导致其他任务全部采集失败&lt;br&gt;3. 通常采集源就2个，应用1个，中间件1个" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="942" width="320" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="-xQ1OYMCeHs27jiuqnk2-2" value="Question：collector 有哪些，哪些重要，哪些优先&lt;br&gt;1. 阿里先 AWS后&lt;br&gt;2. 云监控和arms 是否可以试试&lt;br&gt;3. alicloud, cloudwatch-exporter 能不能用&lt;br&gt;3. skywalking, optl 重要，dynatrace 不重要" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="724" width="320" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
