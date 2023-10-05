@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T16:01:26.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="UiZka-ZwwXeq7niZTPad" version="22.0.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-05T16:02:03.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CsB847im1x_33_GW2810" version="22.0.0" type="github" pages="6">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="1861" dy="1601" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1007,7 +1007,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YtPBcmMmHd4DkpWPOoQg" name="demo采集架构">
-    <mxGraphModel dx="2900" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2448" dy="1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1018,7 +1018,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V6c60m8x6awT7QbHivlQ-1" value="App" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1601" y="-1090" width="100" height="40" as="geometry" />
+          <mxGeometry x="-1601" y="-1090" width="91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isOZnnhPqQ8gNcQo2lXh-2" value="&lt;b&gt;&lt;font color=&quot;#ff9999&quot; style=&quot;font-size: 16px;&quot;&gt;监控应用集群&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;dashPattern=1 2;verticalAlign=top;horizontal=1;fontSize=14;shadow=1;strokeColor=#6c8ebf;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="-1290" y="-1154" width="370" height="544" as="geometry" />
