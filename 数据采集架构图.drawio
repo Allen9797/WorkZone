@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T10:23:44.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="pYCiV-6-AIGpyJh3J9Nn" version="22.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-10T10:23:50.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jDftaZFWIQIvMn_6eogE" version="22.0.4" type="github" pages="6">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2389" dy="1999" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -515,12 +515,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2eOjDk_vSsISpltEyAU6" name="采集代码结构">
-    <mxGraphModel dx="2389" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;opacity=20;" vertex="1" parent="1">
-          <mxGeometry x="-3" y="110" width="823" height="1050" as="geometry" />
+          <mxGeometry y="110" width="820" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;opacity=20;" vertex="1" parent="1">
           <mxGeometry width="820" height="110" as="geometry" />
