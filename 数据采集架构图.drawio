@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T10:31:06.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lP0x8cOznGvyfOSJsU0N" version="22.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-10T10:31:27.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DNTTB2hqCI9QkeBx3w9i" version="22.0.4" type="github" pages="6">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2389" dy="1999" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -526,19 +526,19 @@
           <mxGeometry x="6" width="820" height="160" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-1" value="pkg" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=none;fontSize=16;glass=0;shadow=0;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="63" y="340" width="743" height="800" as="geometry" />
+          <mxGeometry x="63" y="320" width="743" height="800" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-2" value="collector&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="100" y="600" width="683" height="170" as="geometry" />
+          <mxGeometry x="100" y="580" width="683" height="170" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-6" value="exporter&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;给普罗提供服务&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;普罗来拉数据&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="100" y="475" width="683" height="110" as="geometry" />
+          <mxGeometry x="100" y="455" width="683" height="110" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-7" value="api&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="100" y="370" width="683" height="90" as="geometry" />
+          <mxGeometry x="100" y="350" width="683" height="90" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-9" value="Application Metric&lt;br&gt;Collector&lt;br&gt;（开发中）" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="203" y="625" width="150" height="70" as="geometry" />
+          <mxGeometry x="203" y="605" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T08SVvTdbtLM7ot-Di66-13" target="T08SVvTdbtLM7ot-Di66-9">
           <mxGeometry relative="1" as="geometry" />
@@ -550,19 +550,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-13" value="exporter&lt;br&gt;server" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="418" y="495" width="120" height="70" as="geometry" />
+          <mxGeometry x="418" y="475" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-30" value="MidWare&lt;br&gt;Collector&lt;br&gt;（开发中）" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="403" y="625" width="150" height="70" as="geometry" />
+          <mxGeometry x="403" y="605" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-31" value="Gateway&lt;br&gt;Collector&lt;br&gt;（未开始）" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="593" y="625" width="150" height="70" as="geometry" />
+          <mxGeometry x="593" y="605" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;待加入代码...&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="203" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="203" y="380" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="183" y="810" width="600" height="290" as="geometry" />
+          <mxGeometry x="183" y="790" width="600" height="290" as="geometry" />
         </mxCell>
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-3" value="" style="group" vertex="1" connectable="0" parent="DKFtuOR1Hx7DEoc6FV8Z-2">
           <mxGeometry width="600" height="290" as="geometry" />
@@ -648,7 +648,7 @@
           <mxGeometry x="456" y="35" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-23" value="cronjobs 脚本" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="203" y="720" width="147" height="30" as="geometry" />
+          <mxGeometry x="203" y="700" width="147" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
