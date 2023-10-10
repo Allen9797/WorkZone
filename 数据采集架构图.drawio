@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T10:26:34.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6u8nwMonnUKvhSEvz_f6" version="22.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-10T10:26:50.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4OvJFYuqyL-PdNoeuQCB" version="22.0.4" type="github" pages="6">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2389" dy="1999" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -515,7 +515,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2eOjDk_vSsISpltEyAU6" name="采集代码结构">
-    <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2389" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,7 +612,7 @@
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-7" value="main" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="267" y="240" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-9" value="deploy" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=none;fontSize=16;glass=0;shadow=0;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-9" value="多个&lt;br&gt;deployment&lt;br&gt;文件" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=none;fontSize=16;glass=0;shadow=0;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="60" y="15" width="743" height="135" as="geometry" />
         </mxCell>
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;通过 ENV FUNCTION 控制&lt;br&gt;启动 exporter, api 还是 cronjob&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
