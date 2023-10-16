@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T10:47:46.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4fHDSWuq4V_MISyktZUT" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-16T02:07:30.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="paXam5u2_m4pRAe2eFAN" version="22.0.4" type="github" pages="5">
   <diagram name="sre-product" id="N1-KNFquu0YFQFn82y0o">
-    <mxGraphModel dx="1861" dy="1567" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2629" dy="1999" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
         <mxCell id="yH-I_deU1Ts9g914RF5G-6" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-770" y="-310" width="1524" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Uf4ihw__WMp9rh9Pb5De-125" value="Bob&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;fontStyle=1" parent="yH-I_deU1Ts9g914RF5G-6" vertex="1">
+        <mxCell id="Uf4ihw__WMp9rh9Pb5De-125" value="Bob、Keyman&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;verticalAlign=top;horizontal=1;fontSize=14;fontStyle=1" parent="yH-I_deU1Ts9g914RF5G-6" vertex="1">
           <mxGeometry x="323" y="-10" width="1201" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Uf4ihw__WMp9rh9Pb5De-154" value="&lt;font color=&quot;#e6e6e6&quot;&gt;模块：日志摘要&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontStyle=1;strokeColor=#FFFFFF;" parent="yH-I_deU1Ts9g914RF5G-6" vertex="1">
@@ -514,15 +514,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2eOjDk_vSsISpltEyAU6" name="采集代码结构">
-    <mxGraphModel dx="1861" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="2eOjDk_vSsISpltEyAU6" name="Metrics代码结构">
+    <mxGraphModel dx="2389" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="6" y="160" width="820" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;opacity=20;" parent="1" vertex="1">
+        <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="6" width="820" height="160" as="geometry" />
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-1" value="pkg" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=none;fontSize=16;glass=0;shadow=0;arcSize=10;" parent="1" vertex="1">
@@ -659,8 +659,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Ec9T0s0rE6t-ajbXfpiq" name="Exporter">
-    <mxGraphModel dx="794" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Ec9T0s0rE6t-ajbXfpiq" name="Exporter采集逻辑">
+    <mxGraphModel dx="1802" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -770,8 +770,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oxZiz7XkhbKZf6CNxiNW" name="采集架构">
-    <mxGraphModel dx="794" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="oxZiz7XkhbKZf6CNxiNW" name="采集能力">
+    <mxGraphModel dx="1802" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -976,7 +976,7 @@
         <mxCell id="ZkvTusG9Keb5ujc12jsV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZkvTusG9Keb5ujc12jsV-28" target="ZkvTusG9Keb5ujc12jsV-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZkvTusG9Keb5ujc12jsV-28" value="dynatrace&lt;br&gt;collector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFB570;" parent="1" vertex="1">
+        <mxCell id="ZkvTusG9Keb5ujc12jsV-28" value="dynatrace&lt;br&gt;collector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#9AC7BF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1095" y="242" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZ4p0urcBumgUh6IN8hF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZkvTusG9Keb5ujc12jsV-59" target="WZ4p0urcBumgUh6IN8hF-5" edge="1">
@@ -1048,7 +1048,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YtPBcmMmHd4DkpWPOoQg" name="demo采集架构">
-    <mxGraphModel dx="2448" dy="1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3456" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1075,16 +1075,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V6c60m8x6awT7QbHivlQ-2" value="otel agent" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="V6c60m8x6awT7QbHivlQ-2" value="skywalking agent 9.0.0" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="-1603.3596118859914" y="-1023" width="96.42207398423287" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V6c60m8x6awT7QbHivlQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="V6c60m8x6awT7QbHivlQ-7" target="V6c60m8x6awT7QbHivlQ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V6c60m8x6awT7QbHivlQ-7" value="collector" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FFFF;" parent="1" vertex="1">
+        <mxCell id="V6c60m8x6awT7QbHivlQ-7" value="skywalking&lt;br&gt;oap server" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FFFF;" parent="1" vertex="1">
           <mxGeometry x="-1603.3596118859914" y="-953" width="96.42207398423287" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V6c60m8x6awT7QbHivlQ-8" value="prometheus" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FFFF;" parent="1" vertex="1">
+        <mxCell id="V6c60m8x6awT7QbHivlQ-8" value="progQL" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FFFF;" parent="1" vertex="1">
           <mxGeometry x="-1603.3596118859914" y="-883" width="96.42207398423287" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQJfXipxoIyCzzywGdhT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="V6c60m8x6awT7QbHivlQ-9" target="V6c60m8x6awT7QbHivlQ-22" edge="1">
