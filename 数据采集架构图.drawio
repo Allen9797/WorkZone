@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T03:47:48.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4UxTxEFGHMNHWIHY-fy4" version="22.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-15T03:48:14.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2BKWE3ybCfacsa2lPGaz" version="22.1.0" type="github" pages="6">
   <diagram name="产品开发规划" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2629" dy="1987" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1191,13 +1191,13 @@
         <mxCell id="acCZ6INw-6RC2M_AizDp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acCZ6INw-6RC2M_AizDp-8" target="acCZ6INw-6RC2M_AizDp-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acCZ6INw-6RC2M_AizDp-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;如果代码不健康&lt;br&gt;(大量报exception)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="acCZ6INw-6RC2M_AizDp-8" value="&lt;span style=&quot;&quot;&gt;如果代码不健康&lt;br&gt;(大量报exception)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="455.22" y="142" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-14" value="&lt;span style=&quot;&quot;&gt;Exception 分析：&lt;br&gt;前5多的告警在哪个方法栈 第几行上，展示1个实例&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655.22" y="137" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="acCZ6INw-6RC2M_AizDp-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;中间件不健康&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="acCZ6INw-6RC2M_AizDp-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;中间件不健康&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="455.22" y="406" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acCZ6INw-6RC2M_AizDp-54" target="acCZ6INw-6RC2M_AizDp-23">
@@ -1233,13 +1233,13 @@
         <mxCell id="acCZ6INw-6RC2M_AizDp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acCZ6INw-6RC2M_AizDp-28" target="acCZ6INw-6RC2M_AizDp-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acCZ6INw-6RC2M_AizDp-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;VM 红了&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="455.22" y="536" width="120" height="60" as="geometry" />
+        <mxCell id="acCZ6INw-6RC2M_AizDp-28" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;VM 红了&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="455.22" y="525.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acCZ6INw-6RC2M_AizDp-37" target="acCZ6INw-6RC2M_AizDp-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acCZ6INw-6RC2M_AizDp-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;大量返回 5xx&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="acCZ6INw-6RC2M_AizDp-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;大量返回 5xx&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="455.22" y="226" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-38" value="&lt;span style=&quot;&quot;&gt;根据 trace 找到&lt;br&gt;第一个5xx，大量出现在哪个下游api&lt;br&gt;(深度优先)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1252,18 +1252,18 @@
           <mxGeometry x="50" y="160" width="170.55" height="128" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-44" value="堆空间分析&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="656.22" y="500.25" width="120" height="40" as="geometry" />
+          <mxGeometry x="656.22" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-45" value="gc&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="656.22" y="545.75" width="120" height="40" as="geometry" />
+          <mxGeometry x="656.22" y="535.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-46" value="线程数&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="656.22" y="592.75" width="120" height="40" as="geometry" />
+          <mxGeometry x="656.22" y="582.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="acCZ6INw-6RC2M_AizDp-50" target="acCZ6INw-6RC2M_AizDp-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acCZ6INw-6RC2M_AizDp-50" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;latency 比&lt;br&gt;均值高1倍以上&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="acCZ6INw-6RC2M_AizDp-50" value="&lt;span style=&quot;&quot;&gt;latency 比&lt;br&gt;均值高1倍以上&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="455.22" y="312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="acCZ6INw-6RC2M_AizDp-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="acCZ6INw-6RC2M_AizDp-51" target="acCZ6INw-6RC2M_AizDp-54">
