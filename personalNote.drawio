@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T09:00:52.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kgoggN2R6qRFJVUz_HNi" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-09T09:01:03.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5b40zUN3Nr2NwZK5fwfN" version="22.1.7" type="github" pages="2">
   <diagram name="第 1 页" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,10 +50,10 @@
           <mxGeometry x="50" y="220" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OLXgDvLFEpSDpQCb60n3-1" value="外企 / 金融" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry y="385" width="360" height="210" as="geometry" />
+          <mxGeometry y="400" width="360" height="165" as="geometry" />
         </mxCell>
         <mxCell id="OLXgDvLFEpSDpQCb60n3-2" value="互联网" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry y="635" width="360" height="150" as="geometry" />
+          <mxGeometry y="595" width="360" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OLXgDvLFEpSDpQCb60n3-3" value="资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="425" width="70" height="40" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry x="230" y="425" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OLXgDvLFEpSDpQCb60n3-5" value="技术" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="75" y="690" width="70" height="40" as="geometry" />
+          <mxGeometry x="75" y="650" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OLXgDvLFEpSDpQCb60n3-6" value="钱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="205" y="690" width="70" height="40" as="geometry" />
+          <mxGeometry x="205" y="650" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OLXgDvLFEpSDpQCb60n3-7" value="people sklils" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="497.5" width="70" height="40" as="geometry" />
