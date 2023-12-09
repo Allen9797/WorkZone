@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T08:56:26.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="10oz_WqS5MzSOoRcVv5M" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-09T08:56:59.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hpKe8YRerlkjNSqTT-qc" version="22.1.7" type="github" pages="2">
   <diagram name="第 1 页" id="_Za5BC0m-HuaRFZVXyjK">
-    <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="hfD9s6qf3FZ00KF--jr7-18" value="需要被尊重" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hfD9s6qf3FZ00KF--jr7-19" value="me" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hfD9s6qf3FZ00KF--jr7-19" value="me" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hfD9s6qf3FZ00KF--jr7-25" value="1. 给老板细节&lt;br&gt;2. 给老板feature&lt;br&gt;3. 给师傅 尊重和安全，不超车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -46,20 +46,23 @@
         <mxCell id="hfD9s6qf3FZ00KF--jr7-26" value="1. 所以我给idea bob 合作实现，可以获得一定的支持，但实现出来的东西质量有问题&lt;br&gt;2. 还是我出 idea 直接给领导报，自己+外包来实现，跑师傅前。工资高了但跑了对团队更伤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="430" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HuFOhS0qRHia55EcjtAD-1" value="钱" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HuFOhS0qRHia55EcjtAD-1" value="钱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="70" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HuFOhS0qRHia55EcjtAD-2" value="技术" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HuFOhS0qRHia55EcjtAD-2" value="技术" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="70" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HuFOhS0qRHia55EcjtAD-3" value="people sklils" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HuFOhS0qRHia55EcjtAD-3" value="people sklils" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="240" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OLXgDvLFEpSDpQCb60n3-1" value="外企 / 金融" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="OLXgDvLFEpSDpQCb60n3-1" value="外企 / 金融" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="580" y="360" width="360" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="OLXgDvLFEpSDpQCb60n3-2" value="互联网" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="OLXgDvLFEpSDpQCb60n3-2" value="互联网" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="580" y="690" width="360" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="OLXgDvLFEpSDpQCb60n3-3" value="资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
