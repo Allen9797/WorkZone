@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T09:43:55.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rYFbXR6gs5Y2ex0sndBu" version="22.1.7" type="github" pages="2">
-  <diagram name="第 1 页" id="_Za5BC0m-HuaRFZVXyjK">
+<mxfile host="app.diagrams.net" modified="2023-12-09T09:44:44.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zKYee1eGKIQY6cSTsZ5t" version="22.1.7" type="github" pages="2">
+  <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -7,8 +7,16 @@
         <mxCell id="OLXgDvLFEpSDpQCb60n3-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfD9s6qf3FZ00KF--jr7-19" target="OLXgDvLFEpSDpQCb60n3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qPP_2EEAZNo1Kc6QX6nm-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hfD9s6qf3FZ00KF--jr7-19" target="OLXgDvLFEpSDpQCb60n3-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPP_2EEAZNo1Kc6QX6nm-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfD9s6qf3FZ00KF--jr7-19" target="OLXgDvLFEpSDpQCb60n3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hfD9s6qf3FZ00KF--jr7-19" value="me" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="390" y="135" width="80" height="45" as="geometry" />
+          <mxGeometry x="431.5" y="137.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="OLXgDvLFEpSDpQCb60n3-1" value="外企 / 金融" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry y="42.5" width="360" height="165" as="geometry" />
