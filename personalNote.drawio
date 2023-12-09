@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T08:58:02.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LXg4Y1kVs5nKTFnr89Ce" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-09T08:58:16.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="f4rEr-WVk5VTQtkn041s" version="22.1.7" type="github" pages="2">
   <diagram name="第 1 页" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="OLXgDvLFEpSDpQCb60n3-6" value="钱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="690" y="770" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OLXgDvLFEpSDpQCb60n3-7" value="people sklils" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBorderColor=default;" vertex="1" parent="1">
+        <mxCell id="OLXgDvLFEpSDpQCb60n3-7" value="people sklils" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="480" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
