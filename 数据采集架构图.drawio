@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T09:14:25.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="22wKlKj8oNmFlpws3jm_" version="22.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-09T09:15:31.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Wn-f9GKAg69-fxRnveym" version="22.1.7" type="github" pages="6">
   <diagram name="产品开发规划" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2389" dy="1987" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -892,7 +892,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2eOjDk_vSsISpltEyAU6" name="Metrics代码结构">
-    <mxGraphModel dx="1621" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2389" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -934,9 +934,6 @@
         </mxCell>
         <mxCell id="T08SVvTdbtLM7ot-Di66-31" value="Gateway&lt;br&gt;Collector&lt;br&gt;（未开始）" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="593" y="605" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;待加入代码...&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="203" y="380" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="183" y="790" width="600" height="290" as="geometry" />
@@ -1033,11 +1030,20 @@
         <mxCell id="DKFtuOR1Hx7DEoc6FV8Z-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;OpsPilot (sre-product/metrics)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7ZIEkSzj37qf8GirvqWF-1" value="handlers" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="424.5" y="360" width="107" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZIEkSzj37qf8GirvqWF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ZIEkSzj37qf8GirvqWF-2" target="7ZIEkSzj37qf8GirvqWF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZIEkSzj37qf8GirvqWF-2" value="router" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="224.5" y="370" width="55.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Ec9T0s0rE6t-ajbXfpiq" name="Exporter采集逻辑">
-    <mxGraphModel dx="794" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
