@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T09:01:03.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5b40zUN3Nr2NwZK5fwfN" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-09T09:09:28.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Jsd9L3yoB2KHCAGEcYTN" version="22.1.7" type="github" pages="2">
   <diagram name="第 1 页" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,11 +37,11 @@
         <mxCell id="hfD9s6qf3FZ00KF--jr7-18" value="需要被尊重" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OLXgDvLFEpSDpQCb60n3-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfD9s6qf3FZ00KF--jr7-19" target="OLXgDvLFEpSDpQCb60n3-6">
+        <mxCell id="OLXgDvLFEpSDpQCb60n3-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfD9s6qf3FZ00KF--jr7-19" target="OLXgDvLFEpSDpQCb60n3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hfD9s6qf3FZ00KF--jr7-19" value="me" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="410" y="570" width="80" height="45" as="geometry" />
+          <mxGeometry x="414" y="550" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="hfD9s6qf3FZ00KF--jr7-25" value="1. 给老板细节&lt;br&gt;2. 给老板feature&lt;br&gt;3. 给师傅 尊重和安全，不超车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="309" y="220" width="210" height="58" as="geometry" />
@@ -84,6 +84,9 @@
             <mxPoint x="-50" y="623" as="sourcePoint" />
             <mxPoint x="240" y="548" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OLXgDvLFEpSDpQCb60n3-13" value="上海" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="411.25" width="200" height="212.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
