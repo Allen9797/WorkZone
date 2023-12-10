@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T16:35:37.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NBvBKyxYVk2xHmV1DUtH" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-10T16:36:08.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tKcmNmwjzs4Gs98i3P6n" version="22.1.7" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1591" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,10 @@
           <mxGeometry x="590" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-21" value="缺产品思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iI42hL9nlT6waoNLentD-22" value="缺商业思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1365" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
