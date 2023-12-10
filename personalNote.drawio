@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T06:48:17.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-8hOU7lHPYrzQo9-HGeC" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-10T06:49:21.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="srnoVfmPiKwK_vOIenhk" version="22.1.7" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1591" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -632,14 +632,20 @@
         <mxCell id="bdhlfZGknmGxe3uAW_oA-46" value="和团队合作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="870" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bdhlfZGknmGxe3uAW_oA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdhlfZGknmGxe3uAW_oA-48" target="bdhlfZGknmGxe3uAW_oA-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdhlfZGknmGxe3uAW_oA-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdhlfZGknmGxe3uAW_oA-48" target="bdhlfZGknmGxe3uAW_oA-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-48" value="低调做人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="810" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-50" value="表达诉求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="895" width="110" height="40" as="geometry" />
+          <mxGeometry x="590" y="895" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-51" value="解决冲突" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="965" width="110" height="40" as="geometry" />
+          <mxGeometry x="590" y="965" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdhlfZGknmGxe3uAW_oA-52" target="bdhlfZGknmGxe3uAW_oA-50">
           <mxGeometry relative="1" as="geometry" />
@@ -649,6 +655,12 @@
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-52" value="高调做事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="930" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdhlfZGknmGxe3uAW_oA-57" value="让别人舒服、优越" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdhlfZGknmGxe3uAW_oA-58" value="自己无关 不反驳" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="840" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
