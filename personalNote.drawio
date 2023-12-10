@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T17:10:44.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="71kX2J-eQtWXuhHYAIbS" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-10T17:11:07.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oPQ9h7_b194hOK9yKAsP" version="22.1.7" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1591" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
             <mxPoint x="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBnAQJLOYmkoz17C5Cmz-31" value="财政 赤字" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="cBnAQJLOYmkoz17C5Cmz-31" value="财政巨量赤字" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="268" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cBnAQJLOYmkoz17C5Cmz-35" value="新兴经济体&lt;br&gt;利率 ↑&lt;br&gt;货币 ↑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
