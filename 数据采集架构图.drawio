@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T07:05:48.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vBWURzH_AkXLL8l7uv3p" version="22.1.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:06:42.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PFS-EbK-yM8xUi2zZ_Ky" version="22.1.8" type="github" pages="6">
   <diagram name="产品开发规划" id="N1-KNFquu0YFQFn82y0o">
-    <mxGraphModel dx="1861" dy="1589" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2629" dy="1987" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1381,7 +1381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YsxlYxn5tDEWWijfXneE" name="feature 分析">
-    <mxGraphModel dx="1246" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1802" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
