@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T16:08:44.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TMLNIngOaT-rpRSdZOHZ" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-16T16:09:10.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="C5_hpU_7I9OxkLkzYZav" version="22.1.11" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
           <mxGeometry x="770" y="1365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-1" value="董明珠" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1250" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-2" target="LIeJfnNFxMBDTcxbPeIF-3">
           <mxGeometry relative="1" as="geometry" />
@@ -287,17 +287,17 @@
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-2" target="LIeJfnNFxMBDTcxbPeIF-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-2" value="封建奴隶思想" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-2" value="封建奴隶主思想" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-3" target="LIeJfnNFxMBDTcxbPeIF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-3" value="要奴才" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1250" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-4" value="俞敏洪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1420" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-5" target="LIeJfnNFxMBDTcxbPeIF-8">
           <mxGeometry relative="1" as="geometry" />
@@ -306,28 +306,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-5" value="权力平衡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="168" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="168" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-8" target="LIeJfnNFxMBDTcxbPeIF-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-8" value="要忠心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-9" target="LIeJfnNFxMBDTcxbPeIF-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-9" value="要勤奋" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-12" value="听我指挥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-12" value="2. 听我指挥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-13" value="不能谋我的" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-13" value="1. 不能谋我的" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-14" value="积极为我&lt;br&gt;创造价值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-14" value="3. 积极为我&lt;br&gt;创造价值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
