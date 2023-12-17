@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T16:09:10.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="C5_hpU_7I9OxkLkzYZav" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-17T15:24:28.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oQ7Qxmy9UG5Kkjr7QfzK" version="22.1.11" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,10 +100,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gGbQv3ZM4eX6M6ayhFO-" name="职场">
-    <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-21" target="LIeJfnNFxMBDTcxbPeIF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-21" target="LIeJfnNFxMBDTcxbPeIF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="290" width="540" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="I9nXeq7taqKS-i8R0qpw-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaQP5pOw3-lSJj2iyBlf-1" target="I9nXeq7taqKS-i8R0qpw-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -198,7 +207,7 @@
           <mxGeometry x="590" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oe_9tONIF1Sl8x2S5foM-12" value="1. 给老板细节&lt;br&gt;2. 给老板feature&lt;br&gt;3. 给师傅 尊重和安全，不超车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="750" y="170" width="210" height="58" as="geometry" />
+          <mxGeometry x="540" y="420" width="210" height="58" as="geometry" />
         </mxCell>
         <mxCell id="oe_9tONIF1Sl8x2S5foM-13" value="1. 所以我给idea bob 合作实现，可以获得一定的支持，但实现出来的东西质量有问题&lt;br&gt;2. 还是我出 idea 直接给领导报，自己+外包来实现，跑师傅前。工资高了但跑了对团队更伤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="775" width="210" height="90" as="geometry" />
@@ -243,7 +252,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-3" value="缺点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="1161" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-10" value="细心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="860" width="120" height="60" as="geometry" />
@@ -255,10 +264,10 @@
           <mxGeometry x="590" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-18" value="逻辑差" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="1169" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-19" value="算法一般" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1161" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iI42hL9nlT6waoNLentD-20" target="iI42hL9nlT6waoNLentD-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -267,13 +276,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-20" value="技术脑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-21" value="缺产品思维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="1295" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="1206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iI42hL9nlT6waoNLentD-22" value="缺商业思维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="1365" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="1276" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-1" value="董明珠" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1250" y="40" width="120" height="60" as="geometry" />
@@ -293,7 +302,7 @@
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-3" target="LIeJfnNFxMBDTcxbPeIF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-3" value="要奴才" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-3" value="要奴才" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1250" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-4" value="俞敏洪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -311,23 +320,29 @@
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-8" target="LIeJfnNFxMBDTcxbPeIF-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-8" value="要忠心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-8" value="要忠心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1090" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LIeJfnNFxMBDTcxbPeIF-9" target="LIeJfnNFxMBDTcxbPeIF-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-9" value="要勤奋" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-9" value="要勤奋" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1410" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-12" value="2. 听我指挥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-12" value="2. 听我指挥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1250" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-13" value="1. 不能谋我的" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-13" value="1. 不能谋我的" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1090" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LIeJfnNFxMBDTcxbPeIF-14" value="3. 积极为我&lt;br&gt;创造价值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-14" value="3. 积极为我&lt;br&gt;创造价值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1410" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-22" value="员工吭哧吭哧干&lt;br&gt;喝剩下的汤" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="860" y="448" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LIeJfnNFxMBDTcxbPeIF-23" value="老板在家里躺&lt;br&gt;自己至少拿一半&lt;br&gt;骨干拿25%" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="860" y="323" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
