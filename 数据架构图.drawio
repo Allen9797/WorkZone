@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T07:23:01.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GXW3mnW-f-BVPrTCjgzH" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-18T07:29:10.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NDx-dJR5UgrGT8dUYncL" version="22.1.11" type="github" pages="4">
   <diagram name="私有化产品结构" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2629" dy="1987" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1230,7 +1230,7 @@
         <mxCell id="ow6n6_uc6pdh3lhoSMPX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ow6n6_uc6pdh3lhoSMPX-16" target="ow6n6_uc6pdh3lhoSMPX-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ow6n6_uc6pdh3lhoSMPX-16" value="prometheus" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;fontSize=16;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ow6n6_uc6pdh3lhoSMPX-16" value="自己的 prometheus" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;fontSize=16;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="65" y="520" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ow6n6_uc6pdh3lhoSMPX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ow6n6_uc6pdh3lhoSMPX-16" target="ow6n6_uc6pdh3lhoSMPX-14" edge="1">
@@ -1384,17 +1384,17 @@
         <mxCell id="1qLoWi4C-hex53rzBxLp-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;配置&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="20" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1qLoWi4C-hex53rzBxLp-2" value="skywalking" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1qLoWi4C-hex53rzBxLp-2" value="skywalking" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;fontSize=16;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="635" y="430" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1qLoWi4C-hex53rzBxLp-3" value="promtheus" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1qLoWi4C-hex53rzBxLp-3" value="用户的 promtheus" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;fontSize=16;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="635" y="490" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1qLoWi4C-hex53rzBxLp-4" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;采集部署&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. 安装好 prometheus 配置 4个固定的 scrape 的 svc 地址&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. 拉起 4个 exporter (deployment)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3. 用户来配置采集源（skywalking, prometheus 地址）&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="470" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1qLoWi4C-hex53rzBxLp-5" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;页面部署&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. 拉起 sre-metric 项目，sre-metric 项目&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. 配置 promtheus 数据源&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="760" width="470" height="120" as="geometry" />
+          <mxGeometry x="46" y="765" width="350" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
