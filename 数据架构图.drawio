@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T07:29:10.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NDx-dJR5UgrGT8dUYncL" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-18T07:31:28.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LN3WekfEQ0kRTncE1k5d" version="22.1.11" type="github" pages="4">
   <diagram name="私有化产品结构" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2629" dy="1987" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1221,8 +1221,14 @@
             <mxPoint x="395" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1qLoWi4C-hex53rzBxLp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ow6n6_uc6pdh3lhoSMPX-13" target="1qLoWi4C-hex53rzBxLp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ow6n6_uc6pdh3lhoSMPX-13" value="APM Collector" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="395" y="430" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1qLoWi4C-hex53rzBxLp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ow6n6_uc6pdh3lhoSMPX-14" target="1qLoWi4C-hex53rzBxLp-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ow6n6_uc6pdh3lhoSMPX-14" value="Midware Collector" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="396" y="490" width="150" height="40" as="geometry" />
@@ -1246,14 +1252,17 @@
         <mxCell id="ow6n6_uc6pdh3lhoSMPX-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ow6n6_uc6pdh3lhoSMPX-27" target="ow6n6_uc6pdh3lhoSMPX-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ow6n6_uc6pdh3lhoSMPX-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3.配置&amp;nbsp;Datasource&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;指定exporter拉的对象&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="391" y="280" width="160" height="50" as="geometry" />
+        <mxCell id="ow6n6_uc6pdh3lhoSMPX-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3.配置&amp;nbsp;Datasource&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;指定 exporter 拉的对象&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="386" y="280" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ow6n6_uc6pdh3lhoSMPX-45" value="Trace Collector" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="1500" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ow6n6_uc6pdh3lhoSMPX-47" value="Log Collector" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="396" y="550" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1qLoWi4C-hex53rzBxLp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ow6n6_uc6pdh3lhoSMPX-48" target="1qLoWi4C-hex53rzBxLp-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ow6n6_uc6pdh3lhoSMPX-48" value="Trace Collector" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;fontSize=16;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="396" y="610" width="150" height="40" as="geometry" />
@@ -1390,11 +1399,14 @@
         <mxCell id="1qLoWi4C-hex53rzBxLp-3" value="用户的 promtheus" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;fontSize=16;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="635" y="490" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1qLoWi4C-hex53rzBxLp-4" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;采集部署&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. 安装好 prometheus 配置 4个固定的 scrape 的 svc 地址&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. 拉起 4个 exporter (deployment)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3. 用户来配置采集源（skywalking, prometheus 地址）&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="470" height="150" as="geometry" />
+        <mxCell id="1qLoWi4C-hex53rzBxLp-4" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;采集部署&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. 安装好 prometheus 配置 4个固定的 scrape 的 svc 地址&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. 拉起 4个 exporter (deployment)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3. 用户来配置采集源（skywalking, prometheus 地址）&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4. prometheus 有数据 &lt;b&gt;√&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="470" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="1qLoWi4C-hex53rzBxLp-5" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;页面部署&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. 拉起 sre-metric 项目，sre-metric 项目&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. 配置 promtheus 数据源&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="46" y="765" width="350" height="120" as="geometry" />
+        <mxCell id="1qLoWi4C-hex53rzBxLp-5" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;页面部署&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. 拉起 sre-metric 项目，sre-metric 项目&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. 配置 promtheus 数据源&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3. 页面有数据 &lt;b&gt;√&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="46" y="765" width="350" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="1qLoWi4C-hex53rzBxLp-8" value="skywalking" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;fontSize=16;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="635" y="610" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
