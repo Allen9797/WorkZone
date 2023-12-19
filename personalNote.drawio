@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T15:55:00.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="twZTvN-Xl-YzMsEy2ebl" version="21.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-19T15:56:35.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B4uoeg5sEa_flWjzrEY9" version="21.5.1" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -761,8 +761,14 @@
         <mxCell id="JpuZJQqXd5lwnwyIroXZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpuZJQqXd5lwnwyIroXZ-3" target="JpuZJQqXd5lwnwyIroXZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JpuZJQqXd5lwnwyIroXZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpuZJQqXd5lwnwyIroXZ-3" target="JpuZJQqXd5lwnwyIroXZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JpuZJQqXd5lwnwyIroXZ-3" value="财政部" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1760" y="252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpuZJQqXd5lwnwyIroXZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpuZJQqXd5lwnwyIroXZ-4" target="JpuZJQqXd5lwnwyIroXZ-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpuZJQqXd5lwnwyIroXZ-4" value="发钱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1969" y="252" width="120" height="60" as="geometry" />
@@ -773,8 +779,16 @@
         <mxCell id="JpuZJQqXd5lwnwyIroXZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpuZJQqXd5lwnwyIroXZ-8" target="JpuZJQqXd5lwnwyIroXZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JpuZJQqXd5lwnwyIroXZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JpuZJQqXd5lwnwyIroXZ-8" target="JpuZJQqXd5lwnwyIroXZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpuZJQqXd5lwnwyIroXZ-18" value="降薪裁员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JpuZJQqXd5lwnwyIroXZ-17">
+          <mxGeometry x="-0.081" y="3" relative="1" as="geometry">
+            <mxPoint x="36" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JpuZJQqXd5lwnwyIroXZ-8" value="实体资本缩表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="132" width="120" height="60" as="geometry" />
+          <mxGeometry x="2361" y="132" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JpuZJQqXd5lwnwyIroXZ-9" value="股市杀估值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2520" y="132" width="120" height="60" as="geometry" />
@@ -786,7 +800,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JpuZJQqXd5lwnwyIroXZ-13" value="金融系统&lt;br&gt;利率提高" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="132" width="120" height="60" as="geometry" />
+          <mxGeometry x="2180" y="132" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpuZJQqXd5lwnwyIroXZ-15" value="居民部门" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2361" y="252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpuZJQqXd5lwnwyIroXZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JpuZJQqXd5lwnwyIroXZ-19" target="JpuZJQqXd5lwnwyIroXZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpuZJQqXd5lwnwyIroXZ-19" value="发债" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1969" y="362" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
