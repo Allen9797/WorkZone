@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-24T07:06:23.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bwShaBIJqxzmF5a8_SAs" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-24T07:11:55.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DW_B7def7bCFmXHd4acJ" version="22.1.11" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -618,9 +618,6 @@
         <mxCell id="oe_9tONIF1Sl8x2S5foM-12" value="1. 给老板细节&lt;br&gt;2. 给老板feature&lt;br&gt;3. 给师傅 尊重和安全，不超车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="420" width="210" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="oe_9tONIF1Sl8x2S5foM-13" value="1. 所以我给idea bob 合作实现，可以获得一定的支持，但实现出来的东西质量有问题&lt;br&gt;2. 还是我出 idea 直接给领导报，自己+外包来实现，跑师傅前。工资高了但跑了对团队更伤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="775" width="210" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="DlQa9UDnAmDZj_f0b7ee-1" value="业绩 KPI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -753,23 +750,65 @@
         <mxCell id="LIeJfnNFxMBDTcxbPeIF-23" value="老板在家里躺&lt;br&gt;自己至少拿一半&lt;br&gt;骨干拿25%" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="860" y="323" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_CfGMPTEKUoAXbjWrH3z-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;成事&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" vertex="1" parent="1">
-          <mxGeometry x="1230" y="940" width="220" height="180" as="geometry" />
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="690" width="615" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="_CfGMPTEKUoAXbjWrH3z-2" value="贵人、资源、家庭" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="880" width="170" height="40" as="geometry" />
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;成事&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="90" y="60" width="220" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="_CfGMPTEKUoAXbjWrH3z-3" value="思维、逻辑&lt;br style=&quot;font-size: 18px;&quot;&gt;勇敢、细腻&lt;br style=&quot;font-size: 18px;&quot;&gt;见识、创意" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="960" width="110" height="80" as="geometry" />
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-2" value="贵人、资源、家庭" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="115" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_CfGMPTEKUoAXbjWrH3z-4" value="能搞定左右&lt;br style=&quot;font-size: 18px;&quot;&gt;上下的人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1415" y="1130" width="110" height="60" as="geometry" />
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-3" value="思维、逻辑&lt;br style=&quot;font-size: 18px;&quot;&gt;勇敢、细腻&lt;br style=&quot;font-size: 18px;&quot;&gt;见识、创意" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="340" y="80" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_CfGMPTEKUoAXbjWrH3z-5" value="风口、意识&lt;br style=&quot;font-size: 18px;&quot;&gt;快人一步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1130" width="110" height="60" as="geometry" />
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-4" value="能搞定左右&lt;br style=&quot;font-size: 18px;&quot;&gt;上下的人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="275" y="250" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_CfGMPTEKUoAXbjWrH3z-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;运气&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="980" width="60" height="40" as="geometry" />
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-5" value="风口、意识&lt;br style=&quot;font-size: 18px;&quot;&gt;快人一步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="20" y="250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;运气&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry y="100" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry y="212.5" width="400" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=-60;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="194.33" y="107.5" width="325" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=70;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="-94.59" y="118.34" width="300.45" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-17" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=-30;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="-47.66" y="-25.94" width="342.5" height="172.01" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=25;" vertex="1" parent="_CfGMPTEKUoAXbjWrH3z-8">
+          <mxGeometry x="94.94" y="-25.939999999999998" width="386.34" height="170.79" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-7" value="疏通行业资源笼络人做事，&lt;br&gt;但不一定做成&lt;br&gt;因为自己脑子不好" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1050" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-9" value="能独立在职场&lt;br&gt;任高位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="910" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-10" value="命好 赚快钱肚子里&lt;br&gt;没墨水难守住财" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="870" y="880" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-11" value="&lt;div&gt;不有吃穿&lt;/div&gt;&lt;div&gt;只要不挥霍家族&lt;/div&gt;&lt;div&gt;坐享其成&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="920" y="645" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-12" value="替家族做事&lt;br&gt;当二把手、三把手" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="655" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-14" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1090" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1100" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1110" width="440" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
