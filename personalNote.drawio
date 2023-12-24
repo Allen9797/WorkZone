@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-24T07:42:05.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HJ6Wv5E4CUFOxTPcxzQ_" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-24T07:43:43.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="b2MoI5cJwP35nxGH78Ql" version="22.1.11" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -757,7 +757,7 @@
           <mxGeometry x="479.61" y="1430" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_CfGMPTEKUoAXbjWrH3z-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="880" y="1460" width="775" height="485" as="geometry" />
+          <mxGeometry x="879" y="1460" width="775" height="485" as="geometry" />
         </mxCell>
         <mxCell id="_CfGMPTEKUoAXbjWrH3z-8" value="" style="group" vertex="1" connectable="0" parent="_CfGMPTEKUoAXbjWrH3z-57">
           <mxGeometry x="160" y="45" width="615" height="380" as="geometry" />
@@ -902,6 +902,9 @@
             <mxPoint x="1480" y="910" as="sourcePoint" />
             <mxPoint x="1420" y="959" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_CfGMPTEKUoAXbjWrH3z-86" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;天地人和&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;先敬天地，后人和&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;保有对大自然规律和趋势的敬畏之心&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1005" y="585" width="310" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
