@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T11:00:15.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="heQQXKduEDT4S0QQQIj4" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-07T11:02:18.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BRFIDt6OUcTwh280D1Pt" version="22.1.16" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史未来">
     <mxGraphModel dx="2010" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
           <mxGeometry x="74" y="892.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-22" value="第一波婴儿潮&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;全面老龄化&lt;/font&gt;&amp;nbsp;62-80&lt;br&gt;我28&lt;br&gt;日本蓄势待发 &lt;br&gt;还有5年结束老龄化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="42" y="962.37" width="120" height="60" as="geometry" />
+          <mxGeometry x="42" y="962.37" width="120" height="87.63" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="614" y="922.37" width="10" height="10" as="geometry" />
@@ -208,18 +208,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-29" value="社会矛盾激发，年轻人一片死气沉沉，娱乐 影视 游戏成为 &lt;br&gt;00 10后主要支出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="132" y="827.37" width="120" height="60" as="geometry" />
+          <mxGeometry x="132" y="817.37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="435" y="922.37" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="sXCSqYo1SwddnmAylRoB-35" target="sXCSqYo1SwddnmAylRoB-21" parent="1">
+        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-35" target="sXCSqYo1SwddnmAylRoB-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-35" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;b&gt;Now&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="832.37" width="68" height="35" as="geometry" />
+          <mxGeometry x="68" y="1090" width="68" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="sXCSqYo1SwddnmAylRoB-37" target="sXCSqYo1SwddnmAylRoB-15" parent="1">
+        <mxCell id="sXCSqYo1SwddnmAylRoB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="sXCSqYo1SwddnmAylRoB-37" target="sXCSqYo1SwddnmAylRoB-21" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="253" y="757.37" as="targetPoint" />
           </mxGeometry>
@@ -228,9 +228,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-37" value="主业+投资&lt;br&gt;建仓 26-31" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="116" y="736.37" width="61" height="60" as="geometry" />
+          <mxGeometry x="73" y="737.37" width="61" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="sXCSqYo1SwddnmAylRoB-39" target="sXCSqYo1SwddnmAylRoB-16" parent="1">
+        <mxCell id="sXCSqYo1SwddnmAylRoB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="sXCSqYo1SwddnmAylRoB-39" target="sXCSqYo1SwddnmAylRoB-29" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="343" y="807.37" as="targetPoint" />
           </mxGeometry>
@@ -239,18 +239,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-39" value="学习生意&lt;br&gt;31-36" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="212" y="737.37" width="54.5" height="60" as="geometry" />
+          <mxGeometry x="166.75" y="737.37" width="54.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-41">
+        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-41" target="sXCSqYo1SwddnmAylRoB-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="373.75" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-41" target="sXCSqYo1SwddnmAylRoB-61">
+        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-41" target="sXCSqYo1SwddnmAylRoB-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-41" value="捕捉机会&lt;br&gt;36-48" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="337" y="737.37" width="74" height="60" as="geometry" />
+          <mxGeometry x="247" y="737.37" width="74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6666;strokeWidth=2;" edge="1" source="sXCSqYo1SwddnmAylRoB-45" target="sXCSqYo1SwddnmAylRoB-39" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -260,11 +260,14 @@
         <mxCell id="sXCSqYo1SwddnmAylRoB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="sXCSqYo1SwddnmAylRoB-44" target="sXCSqYo1SwddnmAylRoB-14" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-44" target="sXCSqYo1SwddnmAylRoB-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-44" value="阿妈此时72岁，&lt;br&gt;若果移民在此时已经处理好是回国还是接到外面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="369" y="670" width="142" height="50" as="geometry" />
+          <mxGeometry x="369" y="742.37" width="142" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-45" value="&lt;h1&gt;&lt;font color=&quot;#004c99&quot;&gt;移民 or not&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;1. 2030-2035 期间，已经老龄化5-10年，大量的年轻人该移民的已经移民，是否会引起外国的政策防御（迟了）？&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="550" width="418" height="97.37" as="geometry" />
+          <mxGeometry x="54" y="550" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-49" value="日本彻底结束&lt;br&gt;老龄化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="2006" y="30" width="120" height="60" as="geometry" />
