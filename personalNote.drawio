@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T09:14:36.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PhOO1uCOYP1V7qoXZ6Gt" version="22.1.16" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-07T09:15:04.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8Yu3A0ISEcy9UmI-HY3C" version="22.1.16" type="github" pages="5">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1619" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,8 +482,8 @@
         <mxCell id="bdhlfZGknmGxe3uAW_oA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bdhlfZGknmGxe3uAW_oA-46" target="bdhlfZGknmGxe3uAW_oA-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bdhlfZGknmGxe3uAW_oA-46" value="和团队合作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="870" width="110" height="40" as="geometry" />
+        <mxCell id="bdhlfZGknmGxe3uAW_oA-46" value="团队合作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="1030" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bdhlfZGknmGxe3uAW_oA-48" target="bdhlfZGknmGxe3uAW_oA-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -492,13 +492,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-48" value="低调做人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="810" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="967.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-50" value="表达诉求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="590" y="895" width="110" height="40" as="geometry" />
+          <mxGeometry x="590" y="1052.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-51" value="解决冲突" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="590" y="965" width="110" height="40" as="geometry" />
+          <mxGeometry x="590" y="1122.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bdhlfZGknmGxe3uAW_oA-52" target="bdhlfZGknmGxe3uAW_oA-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -507,13 +507,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-52" value="高调做事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="930" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="1087.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-57" value="让别人舒服、优越&lt;br&gt;不威胁、没有攻击性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="590" y="780" width="110" height="40" as="geometry" />
+          <mxGeometry x="590" y="937.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bdhlfZGknmGxe3uAW_oA-58" value="自己无关 不反驳" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="590" y="840" width="110" height="40" as="geometry" />
+          <mxGeometry x="590" y="997.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b-CLqlhgRIcHmASUjDCU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-CLqlhgRIcHmASUjDCU-1" target="b-CLqlhgRIcHmASUjDCU-3">
           <mxGeometry relative="1" as="geometry" />
