@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T07:50:46.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h6xe266MDhOdkGYQU5pZ" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-07T07:56:17.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iyC9EKgfpgNUliOSVLbM" version="22.1.16" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1616" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1593,6 +1593,9 @@
         </mxCell>
         <mxCell id="2g9YJRAAIUnQbhzc-ihv-2" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;现在&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;1. 2016开始 贸易格局改变 通胀抬升，使得普通民众工资需要抬升才能支持生活&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;2. 2019开始利率尝试抬升，疫情停止之后继续急升&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;2.1. 在经济放缓的时候，过度QE会造成&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;通胀抬升&lt;/font&gt;&lt;/b&gt;（贷款并没有投入再生产，而是直接流到商品、金融domain，并不是需求增量&amp;gt;货币增速），回收流动性，避免通胀过快抬升；&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;2.2. 一方面使得巨量财政赤字需要付出更多的成本；&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;2.3. 但不会影响一般人的生活，因为大部分的 mortgage 是 fix rate的&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;3. 在输出战争、税法改革方面，也在同时谋求赚更多，填回一部分债务？&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;4. 只要&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;货币霸权&lt;/font&gt;&lt;/b&gt;地位不变，赤字、债务就不是问题，应该研究的是 谁影响了货币霸权，相对应美国的措施的什么，例如：亚太经贸、韩国日本亲中议员被袭击暗杀、中东不听话的石油国家&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="92" y="1380" width="848" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="2g9YJRAAIUnQbhzc-ihv-3" value="&lt;h1&gt;Worth thought about&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1. 货币霸权：让美元贬值50%，全世界谁来买单，谁在收益&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;2. 为了维持货币霸权，美国做了什么事，战争、暗杀、金融攻击&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3. 每一次的加息周期，资本是怎么流动的。美国处于什么经济状态（follow the monetary）&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4. 除了主流的指标和会议，有什么先行指标可以表示经济的情况&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4.1. 克强指数：发电量、铁路运输、银行贷款&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="1760" width="848" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
