@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T07:50:14.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rDJCFosB3Y5ZYRUnJVIq" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-07T07:50:46.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h6xe266MDhOdkGYQU5pZ" version="22.1.16" type="github" pages="4">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1616" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1142,7 +1142,7 @@
         <mxCell id="cBnAQJLOYmkoz17C5Cmz-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cBnAQJLOYmkoz17C5Cmz-37" target="cBnAQJLOYmkoz17C5Cmz-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cBnAQJLOYmkoz17C5Cmz-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;产业外逃&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cBnAQJLOYmkoz17C5Cmz-72" vertex="1" connectable="0">
+        <mxCell id="cBnAQJLOYmkoz17C5Cmz-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;产业外逃&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF6666;fontStyle=1" parent="cBnAQJLOYmkoz17C5Cmz-72" vertex="1" connectable="0">
           <mxGeometry x="0.0725" relative="1" as="geometry">
             <mxPoint x="-4" y="-10" as="offset" />
           </mxGeometry>
@@ -1264,7 +1264,7 @@
         <mxCell id="LfXAxv2I-TaAzKkyYPGh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LfXAxv2I-TaAzKkyYPGh-1" target="cBnAQJLOYmkoz17C5Cmz-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LfXAxv2I-TaAzKkyYPGh-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;能源结构重塑&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="LfXAxv2I-TaAzKkyYPGh-2" vertex="1" connectable="0">
+        <mxCell id="LfXAxv2I-TaAzKkyYPGh-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;能源结构重塑&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#FF6666;fontStyle=1" parent="LfXAxv2I-TaAzKkyYPGh-2" vertex="1" connectable="0">
           <mxGeometry x="-0.037" y="5" relative="1" as="geometry">
             <mxPoint x="3" y="-15" as="offset" />
           </mxGeometry>
