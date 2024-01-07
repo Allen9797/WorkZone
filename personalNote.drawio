@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T10:26:59.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XeALEaZZOY_7Br7qO-zu" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-07T10:29:10.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Rg4WfK2CENlLGl4UAg-S" version="22.1.16" type="github" pages="6">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1619" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2066,11 +2066,14 @@
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-109" value="日本第一代婴儿潮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="95.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-113" target="pJ9jbWrEM5ZpJKpATtAy-104">
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-113" target="pJ9jbWrEM5ZpJKpATtAy-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="1. 要研究1990-1995 和 1995-2000 年间，日本发生了什么事，来应对第一次遇见的老龄化问题&lt;br&gt;&lt;br&gt;2. 在2000-2020 的20年间，老龄化高峰期，是怎么度过的&lt;br&gt;&lt;br&gt;关注：有哪些市场具有潜力，出台了哪些政策，做了哪些错误的事情&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="270" width="390" height="130" as="geometry" />
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-113" target="pJ9jbWrEM5ZpJKpATtAy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="要研究：&lt;br&gt;1. 1990-1995 和 1995-2000 年间，日本发生了什么事，来应对第一次遇见的老龄化问题&lt;br&gt;&lt;br&gt;2. 在2000-2020 的20年间，老龄化高峰期，是怎么度过的&lt;br&gt;&lt;br&gt;关注：&lt;br&gt;1. 有哪些市场具有潜力&lt;br&gt;2. 出台了哪些政策，做了哪些错误的事情&lt;br&gt;3. 利率、就业、出口、生产、产业结构、战争、美国&lt;br&gt;&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="285" width="372" height="270" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-115" target="pJ9jbWrEM5ZpJKpATtAy-32">
           <mxGeometry relative="1" as="geometry" />
