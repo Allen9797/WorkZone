@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T10:01:29.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ypYKIOqtlCL0kqfAkmKB" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-07T10:03:11.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LWHF5m-Euj289uBN7KOU" version="22.1.16" type="github" pages="6">
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
     <mxGraphModel dx="1619" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1886,9 +1886,6 @@
             <mxPoint x="1610" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="100" y="185" width="10" height="10" as="geometry" />
         </mxCell>
@@ -1896,34 +1893,34 @@
           <mxGeometry x="75" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-26" value="2045" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="1448" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-27" value="第一波婴儿潮&lt;br&gt;&lt;b&gt;82-100&lt;/b&gt;，我38" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="1418" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;imageHeight=20;arcSize=12;imageWidth=20;" vertex="1" parent="1">
-          <mxGeometry x="1129" y="185" width="94" height="10" as="geometry" />
+          <mxGeometry x="1137" y="185" width="94" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;imageHeight=20;arcSize=12;imageWidth=20;" vertex="1" parent="1">
-          <mxGeometry x="1222" y="185" width="94" height="10" as="geometry" />
+          <mxGeometry x="1230" y="185" width="94" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1217" y="185" width="10" height="10" as="geometry" />
+          <mxGeometry x="1225" y="185" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-29" value="2030" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1194" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="1202" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-30" value="第一波婴儿潮&lt;br&gt;72-90，我38" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="240" width="120" height="30" as="geometry" />
+          <mxGeometry x="1262" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="185" width="10" height="10" as="geometry" />
+          <mxGeometry x="1135" y="185" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-32" value="2025" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1104" y="155" width="60" height="30" as="geometry" />
+          <mxGeometry x="1112" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-33" value="第一波婴儿潮&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;全面老龄化&lt;/font&gt;&amp;nbsp;62-80&lt;br&gt;等于1990年日本&lt;br&gt;我28" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1555" y="185" width="10" height="10" as="geometry" />
@@ -1938,16 +1935,52 @@
           <mxGeometry x="1489" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1309" y="185" width="10" height="10" as="geometry" />
+          <mxGeometry x="1317" y="185" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-43" value="2035" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1284" y="155" width="60" height="30" as="geometry" />
+          <mxGeometry x="1292" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-44" value="社会矛盾激发，年轻人一片死气沉沉，娱乐 影视 游戏成为 &lt;br&gt;00 10后主要支出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1164" y="85" width="120" height="60" as="geometry" />
+          <mxGeometry x="1172" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1465" y="185" width="10" height="10" as="geometry" />
+          <mxGeometry x="1473" y="185" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="955" y="185" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-49" value="2025" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="932" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-50" value="第一波婴儿潮&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;全面老龄化&lt;/font&gt;&amp;nbsp;62-80&lt;br&gt;等于1990年日本&lt;br&gt;我28" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="773" y="185" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-52" value="2025" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-53" value="第一波婴儿潮&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;全面老龄化&lt;/font&gt;&amp;nbsp;62-80&lt;br&gt;等于1990年日本&lt;br&gt;我28" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="718" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;imageHeight=20;arcSize=12;imageWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="512" y="40" width="94" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;imageHeight=20;arcSize=12;imageWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="605" y="40" width="94" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="692" y="40" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-63" value="10 年 尺" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="575" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
