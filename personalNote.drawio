@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T10:35:02.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Vo8KtZOYf78Xi2pPYQwP" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-07T10:38:56.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yJOdMc00Rx7csT6vxowb" version="22.1.16" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史未来">
     <mxGraphModel dx="1368" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-12" value="1950" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="587" y="195" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-26" value="2045" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-26" value="2045" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2288" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-27" value="第一波婴儿潮&lt;br&gt;&lt;b&gt;82-100&lt;/b&gt;，我38" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2065" y="185" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-29" value="2030" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-29" value="2030" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2042" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-30" value="第一波婴儿潮&lt;br&gt;72-90，我38" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -227,6 +227,20 @@
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-5" value="捕捉机会&lt;br&gt;36-.." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2184" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sXCSqYo1SwddnmAylRoB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-9" target="sXCSqYo1SwddnmAylRoB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2117" y="421.8800000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXCSqYo1SwddnmAylRoB-9" value="&lt;h1&gt;移民 or not&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;1. 2030-2035 期间，已经老龄化5-10年，大量的年轻人该移民的已经移民，是否会引起外国的政策防御（迟了）？&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1908" y="421.88" width="418" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sXCSqYo1SwddnmAylRoB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-11" target="pJ9jbWrEM5ZpJKpATtAy-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sXCSqYo1SwddnmAylRoB-11" value="阿妈此时72岁，&lt;br&gt;若果移民在此时已经处理好是回国还是接到外面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2247" y="30" width="142" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
