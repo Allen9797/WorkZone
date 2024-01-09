@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T16:02:56.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VZvFKX020gK7ZlaUoV8g" version="22.1.17" type="github" pages="6">
-  <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史未来">
-    <mxGraphModel dx="2020" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-01-09T16:04:35.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="98AIQZvdPDcqKPmJUG8H" version="22.1.17" type="github" pages="6">
+  <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
+    <mxGraphModel dx="1720" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="976.1800000000001" y="1090" width="20" height="482.63" as="geometry" />
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-49" value="日本 100-120&lt;br&gt;彻底结束老龄化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="sXCSqYo1SwddnmAylRoB-49" value="&lt;font color=&quot;#000000&quot;&gt;日本彻底&lt;br&gt;结束老龄化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1651" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TkQU3ZpM_Q_7wprOFnkB-1" value="研究：&lt;br&gt;&lt;br&gt;1. 在2000-2020 的20年间，老龄化高峰期，是怎么度过的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -69,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1180" y="1600" width="593.6500000000001" height="270" as="geometry" />
+          <mxGeometry x="1116.5" y="1760" width="593.6500000000001" height="270" as="geometry" />
         </mxCell>
         <mxCell id="st1Zc7A_7HiDj8-IYoit-4" value="中国" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" parent="feEOzYVyzbYoH5Q8jdDR-12" vertex="1">
           <mxGeometry width="267" height="270" as="geometry" />
@@ -340,13 +340,13 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="982" y="1285.37" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-43" value="2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-43" value="2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="957" y="1298.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="742" y="1285.37" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-45" value="2010" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-45" value="2010" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="717" y="1298.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
