@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T16:59:48.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LJZC8URxgODHQOWiAbm6" version="22.1.17" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-09T17:04:43.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FzL3LbaaEEXl8udlgF85" version="22.1.17" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="1701" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1448" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
             <mxPoint x="1315.5" y="1138.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6666;strokeWidth=2;" parent="1" source="sXCSqYo1SwddnmAylRoB-45" target="sXCSqYo1SwddnmAylRoB-39" edge="1">
+        <mxCell id="sXCSqYo1SwddnmAylRoB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6666;strokeWidth=2;" parent="1" source="sXCSqYo1SwddnmAylRoB-45" target="sXCSqYo1SwddnmAylRoB-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1230.5" y="1020.0000000000005" as="sourcePoint" />
           </mxGeometry>
@@ -267,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-45" value="&lt;h1&gt;&lt;font color=&quot;#004c99&quot;&gt;移民 or not&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;1. 2030-2035 期间，已经老龄化5-10年，大量的年轻人该移民的已经移民，是否会引起外国的政策防御（迟了）？&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="951.5" y="910" width="280" height="110" as="geometry" />
+          <mxGeometry x="1090.5" y="910" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2062" y="1285.37" width="10" height="10" as="geometry" />
@@ -604,13 +604,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-185" value="1939" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1348.5" y="336.93999999999994" width="60" height="30" as="geometry" />
+          <mxGeometry x="1346.5" y="328.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-186" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1505" y="317.43999999999994" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-187" target="feEOzYVyzbYoH5Q8jdDR-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-187" value="1945" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1480" y="336.43999999999994" width="60" height="30" as="geometry" />
+          <mxGeometry x="1480" y="329.43999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-191" value="1914" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="756" y="329.93999999999994" width="60" height="30" as="geometry" />
@@ -637,11 +640,11 @@
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-198">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1446.304347826087" y="359.9999999999999" as="targetPoint" />
+            <mxPoint x="1439.304347826087" y="356.9399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-198" value="二战：德意日本 VS Others，5000-7000w死亡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1356.5" y="400" width="179" height="140" as="geometry" />
+          <mxGeometry x="1383.5" y="393.46999999999997" width="110.5" height="93.06" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-204" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1830" y="317.43999999999994" width="10" height="10" as="geometry" />
@@ -674,6 +677,31 @@
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-217" value="中国进入老龄化&lt;br&gt;(2025) 50-70" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050.5" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="feEOzYVyzbYoH5Q8jdDR-227" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1559" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-227" value="国共内战" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1520.5" y="446.53" width="76.5" height="23.47" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-228" value="2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="926.5" y="1254.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-229" target="feEOzYVyzbYoH5Q8jdDR-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-229" value="疫情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="941" y="1182.37" width="31" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="feEOzYVyzbYoH5Q8jdDR-232" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="869" y="1252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-232" value="习为连任&lt;br&gt;加杆杆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1184.43" width="83.5" height="32.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
