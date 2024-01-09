@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T17:04:43.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FzL3LbaaEEXl8udlgF85" version="22.1.17" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-09T17:06:17.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="njr6WfLccEx3wOTVRahQ" version="22.1.17" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1448" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,24 +50,24 @@
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-113" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="629.0049999999995" y="1330.37" as="targetPoint" />
+            <mxPoint x="508.00499999999954" y="1327.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="研究：&lt;br&gt;&lt;br&gt;1. 1990-1995 和 1995-2000 年间，日本发生了什么事，来应对第一次遇见的老龄化问题&lt;br&gt;&lt;br&gt;关注：&lt;br&gt;&lt;br&gt;1. 有哪些市场具有潜力&lt;br&gt;2. 出台了哪些政策，做了哪些错误的事情&lt;br&gt;3. 利率、就业、出口、生产、产业结构、战争、美国&lt;br&gt;&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="459.63" y="1425.37" width="338.75" height="175" as="geometry" />
+          <mxGeometry x="338.63" y="1422.37" width="338.75" height="175" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="976.1800000000001" y="1090" width="20" height="482.63" as="geometry" />
+          <mxGeometry x="862.67" y="971.31" width="20" height="720" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-49" value="&lt;font color=&quot;#000000&quot;&gt;日本彻底&lt;br&gt;(2050) 结束老龄化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1651" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TkQU3ZpM_Q_7wprOFnkB-1" value="研究：&lt;br&gt;&lt;br&gt;1. 在2000-2020 的20年间，老龄化高峰期，是怎么度过的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="899" y="1450.57" width="174.37" height="70" as="geometry" />
+          <mxGeometry x="785.49" y="1440.57" width="174.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TkQU3ZpM_Q_7wprOFnkB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="TkQU3ZpM_Q_7wprOFnkB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="986" y="1360" as="targetPoint" />
+            <mxPoint x="872.49" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-12" value="" style="group" vertex="1" connectable="0" parent="1">
