@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T16:42:52.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-CT9H0q4h97qfCGldtvD" version="22.1.17" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-09T16:58:17.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rYrLHDwsAA6Ua_cV_OFY" version="22.1.17" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="1405" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1701" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,20 +460,20 @@
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="feEOzYVyzbYoH5Q8jdDR-134" target="feEOzYVyzbYoH5Q8jdDR-137" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1908.75" y="867" as="targetPoint" />
+            <mxPoint x="2050.25" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-134" value="中国第一波婴儿潮&lt;br&gt;(2050) 80-100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1628.45" y="837" width="120" height="60" as="geometry" />
+          <mxGeometry x="1769.95" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="feEOzYVyzbYoH5Q8jdDR-136" target="feEOzYVyzbYoH5Q8jdDR-134" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-136" value="中国老龄化&lt;br&gt;(2030) 60-80" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1149" y="837" width="120" height="60" as="geometry" />
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-136" value="中国全面老龄化&lt;br&gt;(2030) 60-80" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-137" value="&lt;font color=&quot;#000000&quot;&gt;中国彻底&lt;br&gt;(2070) 结束老龄化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="837" width="120" height="60" as="geometry" />
+          <mxGeometry x="2251.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-138">
           <mxGeometry relative="1" as="geometry">
@@ -481,7 +481,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-138" value="基辛格、尼克松访华&lt;br&gt;解除民生部分的禁运，技术部分依然保留" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2113" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="2109.5" y="490" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-140" value="1972" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2143" y="326.93999999999994" width="60" height="30" as="geometry" />
@@ -635,11 +635,31 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-204" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1830" y="317.43999999999994" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-205" target="feEOzYVyzbYoH5Q8jdDR-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-205" value="1958" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1805" y="329.43999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-207" value="大跃进：&lt;br&gt;死亡5500w" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1848" y="380" width="71" height="30" as="geometry" />
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-207">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1880.1956521739135" y="358.9399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-207" value="大跃进官方数字死亡2-5kw，公安部、人口普查 死9kw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1824" y="400" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-210" target="pJ9jbWrEM5ZpJKpATtAy-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-210" value="日本进入老龄化&lt;br&gt;(2000) 50-70" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-217" target="feEOzYVyzbYoH5Q8jdDR-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-217" value="中国进入老龄化&lt;br&gt;(2025) 50-70" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
