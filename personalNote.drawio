@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T09:54:02.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3-7P8Cwa2Ba5-B4z_vCj" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-14T09:54:20.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g1CBZZ5mFb8M3jM8QK7D" version="22.1.18" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="2020" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2604,7 +2604,7 @@
         <mxCell id="zVWs-B1BKGBiDKPFl9ca-8" value="生产商品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1443.25" y="1566" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="itKo1R84qPhPX3LUEffi-1" value="投资" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="itKo1R84qPhPX3LUEffi-1" value="投资端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1085.75" y="880" width="325" height="396" as="geometry" />
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itKo1R84qPhPX3LUEffi-3" target="itKo1R84qPhPX3LUEffi-12">
@@ -2613,25 +2613,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-3" value="央行 印钞" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1110.75" y="934" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110.75" y="918" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itKo1R84qPhPX3LUEffi-7" target="itKo1R84qPhPX3LUEffi-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-7" value="城投" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="1104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itKo1R84qPhPX3LUEffi-9" target="itKo1R84qPhPX3LUEffi-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-9" value="央行 制定低利率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1270" y="934" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="918" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itKo1R84qPhPX3LUEffi-12" target="itKo1R84qPhPX3LUEffi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-12" value="银行部门" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1034" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="1018" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="itKo1R84qPhPX3LUEffi-16" target="2g9YJRAAIUnQbhzc-ihv-14">
           <mxGeometry relative="1" as="geometry" />
@@ -2642,7 +2642,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="itKo1R84qPhPX3LUEffi-16" value="建筑商" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1199.76" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="1183.76" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
