@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T15:37:24.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="x9IEgWD9VU4WTQkpnaUw" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-16T15:43:34.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SMRrOQ4fPNy0R1iLOTaO" version="22.1.18" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="646" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -522,7 +522,7 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-159" target="feEOzYVyzbYoH5Q8jdDR-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-159" value="苏联解体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-159" value="苏共解体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="271.5" y="1180" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-165" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -680,11 +680,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-229" value="疫情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="941" y="1182.37" width="31" height="41" as="geometry" />
+          <mxGeometry x="941" y="1188.81" width="31" height="23.37" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-232" edge="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-232" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="869" y="1252" as="targetPoint" />
+            <mxPoint x="869" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-232" value="习为连任&lt;br&gt;加杆杆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -962,6 +962,36 @@
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-75" value="bug: 中国发债，自己全部承受" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="599" y="490" width="92.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-79" target="feEOzYVyzbYoH5Q8jdDR-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-77" value="特朗普上任&lt;br&gt;中美经济解绑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1020" width="83.5" height="32.87" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-77" target="Fg7Yv-o50qpH0gsmprNX-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="869" y="1053" as="sourcePoint" />
+            <mxPoint x="869" y="1184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-79" value="产业回流&lt;br&gt;利率抬高" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="842.5" y="1098.13" width="53" height="32.87" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-83" target="feEOzYVyzbYoH5Q8jdDR-229">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-83" value="钱多资产少&lt;br&gt;保住流动性&lt;br&gt;利率回到地板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="914.75" y="1098.13" width="83.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-85" target="Fg7Yv-o50qpH0gsmprNX-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-85" value="重启加息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="985.49" y="1185.86" width="55.5" height="30.01" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-86" value="2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="983.5" y="1254.37" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
