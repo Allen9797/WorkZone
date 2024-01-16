@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T15:55:43.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fWYSjl7GG9DybhfftRyX" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-16T16:13:51.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_szExRjT56fkhaRuVI2G" version="22.1.18" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="1148" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="633" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -558,7 +558,7 @@
             <mxPoint x="433.5" y="1255.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-175" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;金融危机&lt;/font&gt;&lt;/b&gt;：几十万企业倒闭，数千万人下岗，官方数据叫再就业 不参与失业统计，所以没有历时记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-175" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;金融危机&lt;/font&gt;&lt;/b&gt;：几十万企业倒闭，数千万人下岗，官方数据叫再就业 不参与失业统计，所以没有历史记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="362.5" y="1050" width="140" height="52.37" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-176" target="feEOzYVyzbYoH5Q8jdDR-177" edge="1">
@@ -858,7 +858,7 @@
             <mxPoint x="711" y="919" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-23" value="于是增发4w亿，制造商品价格通常，冲淡债务问题。好政府制造温和通常，不好的就制造恶性通胀" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-23" value="于是增发4w亿，制造商品价格通胀，冲淡债务问题。好政府制造温和通胀，不好的就制造恶性通胀" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="656" y="980" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-23" target="Fg7Yv-o50qpH0gsmprNX-26">
