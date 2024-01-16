@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T02:02:37.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sCe-vpGK1aefyX7XyM_h" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-16T14:44:32.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mQtfyXcAooHZI5voaPxa" version="22.1.18" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="2020" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,13 +566,13 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-173" value="1997" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="403" y="1254.37" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-175" edge="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-175" edge="1" target="Fg7Yv-o50qpH0gsmprNX-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="433.5" y="1255.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-175" value="金融危机" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="408" y="1180.37" width="50" height="41" as="geometry" />
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-175" value="金融危机，几十万企业倒闭，数千万人下岗，官方数据叫再就业 不参与失业统计，所以没有历时记录" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="1052.37" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-176" target="feEOzYVyzbYoH5Q8jdDR-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -775,6 +775,30 @@
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-257" value="抗日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1321.5" y="243.55" width="46" height="18.31" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-1" value="918 日本占领东北" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1225.5" y="480" width="110.5" height="36.53" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-2" target="Fg7Yv-o50qpH0gsmprNX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-2" value="美国冷战期间为了形成对全球军事基地的指挥，投入研发军事computer和internet，这些在94年(3年解密期)民用之后，形成美国it产业的前置基建投入" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="850" width="170.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-3" value="把世界范围内的资本拉向美国，一方面东亚金融危机，另一方面美国it泡沫" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="282" y="970" width="135.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="feEOzYVyzbYoH5Q8jdDR-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-6" value="美国it泡沫破裂后，资本持续大量外流到中国" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="1107.37" width="92" height="42.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-7" target="feEOzYVyzbYoH5Q8jdDR-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-7" value="美国出口没了，中国政府不计成本的举债4w亿投入基础设施，形成对后来2000年美国投资中国的基础，铁路、公路、港口全是新的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="1130" width="135.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
