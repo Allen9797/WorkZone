@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T15:10:51.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VNuCib4Nb2lfd6Dr1Km5" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-16T15:35:00.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Tez_n8rfJoym2jEqLMYi" version="22.1.18" type="github" pages="6">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="969" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="646" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -623,7 +623,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-197" value="一战：法英俄国1907年组成的三国协约 VS 德国、奥匈帝国、意大利三国同盟，2100w死亡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="733.5" y="383.78" width="179" height="140" as="geometry" />
+          <mxGeometry x="757.75" y="381.89" width="134.5" height="66.22" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-198" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -798,32 +798,53 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-12" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;房地产 次贷危机&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="683" y="871.31" width="57" height="28.69" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-13" target="Fg7Yv-o50qpH0gsmprNX-14">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-13" target="Fg7Yv-o50qpH0gsmprNX-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-13" value="中国举债、大基建" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="251" y="557.37" width="69" height="42.63" as="geometry" />
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-13" value="中国举债、大基建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="163.5" y="550" width="69" height="42.63" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-14" target="Fg7Yv-o50qpH0gsmprNX-16">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-14" target="Fg7Yv-o50qpH0gsmprNX-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-14" target="Fg7Yv-o50qpH0gsmprNX-15">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-14" target="Fg7Yv-o50qpH0gsmprNX-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-14" value="外资进来建厂" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="379" y="557.37" width="51" height="42.63" as="geometry" />
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-45" value="小头" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fg7Yv-o50qpH0gsmprNX-43">
+          <mxGeometry x="0.1109" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-12" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-15" value="外资持续获利、吃汇率升值" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="487" y="557.37" width="51" height="42.63" as="geometry" />
-        </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-16" target="Fg7Yv-o50qpH0gsmprNX-20">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-14" target="Fg7Yv-o50qpH0gsmprNX-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-16" value="中国得到美元，买美债" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="251" y="617.37" width="69" height="42.63" as="geometry" />
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-46" value="大头" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#FF6666;" vertex="1" connectable="0" parent="Fg7Yv-o50qpH0gsmprNX-44">
+          <mxGeometry x="0.0169" y="-1" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-20" value="美政府 发债，相当于把中国手上的美元回收，用于军事（美元霸权）、本土福利（科技创新）、支持企业进行海外掠夺和扩张" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="333" y="660" width="141" height="70" as="geometry" />
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-14" value="外资进来" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="550" width="51" height="42.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-15" value="外资持续获利" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="550" width="51" height="42.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-16" target="Fg7Yv-o50qpH0gsmprNX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-16" value="中国得到美元，买美债" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="163.5" y="610" width="69" height="42.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-20" target="Fg7Yv-o50qpH0gsmprNX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-72" value="债务、补贴&lt;br&gt;等支持" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fg7Yv-o50qpH0gsmprNX-71">
+          <mxGeometry x="-0.2838" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-20" value="美政府 发债，相当于把中国手上的美元回收，维持低利率，用于军事（美元霸权）、本土福利（科技创新）、支持企业进行海外掠夺和扩张" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="652.63" width="167" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-24" value="2008" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="681" y="1299.37" width="60" height="30" as="geometry" />
@@ -866,6 +887,81 @@
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-36" value="美国本土产业移出，没有地方可投了，于是有大量郊区别墅" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="533" y="870" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-40" target="Fg7Yv-o50qpH0gsmprNX-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-40" target="Fg7Yv-o50qpH0gsmprNX-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-40" target="Fg7Yv-o50qpH0gsmprNX-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-40" value="外资回流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="915" y="593.32" width="62" height="42.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-42" value="基建的钱，政府依然继续投入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="764.99" y="599.63" width="95.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-48" target="Fg7Yv-o50qpH0gsmprNX-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-48" value="困境3：政府卖美债，换美元退钱，外汇储备受挑战" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="763" y="659.11" width="105" height="43.68" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-50" value="美债利率提高" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900.49" y="715.95" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-52" target="Fg7Yv-o50qpH0gsmprNX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-54" value="税、偿还" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fg7Yv-o50qpH0gsmprNX-53">
+          <mxGeometry x="0.1346" relative="1" as="geometry">
+            <mxPoint x="24" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-52" value="中国企业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="430" width="69" height="42.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-55" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;回流美国&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1029" y="593.32" width="51" height="42.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-60" target="Fg7Yv-o50qpH0gsmprNX-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-64" value="困境1：企业被卖掉&lt;br&gt;一级、二级市场↓" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fg7Yv-o50qpH0gsmprNX-63">
+          <mxGeometry x="-0.222" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-60" target="Fg7Yv-o50qpH0gsmprNX-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-68" value="困境2：钱赚的是小头&lt;br&gt;还没还上中国自己的债&lt;br&gt;这种没用的基建却依旧在投入&lt;br&gt;否则GDP不好看&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fg7Yv-o50qpH0gsmprNX-67">
+          <mxGeometry x="-0.0458" relative="1" as="geometry">
+            <mxPoint x="-15" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-60" value="中国企业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="912" y="490" width="69" height="42.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-69" target="Fg7Yv-o50qpH0gsmprNX-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-69" value="要还上这个钱&lt;br&gt;方法1：大量发债，形成通胀，冲淡债务&lt;br&gt;方法2：有一定利润率的商品对外经贸，形成外汇流入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="559.63" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-73" target="Fg7Yv-o50qpH0gsmprNX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-73" value="bug: 美元霸权，QE发债 自损 50，海外损50" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="745.95" width="93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-75" target="Fg7Yv-o50qpH0gsmprNX-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-75" value="bug: 中国发债，自己全部承受" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="599" y="490" width="92.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
