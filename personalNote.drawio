@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T11:19:36.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vZubdMpCjw7-rDs7K712" version="22.1.21" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-20T11:20:58.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="natwiMAairq6PjnIoqUl" version="22.1.21" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3827,7 +3827,7 @@
             <mxRectangle width="60" height="18" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uzxn7kBRLgd0YVgBzySB-103" value="主业+&lt;br&gt;副业 &lt;br&gt;小范围验证" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;rowspan=5;colspan=1;" vertex="1" parent="Uzxn7kBRLgd0YVgBzySB-98">
+        <mxCell id="Uzxn7kBRLgd0YVgBzySB-103" value="remote + oversea business" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;rowspan=5;colspan=1;" vertex="1" parent="Uzxn7kBRLgd0YVgBzySB-98">
           <mxGeometry x="250" width="60" height="91" as="geometry">
             <mxRectangle width="60" height="18" as="alternateBounds" />
           </mxGeometry>
@@ -3906,7 +3906,7 @@
             <mxRectangle width="89" height="18" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uzxn7kBRLgd0YVgBzySB-120" value="5岁 升小" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;fontColor=#FF6666;" vertex="1" parent="Uzxn7kBRLgd0YVgBzySB-116">
+        <mxCell id="Uzxn7kBRLgd0YVgBzySB-120" value="身份get" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;fontColor=#FF6666;" vertex="1" parent="Uzxn7kBRLgd0YVgBzySB-116">
           <mxGeometry x="190" width="60" height="18" as="geometry">
             <mxRectangle width="60" height="18" as="alternateBounds" />
           </mxGeometry>
