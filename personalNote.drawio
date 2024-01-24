@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T09:03:22.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yZqyMPVj1FuvFYqf7X8Y" version="22.1.22" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-24T09:04:10.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GY9mzJbAMHV2INxlzr94" version="22.1.22" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1616" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2902,11 +2902,30 @@
         <mxCell id="LenKo4NH_gcl1NvFBNOi-7" value="买国债" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1343" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LenKo4NH_gcl1NvFBNOi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenKo4NH_gcl1NvFBNOi-8" target="LenKo4NH_gcl1NvFBNOi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LenKo4NH_gcl1NvFBNOi-8" value="基础设施" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LenKo4NH_gcl1NvFBNOi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenKo4NH_gcl1NvFBNOi-9" target="LenKo4NH_gcl1NvFBNOi-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="1590" />
+              <mxPoint x="1410" y="1424" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LenKo4NH_gcl1NvFBNOi-9" value="社会保障" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LenKo4NH_gcl1NvFBNOi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenKo4NH_gcl1NvFBNOi-10" target="LenKo4NH_gcl1NvFBNOi-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="1670" />
+              <mxPoint x="1510" y="1200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LenKo4NH_gcl1NvFBNOi-10" value="军事投入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1640" width="120" height="60" as="geometry" />
