@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T14:21:25.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GENm_DmB84IkcevA_Ebc" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T14:22:26.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wZkPLPqvXDdbPzB314dE" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="835" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -736,8 +736,10 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-3" value="把世界范围内的资本拉向美国，一方面&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;东亚金融危机&lt;/b&gt;&lt;/font&gt;，另一方面形成美国it泡沫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="276" y="970" width="147.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="feEOzYVyzbYoH5Q8jdDR-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="1280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="Fg7Yv-o50qpH0gsmprNX-36">
           <mxGeometry relative="1" as="geometry" />
