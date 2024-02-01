@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T08:21:19.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="l7QUCifMZHnbNVDahO9T" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T14:21:25.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GENm_DmB84IkcevA_Ebc" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="1251" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
             <mxPoint x="508.00499999999954" y="1327.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="研究：&lt;br&gt;&lt;br&gt;1. 2000 年间，日本发生了什么事，来应对第一次遇见的老龄化问题&lt;br&gt;&lt;br&gt;&lt;br&gt;关注：&lt;br&gt;&lt;br&gt;1. 有哪些市场具有潜力&lt;br&gt;2. 出台了哪些政策，做了哪些错误的事情&lt;br&gt;3. 利率、就业、出口、生产、产业结构、战争、美国&lt;br&gt;&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="研究：&lt;br&gt;&lt;br&gt;1. 2000 年间，日本、美国用什么手段来应对第一次老龄化&lt;br&gt;&lt;br&gt;&lt;br&gt;关注：&lt;br&gt;&lt;br&gt;1. 有哪些市场具有潜力&lt;br&gt;2. 出台了哪些政策，做了哪些错误的事情&lt;br&gt;3. 利率、就业、出口、生产、产业结构、战争、美国&lt;br&gt;&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="338.63" y="1422.37" width="338.75" height="175" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" parent="1" vertex="1">
@@ -501,8 +501,8 @@
             <mxPoint x="528.5" y="1257.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-168" value="中国WTO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="502" y="1103.37" width="55" height="41" as="geometry" />
+        <mxCell id="RjBqSZwmlgp97S796oc--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-168" target="RjBqSZwmlgp97S796oc--62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-170" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -742,10 +742,16 @@
         <mxCell id="RjBqSZwmlgp97S796oc--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="Fg7Yv-o50qpH0gsmprNX-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-6" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;美国it泡沫破裂&lt;/b&gt;&lt;/font&gt;，资本持续大量外流到中国" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RjBqSZwmlgp97S796oc--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="RjBqSZwmlgp97S796oc--62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-6" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;美国it泡沫破裂&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="462" y="937.3699999999999" width="92" height="42.63" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-7" target="feEOzYVyzbYoH5Q8jdDR-173" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-7" target="RjBqSZwmlgp97S796oc--62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-7" value="美国出口没了，中国政府不计成本的举债4w亿投入基础设施，形成对后来2000年美国投资中国的基础，铁路、公路、港口全是新的" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1077,7 +1083,7 @@
           <mxGeometry x="1046.2" y="1360.8" width="85.3" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--52" value="&lt;a href=&quot;https://hk.finance.yahoo.com/chart/%5EIXIC#eyJpbnRlcnZhbCI6IndlZWsiLCJwZXJpb2RpY2l0eSI6MSwiY2FuZGxlV2lkdGgiOjEsImZsaXBwZWQiOmZhbHNlLCJ2b2x1bWVVbmRlcmxheSI6dHJ1ZSwiYWRqIjp0cnVlLCJjcm9zc2hhaXIiOnRydWUsImNoYXJ0VHlwZSI6ImxpbmUiLCJleHRlbmRlZCI6ZmFsc2UsIm1hcmtldFNlc3Npb25zIjp7fSwiYWdncmVnYXRpb25UeXBlIjoib2hsYyIsImNoYXJ0U2NhbGUiOiJsaW5lYXIiLCJwYW5lbHMiOnsiY2hhcnQiOnsicGVyY2VudCI6MSwiZGlzcGxheSI6Il5JWElDIiwiY2hhcnROYW1lIjoiY2hhcnQiLCJpbmRleCI6MCwieUF4aXMiOnsibmFtZSI6ImNoYXJ0IiwicG9zaXRpb24iOm51bGx9LCJ5YXhpc0xIUyI6W10sInlheGlzUkhTIjpbImNoYXJ0Iiwi4oCMdm9sIHVuZHLigIwiXX19LCJzZXRTcGFuIjpudWxsLCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdW5kIjp0cnVlLCJldmVudHMiOnRydWUsImNvbG9yIjoiIzAwODFmMiIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50TWFwIjp7ImNvcnBvcmF0ZSI6eyJkaXZzIjp0cnVlLCJzcGxpdHMiOnRydWV9LCJzaWdEZXYiOnt9fSwiY3VzdG9tUmFuZ2UiOm51bGwsInN5bWJvbHMiOlt7InN5bWJvbCI6Il5JWElDIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6Il5JWElDIiwicXVvdGVUeXBlIjoiSU5ERVgiLCJleGNoYW5nZVRpbWVab25lIjoiQW1lcmljYS9OZXdfWW9yayJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJ3ZWVrIiwidGltZVVuaXQiOm51bGwsInNldFNwYW4iOm51bGx9XSwic3R1ZGllcyI6eyLigIx2b2wgdW5kcuKAjCI6eyJ0eXBlIjoidm9sIHVuZHIiLCJpbnB1dHMiOnsiaWQiOiLigIx2b2wgdW5kcuKAjCIsImRpc3BsYXkiOiLigIx2b2wgdW5kcuKAjCJ9LCJvdXRwdXRzIjp7IlVwIFZvbHVtZSI6IiMwMGIwNjEiLCJEb3duIFZvbHVtZSI6IiNmZjMzM2EifSwicGFuZWwiOiJjaGFydCIsInBhcmFtZXRlcnMiOnsid2lkdGhGYWN0b3IiOjAuNDUsImNoYXJ0TmFtZSI6ImNoYXJ0IiwicGFuZWxOYW1lIjoiY2hhcnQifX19LCJ0aW1lVW5pdCI6bnVsbCwicmFuZ2UiOm51bGx9&quot;&gt;IT泡沫&lt;br&gt;纳斯达克&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="329.5" y="1332.2399999999998" width="70" height="40" as="geometry" />
+          <mxGeometry x="395" y="1325.2399999999998" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--54" value="&lt;a href=&quot;https://data.worldbank.org.cn/indicator/NY.GDP.MKTP.CD?end=2022&amp;amp;locations=JP&amp;amp;start=1960&amp;amp;view=chart&quot;&gt;日本GDP&lt;/a&gt;&lt;br&gt;90之后都&lt;br&gt;&lt;b&gt;持续走牛&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="1410" width="70" height="60" as="geometry" />
@@ -1093,6 +1099,12 @@
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--59" value="待分析&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. 杠杆、利率&lt;br&gt;2. 资本流向、海外扩张&lt;br&gt;3. 日元国际化&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="96.25" y="1714" width="338.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--62" value="资本持续大量&lt;br&gt;外流到中国" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1030" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-168" value="中国WTO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="502" y="1103.37" width="55" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
