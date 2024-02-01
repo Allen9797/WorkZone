@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T16:16:55.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JbH_9hbbuU9xWAq4TLPf" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T16:21:32.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KQRXPEji8b8C196ueYqB" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="798" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-45" value="&lt;h1&gt;&lt;font color=&quot;#004c99&quot;&gt;移民 or not&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;1. 2030-2035 期间，已经老龄化5-10年，大量的年轻人该移民的已经移民，是否会引起外国的政策防御（迟了）？&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1058.25" y="1610" width="199.5" height="122.63" as="geometry" />
+          <mxGeometry x="1059.25" y="1610" width="199.5" height="122.63" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2062" y="1285.37" width="10" height="10" as="geometry" />
@@ -977,7 +977,7 @@
         <mxCell id="RjBqSZwmlgp97S796oc--18" value="&lt;font color=&quot;#000000&quot;&gt;婴儿潮&lt;br&gt;(2062) 结束老龄化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="1928" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjBqSZwmlgp97S796oc--66" target="RjBqSZwmlgp97S796oc--34">
+        <mxCell id="RjBqSZwmlgp97S796oc--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjBqSZwmlgp97S796oc--66" target="RjBqSZwmlgp97S796oc--45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--19" value="全面老龄化&lt;br&gt;(2022) 60-70&lt;br&gt;我25" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1076,7 +1076,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--66" value="国内市场&lt;br&gt;信心冰点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="999.45" y="1410" width="80" height="30" as="geometry" />
+          <mxGeometry x="1015.45" y="1410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--68" value="2032" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="1246.5" y="1298.37" width="60" height="30" as="geometry" />
@@ -1090,14 +1090,11 @@
         <mxCell id="RjBqSZwmlgp97S796oc--71" value="2034" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="1293.5" y="1299.37" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c_32RfPe9LShKeXu8ZKk-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjBqSZwmlgp97S796oc--19" target="sXCSqYo1SwddnmAylRoB-37">
+        <mxCell id="c_32RfPe9LShKeXu8ZKk-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjBqSZwmlgp97S796oc--19" target="RjBqSZwmlgp97S796oc--34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1039" y="1760" as="sourcePoint" />
             <mxPoint x="1039" y="1440" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-37" value="主业+投资建仓、移民调研&lt;br&gt;25-30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" parent="1" vertex="1">
-          <mxGeometry x="998.7" y="1498.12" width="80.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_32RfPe9LShKeXu8ZKk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-37" target="c_32RfPe9LShKeXu8ZKk-3">
           <mxGeometry relative="1" as="geometry">
@@ -1105,13 +1102,13 @@
             <mxPoint x="1249" y="1529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_32RfPe9LShKeXu8ZKk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_32RfPe9LShKeXu8ZKk-3" target="RjBqSZwmlgp97S796oc--46">
+        <mxCell id="c_32RfPe9LShKeXu8ZKk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ZlCyHIQSOYob2q_uLoR-5" target="RjBqSZwmlgp97S796oc--46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_32RfPe9LShKeXu8ZKk-3" value="30 移民" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="1132" y="1512.68" width="52" height="30.88" as="geometry" />
+          <mxGeometry x="1133" y="1512.68" width="52" height="30.88" as="geometry" />
         </mxCell>
-        <mxCell id="c_32RfPe9LShKeXu8ZKk-6" value="存50w" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="c_32RfPe9LShKeXu8ZKk-6" value="存70w" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="1077" y="1546.0600000000002" width="52" height="30.88" as="geometry" />
         </mxCell>
         <mxCell id="c_32RfPe9LShKeXu8ZKk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sXCSqYo1SwddnmAylRoB-44" target="c_32RfPe9LShKeXu8ZKk-10">
@@ -1188,6 +1185,18 @@
         </mxCell>
         <mxCell id="8ZlCyHIQSOYob2q_uLoR-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="617.13" y="1203.12" width="20" height="97.37" as="geometry" />
+        </mxCell>
+        <mxCell id="sXCSqYo1SwddnmAylRoB-37" value="主业+投资建仓、移民调研&lt;br&gt;26-30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="1014.7" y="1498.12" width="80.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZlCyHIQSOYob2q_uLoR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_32RfPe9LShKeXu8ZKk-3" target="8ZlCyHIQSOYob2q_uLoR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1158" y="1513" as="sourcePoint" />
+            <mxPoint x="1159" y="1284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZlCyHIQSOYob2q_uLoR-5" value="3年经验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1133.5" y="1410" width="51.2" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
