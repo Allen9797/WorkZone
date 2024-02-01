@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T07:11:20.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="b6Vzn84nQK1T2Gy9Utwn" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T07:19:50.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GQmgYUt_BFjsLrMmlr7D" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
           <mxGeometry x="1103" y="1285.37" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-21" value="2025" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1078" y="1298.37" width="60" height="30" as="geometry" />
+          <mxGeometry x="1078" y="1254.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-22" value="日本蓄势待发 &lt;br&gt;还有5年结束老龄化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1047.45" y="1329.37" width="122" height="80.63" as="geometry" />
@@ -721,7 +721,7 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-257" value="抗日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1321.5" y="243.55" width="46" height="18.31" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;align=center;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-2" target="Fg7Yv-o50qpH0gsmprNX-3" edge="1">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;align=center;fontStyle=1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-2" target="Fg7Yv-o50qpH0gsmprNX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-2" value="美国冷战期间为了形成对全球军事基地的指挥，投入&lt;b&gt;研发军事&lt;/b&gt;computer和internet，这些在94年(3年解密期)&lt;b&gt;民用&lt;/b&gt;之后，形成美国it产业的前置基建投入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -730,7 +730,7 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-3" target="Fg7Yv-o50qpH0gsmprNX-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-3" target="feEOzYVyzbYoH5Q8jdDR-175">
+        <mxCell id="RjBqSZwmlgp97S796oc--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.816;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-3" target="feEOzYVyzbYoH5Q8jdDR-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-3" target="Fg7Yv-o50qpH0gsmprNX-6">
@@ -742,7 +742,7 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="feEOzYVyzbYoH5Q8jdDR-235" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="Fg7Yv-o50qpH0gsmprNX-36">
+        <mxCell id="RjBqSZwmlgp97S796oc--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="Fg7Yv-o50qpH0gsmprNX-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-6" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;美国it泡沫破裂&lt;/b&gt;&lt;/font&gt;，资本持续大量外流到中国" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1052,6 +1052,32 @@
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--34" value="2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1009.45" y="1297.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--39" value="2024" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1053" y="1298.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="RjBqSZwmlgp97S796oc--43" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1057.51" y="1256.95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--43" value="AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1184.81" width="55.5" height="30.01" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--44" value="2026" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1099.45" y="1298.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--45" value="2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1025.5" y="1254.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--46" value="2027" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1129" y="1254.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--47" value="2029" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1171.5" y="1254.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--48" value="2028" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1150.99" y="1298.37" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
