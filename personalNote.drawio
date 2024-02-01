@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T16:23:08.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VzqmEeo-LVknyx8myl76" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T16:26:53.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="arVd4XgZ8Amn5XFk7dRy" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="798" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -908,8 +908,8 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-83" target="feEOzYVyzbYoH5Q8jdDR-229" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-83" value="钱多资产少&lt;br&gt;保住流动性&lt;br&gt;利率回到地板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="914.75" y="1100" width="83.5" height="39.13" as="geometry" />
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-83" value="货币供应增50%&lt;br&gt;保流动性&lt;br&gt;全球利率地花板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="908.75" y="1100" width="95.25" height="39.13" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-85" target="Fg7Yv-o50qpH0gsmprNX-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
