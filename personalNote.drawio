@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T15:59:59.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4YGc1mZXhqlmqkra6XVc" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T16:05:43.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2VWDK9xIp8vHlKKcA5UF" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="798" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1141,7 +1141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-44" value="雯姐 72岁，&lt;br&gt;若果移民在此时已经想好是回国还是接到外面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" parent="1" vertex="1">
-          <mxGeometry x="1436.5" y="1630" width="142" height="50" as="geometry" />
+          <mxGeometry x="1450.5" y="1630" width="142" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r4MDem8_Xzs15aU0ERI8-1" value="2007" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="651" y="1254" width="60" height="30" as="geometry" />
