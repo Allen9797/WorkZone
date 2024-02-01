@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T06:14:48.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="q_iCOVW5u-BojO1zWSeT" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T06:28:18.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="vZzf8SrcNbAYfTyfydG1" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,19 +19,18 @@
             <mxPoint x="2440.5" y="322.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-53" target="sXCSqYo1SwddnmAylRoB-49" edge="1">
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RjBqSZwmlgp97S796oc--1" target="sXCSqYo1SwddnmAylRoB-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1449.75" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-53" value="日本第一波婴儿潮&lt;br&gt;(2030) 80-100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1169.45" y="780" width="120" height="60" as="geometry" />
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-53" value="团块时代&lt;br&gt;(2026) 80-90" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1069.45" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-72" target="pJ9jbWrEM5ZpJKpATtAy-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-72" value="日本全面老龄化&lt;br&gt;(2010) 60-80" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="780" width="120" height="60" as="geometry" />
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-210" target="pJ9jbWrEM5ZpJKpATtAy-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="810" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-106" target="feEOzYVyzbYoH5Q8jdDR-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +58,7 @@
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="862.67" y="971.31" width="20" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-49" value="&lt;font color=&quot;#000000&quot;&gt;日本彻底&lt;br&gt;(2050) 结束老龄化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="sXCSqYo1SwddnmAylRoB-49" value="&lt;font color=&quot;#000000&quot;&gt;日本彻底&lt;br&gt;(2046) 结束老龄化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1651" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TkQU3ZpM_Q_7wprOFnkB-1" value="研究：&lt;br&gt;&lt;br&gt;1. 在2000-2020 的20年间，老龄化高峰期，是怎么度过的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -650,11 +649,8 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-207" value="大跃进官方数字死亡2-5kw，公安部、人口普查 死9kw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1824" y="400" width="112" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-210" target="pJ9jbWrEM5ZpJKpATtAy-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-210" value="日本进入老龄化&lt;br&gt;(2000) 50-70" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="448" y="780" width="120" height="60" as="geometry" />
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-210" value="日本全面老龄化&lt;br&gt;(2006) 60-70" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="618" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-217" target="feEOzYVyzbYoH5Q8jdDR-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -992,6 +988,15 @@
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-86" value="2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="983.5" y="1254.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-53" target="RjBqSZwmlgp97S796oc--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1651" y="810" as="targetPoint" />
+            <mxPoint x="1189" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--1" value="&lt;font color=&quot;#000000&quot;&gt;团块时代&lt;br&gt;(2036) 半结束老龄化&lt;br&gt;90-100&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1351.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
