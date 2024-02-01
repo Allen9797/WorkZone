@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T16:05:43.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2VWDK9xIp8vHlKKcA5UF" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T16:07:25.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ad1a8WcpWeC17DpisiUn" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="798" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -617,22 +617,14 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-232" value="习为连任&lt;br&gt;加杆杆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="827" y="1184.43" width="83.5" height="32.87" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-235" target="feEOzYVyzbYoH5Q8jdDR-236" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-235" value="2003" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="550" y="1254.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-236" value="2011" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="742" y="1254.37" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-238" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="639" y="1260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-238" value="伊拉克战争&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;死20w+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="605.5" y="1173.8200000000002" width="67.5" height="41" as="geometry" />
+          <mxGeometry x="593.38" y="1198.8100000000002" width="67.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-240" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1190.5" y="318.43999999999994" width="10" height="10" as="geometry" />
@@ -1193,6 +1185,9 @@
         </mxCell>
         <mxCell id="4tNluvOfXMyIn1KNwk1L-13" value="2044" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1538" y="1298.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZlCyHIQSOYob2q_uLoR-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="617.13" y="1203.12" width="20" height="97.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
