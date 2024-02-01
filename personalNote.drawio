@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T08:01:20.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gHjs1rZ58toW3TyfgyKX" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T08:03:14.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-SfwOt3RA00XBHqemwBF" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1251" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             <mxPoint x="508.00499999999954" y="1327.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="研究：&lt;br&gt;&lt;br&gt;1. 1990-1995 和 1995-2000 年间，日本发生了什么事，来应对第一次遇见的老龄化问题&lt;br&gt;&lt;br&gt;关注：&lt;br&gt;&lt;br&gt;1. 有哪些市场具有潜力&lt;br&gt;2. 出台了哪些政策，做了哪些错误的事情&lt;br&gt;3. 利率、就业、出口、生产、产业结构、战争、美国&lt;br&gt;&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="研究：&lt;br&gt;&lt;br&gt;1. 2000 年间，日本发生了什么事，来应对第一次遇见的老龄化问题&lt;br&gt;&lt;br&gt;&lt;br&gt;关注：&lt;br&gt;&lt;br&gt;1. 有哪些市场具有潜力&lt;br&gt;2. 出台了哪些政策，做了哪些错误的事情&lt;br&gt;3. 利率、就业、出口、生产、产业结构、战争、美国&lt;br&gt;&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="338.63" y="1422.37" width="338.75" height="175" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" parent="1" vertex="1">
@@ -331,6 +331,9 @@
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="264.5" y="1285.37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-49" target="RjBqSZwmlgp97S796oc--58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-49" value="1990" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="239.5" y="1297.37" width="60" height="30" as="geometry" />
@@ -1086,7 +1089,10 @@
           <mxGeometry x="175.5" y="1470" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--58" value="分析&lt;br&gt;1. 日本出口商品竞争力强劲，可以在日元85-95年期间持续升值，仍然有翻倍的GDP&lt;br&gt;2. 但资金在90年泡沫破裂之后，国内金融市场持续萎靡至今&lt;br&gt;3. Thread: 90年，团块时代 才 44-54岁" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186.25" y="1620" width="338.75" height="175" as="geometry" />
+          <mxGeometry x="100.5" y="1610" width="338.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--59" value="待分析&lt;br&gt;1. 杠杆、利率&lt;br&gt;2. 资本流向、海外扩张&lt;br&gt;3. 日元国际化" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="96.25" y="1714" width="338.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
