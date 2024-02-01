@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T14:42:45.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HzL1jWXx3-z1n1INCt02" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T14:43:54.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nDZKqyWMjmy3Uy_SngwW" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="848" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
             <mxPoint x="1276.5" y="1020.0000000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sXCSqYo1SwddnmAylRoB-44" edge="1">
+        <mxCell id="sXCSqYo1SwddnmAylRoB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sXCSqYo1SwddnmAylRoB-44" target="sXCSqYo1SwddnmAylRoB-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1591" y="1357.37" as="targetPoint" />
           </mxGeometry>
@@ -1142,7 +1142,7 @@
         <mxCell id="c_32RfPe9LShKeXu8ZKk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c_32RfPe9LShKeXu8ZKk-10" target="sXCSqYo1SwddnmAylRoB-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_32RfPe9LShKeXu8ZKk-10" value="remote 工作&lt;br&gt;学习生意&lt;br&gt;45-58" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="c_32RfPe9LShKeXu8ZKk-10" value="depend 继续工作 or 回国做生意" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="1466.5" y="1505.12" width="71" height="49.12" as="geometry" />
         </mxCell>
       </root>
