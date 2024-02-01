@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T15:29:05.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="lcfcR7w6d3Px0_g4x1aQ" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T15:43:18.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="c8THURiYh_2WoxQX0_tm" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="798" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -972,7 +972,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--16" value="婴儿潮&lt;br&gt;(2042) 80-90&lt;br&gt;我 45 岁" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1441.45" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="1447.45" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="RjBqSZwmlgp97S796oc--19" target="RjBqSZwmlgp97S796oc--16" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1004,7 +1004,7 @@
           <mxGeometry x="1700.5" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--22" value="人虽然未死，但财富开始交接，社会风险偏好提升" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="1800" width="167.5" height="34.05" as="geometry" />
+          <mxGeometry x="1551" y="1800" width="167.5" height="34.05" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--23" value="&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%A4%A7%E9%99%B8%E6%99%82%E6%9C%9F%E6%AD%B7%E5%8F%B2%E5%B9%B4%E8%A1%A8&quot;&gt;中国年鉴&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040.99" y="150.5" width="110" height="80" as="geometry" />
@@ -1116,7 +1116,7 @@
         <mxCell id="c_32RfPe9LShKeXu8ZKk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_32RfPe9LShKeXu8ZKk-3" target="RjBqSZwmlgp97S796oc--46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_32RfPe9LShKeXu8ZKk-3" value="30 移民&lt;br&gt;国外买房" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="c_32RfPe9LShKeXu8ZKk-3" value="30 移民" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="1132" y="1512.68" width="52" height="30.88" as="geometry" />
         </mxCell>
         <mxCell id="c_32RfPe9LShKeXu8ZKk-6" value="存70w" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" vertex="1" parent="1">
@@ -1140,14 +1140,14 @@
             <mxPoint x="1502" y="1554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-44" value="阿妈此时72岁，&lt;br&gt;若果移民在此时已经想好是回国还是接到外面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" parent="1" vertex="1">
-          <mxGeometry x="1431.5" y="1630" width="142" height="50" as="geometry" />
+        <mxCell id="sXCSqYo1SwddnmAylRoB-44" value="雯姐 72岁，&lt;br&gt;若果移民在此时已经想好是回国还是接到外面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="1436.5" y="1630" width="142" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r4MDem8_Xzs15aU0ERI8-1" value="2007" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="651" y="1254" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r4MDem8_Xzs15aU0ERI8-2" value="19&lt;font color=&quot;#ff99ff&quot;&gt;99&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="450.5" y="1256.37" width="60" height="30" as="geometry" />
+          <mxGeometry x="450.5" y="1254.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r4MDem8_Xzs15aU0ERI8-3" value="1998" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="428" y="1294.37" width="60" height="30" as="geometry" />
