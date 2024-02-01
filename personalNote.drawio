@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T15:13:44.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2Be2ccvo6tyIIE2mBLey" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T15:23:45.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="y8l7Wj7mGfmOc7b8FibH" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="848" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="798" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4tNluvOfXMyIn1KNwk1L-11" value="2051" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1695" y="1296.37" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9;endSize=7.32;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="1290" as="sourcePoint" />
@@ -998,7 +1001,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--21" value="&lt;font color=&quot;#000000&quot;&gt;婴儿潮&lt;br&gt;(2052) 半结束老龄化&lt;br&gt;90-100&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="1680.5" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="1686.5" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--22" value="人虽然未死，但财富开始交接，社会风险偏好提升" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1540" y="1800" width="167.5" height="34.05" as="geometry" />
@@ -1010,7 +1013,7 @@
           <mxGeometry x="1958" y="1296.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--27" value="2052" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1711" y="1297.37" width="60" height="30" as="geometry" />
+          <mxGeometry x="1716" y="1253.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--32" value="2042" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1471.5" y="1298.37" width="60" height="30" as="geometry" />
@@ -1162,7 +1165,7 @@
           <mxGeometry x="1497" y="1254" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4tNluvOfXMyIn1KNwk1L-2" value="&lt;font color=&quot;#ff6666&quot;&gt;20&lt;/font&gt;&lt;font color=&quot;#ff99ff&quot;&gt;53&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1740" y="1256.37" width="60" height="30" as="geometry" />
+          <mxGeometry x="1745" y="1296.37" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4tNluvOfXMyIn1KNwk1L-3" value="2036" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1345.5" y="1298.37" width="60" height="30" as="geometry" />
@@ -1181,6 +1184,12 @@
         </mxCell>
         <mxCell id="4tNluvOfXMyIn1KNwk1L-8" value="2041" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1452" y="1254.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4tNluvOfXMyIn1KNwk1L-10" value="2050" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="1678.5" y="1254.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4tNluvOfXMyIn1KNwk1L-12" value="2054" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1774" y="1256.37" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
