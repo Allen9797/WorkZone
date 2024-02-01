@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T07:19:50.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GQmgYUt_BFjsLrMmlr7D" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T07:28:15.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tSz8aNUxsI4dlq-iSnf5" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,6 +23,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1449.75" y="810" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ9jbWrEM5ZpJKpATtAy-53" target="RjBqSZwmlgp97S796oc--44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJ9jbWrEM5ZpJKpATtAy-53" value="团块时代&lt;br&gt;(2026) 80-90" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1069.45" y="780" width="120" height="60" as="geometry" />
@@ -180,9 +183,6 @@
         <mxCell id="sXCSqYo1SwddnmAylRoB-21" value="2025" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1078" y="1254.37" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-22" value="日本蓄势待发 &lt;br&gt;还有5年结束老龄化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1047.45" y="1329.37" width="122" height="80.63" as="geometry" />
-        </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1824" y="1285.37" width="10" height="10" as="geometry" />
         </mxCell>
@@ -197,12 +197,6 @@
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1586" y="1285.37" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sXCSqYo1SwddnmAylRoB-35" target="sXCSqYo1SwddnmAylRoB-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sXCSqYo1SwddnmAylRoB-35" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;b&gt;Now&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1075" y="1455" width="68" height="35" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sXCSqYo1SwddnmAylRoB-37" target="sXCSqYo1SwddnmAylRoB-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -739,14 +733,14 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-3" value="把世界范围内的资本拉向美国，一方面&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;东亚金融危机&lt;/b&gt;&lt;/font&gt;，另一方面形成美国it泡沫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="276" y="970" width="147.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="feEOzYVyzbYoH5Q8jdDR-235" edge="1">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="feEOzYVyzbYoH5Q8jdDR-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="Fg7Yv-o50qpH0gsmprNX-36">
+        <mxCell id="RjBqSZwmlgp97S796oc--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="Fg7Yv-o50qpH0gsmprNX-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-6" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;美国it泡沫破裂&lt;/b&gt;&lt;/font&gt;，资本持续大量外流到中国" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="534" y="983.3699999999999" width="92" height="42.63" as="geometry" />
+          <mxGeometry x="462" y="937.3699999999999" width="92" height="42.63" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-7" target="feEOzYVyzbYoH5Q8jdDR-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -843,11 +837,11 @@
         <mxCell id="sXCSqYo1SwddnmAylRoB-29" value="社会矛盾激发，年轻人一片死气沉沉，娱乐 影视 游戏成为 &lt;br&gt;00 10后主要支出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1170.45" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-36" target="Fg7Yv-o50qpH0gsmprNX-12" edge="1">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-36" target="Fg7Yv-o50qpH0gsmprNX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-36" value="美国本土产业移出，没有地方可投了，于是有大量郊区别墅" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="533" y="870" width="94" height="60" as="geometry" />
+          <mxGeometry x="550" y="855" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;align=center;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-40" target="Fg7Yv-o50qpH0gsmprNX-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -969,12 +963,6 @@
         <mxCell id="RjBqSZwmlgp97S796oc--4" value="广场协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="129.5" y="1180" width="50" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="7.699999999999989" y="1221.37" as="sourcePoint" />
-            <mxPoint x="7.699999999999989" y="1255.37" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="151.7" y="1221" as="sourcePoint" />
@@ -1078,6 +1066,15 @@
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--48" value="2028" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1150.99" y="1298.37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1074.7" y="1299.68" width="20" height="91.12" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--51" value="美国AI泡沫&lt;br&gt;资本回流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1046.2" y="1360.8" width="85.3" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--52" value="&lt;a href=&quot;https://hk.finance.yahoo.com/chart/%5EIXIC#eyJpbnRlcnZhbCI6IndlZWsiLCJwZXJpb2RpY2l0eSI6MSwiY2FuZGxlV2lkdGgiOjEsImZsaXBwZWQiOmZhbHNlLCJ2b2x1bWVVbmRlcmxheSI6dHJ1ZSwiYWRqIjp0cnVlLCJjcm9zc2hhaXIiOnRydWUsImNoYXJ0VHlwZSI6ImxpbmUiLCJleHRlbmRlZCI6ZmFsc2UsIm1hcmtldFNlc3Npb25zIjp7fSwiYWdncmVnYXRpb25UeXBlIjoib2hsYyIsImNoYXJ0U2NhbGUiOiJsaW5lYXIiLCJwYW5lbHMiOnsiY2hhcnQiOnsicGVyY2VudCI6MSwiZGlzcGxheSI6Il5JWElDIiwiY2hhcnROYW1lIjoiY2hhcnQiLCJpbmRleCI6MCwieUF4aXMiOnsibmFtZSI6ImNoYXJ0IiwicG9zaXRpb24iOm51bGx9LCJ5YXhpc0xIUyI6W10sInlheGlzUkhTIjpbImNoYXJ0Iiwi4oCMdm9sIHVuZHLigIwiXX19LCJzZXRTcGFuIjpudWxsLCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdW5kIjp0cnVlLCJldmVudHMiOnRydWUsImNvbG9yIjoiIzAwODFmMiIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50TWFwIjp7ImNvcnBvcmF0ZSI6eyJkaXZzIjp0cnVlLCJzcGxpdHMiOnRydWV9LCJzaWdEZXYiOnt9fSwiY3VzdG9tUmFuZ2UiOm51bGwsInN5bWJvbHMiOlt7InN5bWJvbCI6Il5JWElDIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6Il5JWElDIiwicXVvdGVUeXBlIjoiSU5ERVgiLCJleGNoYW5nZVRpbWVab25lIjoiQW1lcmljYS9OZXdfWW9yayJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJ3ZWVrIiwidGltZVVuaXQiOm51bGwsInNldFNwYW4iOm51bGx9XSwic3R1ZGllcyI6eyLigIx2b2wgdW5kcuKAjCI6eyJ0eXBlIjoidm9sIHVuZHIiLCJpbnB1dHMiOnsiaWQiOiLigIx2b2wgdW5kcuKAjCIsImRpc3BsYXkiOiLigIx2b2wgdW5kcuKAjCJ9LCJvdXRwdXRzIjp7IlVwIFZvbHVtZSI6IiMwMGIwNjEiLCJEb3duIFZvbHVtZSI6IiNmZjMzM2EifSwicGFuZWwiOiJjaGFydCIsInBhcmFtZXRlcnMiOnsid2lkdGhGYWN0b3IiOjAuNDUsImNoYXJ0TmFtZSI6ImNoYXJ0IiwicGFuZWxOYW1lIjoiY2hhcnQifX19LCJ0aW1lVW5pdCI6bnVsbCwicmFuZ2UiOm51bGx9&quot;&gt;IT泡沫&lt;br&gt;纳斯达克&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="1332.2399999999998" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
