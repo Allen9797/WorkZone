@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T06:33:48.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VXgs_cv3t1bVBgKPQxDu" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T06:34:55.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="B-N1jOkHwPbDE3L24XKX" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1024,6 +1024,9 @@
             <mxPoint x="270" y="1178" as="sourcePoint" />
             <mxPoint x="270" y="1240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RjBqSZwmlgp97S796oc--10" value="&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B3%A1%E6%B2%AB%E7%BB%8F%E6%B5%8E#%E6%88%BF%E5%B8%82%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82&quot;&gt;日本泡沫破裂&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="104.5" y="1154.4299999999998" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
