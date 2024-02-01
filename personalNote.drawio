@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T08:03:14.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-SfwOt3RA00XBHqemwBF" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-01T08:21:19.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="l7QUCifMZHnbNVDahO9T" version="23.0.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1251" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1088,10 +1088,10 @@
         <mxCell id="RjBqSZwmlgp97S796oc--56" value="&lt;a href=&quot;https://hk.investing.com/currencies/usd-jpy-chart&quot;&gt;日元汇率&lt;/a&gt;&lt;br&gt;持续走高&lt;br&gt;&lt;b&gt;日元国际化&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175.5" y="1470" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--58" value="分析&lt;br&gt;1. 日本出口商品竞争力强劲，可以在日元85-95年期间持续升值，仍然有翻倍的GDP&lt;br&gt;2. 但资金在90年泡沫破裂之后，国内金融市场持续萎靡至今&lt;br&gt;3. Thread: 90年，团块时代 才 44-54岁" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RjBqSZwmlgp97S796oc--58" value="&lt;b&gt;分析&lt;/b&gt;&lt;br&gt;1. 日本出口商品竞争力强劲，可以在日元85-95年期间持续升值，仍然有翻倍的GDP&lt;br&gt;2. 但资金在90年泡沫破裂之后，国内金融市场持续萎靡至今&lt;br&gt;3. Thread: 90年，团块时代 才 44-54岁" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100.5" y="1610" width="338.75" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--59" value="待分析&lt;br&gt;1. 杠杆、利率&lt;br&gt;2. 资本流向、海外扩张&lt;br&gt;3. 日元国际化" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="RjBqSZwmlgp97S796oc--59" value="待分析&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. 杠杆、利率&lt;br&gt;2. 资本流向、海外扩张&lt;br&gt;3. 日元国际化&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="96.25" y="1714" width="338.75" height="80" as="geometry" />
         </mxCell>
       </root>
