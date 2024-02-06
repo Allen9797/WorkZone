@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T09:41:46.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="F4ry97VMoXdbLxJp5kr7" version="23.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-06T09:44:20.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Old_MeTpiuAUW4wC88tp" version="23.1.1" type="github" pages="6">
   <diagram name="产品结构" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2547" dy="2079" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1826,7 +1826,7 @@
           <mxGeometry x="320" y="1202" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TXlJHcVW9PVUlx_fobpd-176" value="gataway-exporter" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;fontSize=16;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="321" y="1354" width="150" height="40" as="geometry" />
+          <mxGeometry x="320" y="1354" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TXlJHcVW9PVUlx_fobpd-177" value="Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="510" y="1154" width="180" height="140" as="geometry" />
@@ -1850,6 +1850,12 @@
         </mxCell>
         <mxCell id="TXlJHcVW9PVUlx_fobpd-183" value="Alicloud" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;fontSize=16;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="521" y="1354" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TXlJHcVW9PVUlx_fobpd-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.027;exitY=0.504;exitDx=0;exitDy=0;entryX=0.003;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="ow6n6_uc6pdh3lhoSMPX-16" target="TXlJHcVW9PVUlx_fobpd-176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100.5" y="1235.44" as="sourcePoint" />
+            <mxPoint x="193.5" y="1422.44" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
