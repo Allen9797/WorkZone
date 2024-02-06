@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T09:54:21.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YLfJnpS2FYEkZGBfAqbP" version="23.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-06T09:55:42.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dbrYmGZ8uIfiIqJIt0n_" version="23.1.1" type="github" pages="6">
   <diagram name="产品结构" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2547" dy="2079" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1138,7 +1138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ec9T0s0rE6t-ajbXfpiq" name="Exporter拉起">
-    <mxGraphModel dx="4040" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2752" dy="1456" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1233,27 +1233,6 @@
         </mxCell>
         <mxCell id="h5kBRER3D055Jm7C1dQF-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. 安装好 prometheus &lt;br&gt;配置 2个固定的 svc 地址&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="682.84" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YewhU2UH_bmj8ao1OIMe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YewhU2UH_bmj8ao1OIMe-1" target="YewhU2UH_bmj8ao1OIMe-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YewhU2UH_bmj8ao1OIMe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YewhU2UH_bmj8ao1OIMe-1" target="YewhU2UH_bmj8ao1OIMe-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YewhU2UH_bmj8ao1OIMe-1" value="region" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="476" y="1618.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YewhU2UH_bmj8ao1OIMe-2" value="edas namespace" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="671" y="1578.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YewhU2UH_bmj8ao1OIMe-3" value="acm namespace" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="671" y="1658.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YewhU2UH_bmj8ao1OIMe-4" value="region" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="476" y="1698.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YewhU2UH_bmj8ao1OIMe-5" value="region" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="476" y="1779.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H6H3rOZBfF4ZYoF0BB_3-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H6H3rOZBfF4ZYoF0BB_3-22" target="tgrC6uGPthyQ5NlXyoBC-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1762,6 +1741,9 @@
         </mxCell>
         <mxCell id="bMNVnVH97g1kZXsTB_85-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4. 程序读取mongo配置&lt;br&gt;开启对应的采集任务&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="490" y="650.63" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMNVnVH97g1kZXsTB_85-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;阿里的应用：电商-PD&lt;br&gt;通过 AKSK -&amp;gt; region/namespace&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="3360" width="825" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
