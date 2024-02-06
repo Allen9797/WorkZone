@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T09:53:26.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nMwHLTftFjXC_Yixb8Qo" version="23.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-06T09:53:36.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pKPBGzpQSbgOo9E770uM" version="23.1.1" type="github" pages="6">
   <diagram name="产品结构" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2547" dy="2079" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1495,7 +1495,7 @@
           <mxGeometry x="1118" y="1292" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TXlJHcVW9PVUlx_fobpd-168" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="869" y="92.84" width="912" height="740" as="geometry" />
+          <mxGeometry x="1020" y="110" width="912" height="740" as="geometry" />
         </mxCell>
         <mxCell id="TXlJHcVW9PVUlx_fobpd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="TXlJHcVW9PVUlx_fobpd-168" vertex="1">
           <mxGeometry width="912" height="740" as="geometry" />
@@ -1513,7 +1513,7 @@
           <mxGeometry x="111.21951219512195" y="420.6315789473685" width="243.94146341463414" height="225.89473684210526" as="geometry" />
         </mxCell>
         <mxCell id="TXlJHcVW9PVUlx_fobpd-169" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1870" y="80" width="1230" height="950" as="geometry" />
+          <mxGeometry x="2020" y="70" width="1230" height="950" as="geometry" />
         </mxCell>
         <mxCell id="TXlJHcVW9PVUlx_fobpd-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="TXlJHcVW9PVUlx_fobpd-169" vertex="1">
           <mxGeometry width="1230" height="950.0000000000001" as="geometry" />
