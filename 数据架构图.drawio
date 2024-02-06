@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T04:16:03.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rXgEs-z6JyPKnwb1A0Kt" version="23.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-02-06T06:23:49.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eJ0LSt6zxHsoEfj2V2Fs" version="23.1.1" type="github" pages="6">
   <diagram name="产品结构" id="N1-KNFquu0YFQFn82y0o">
     <mxGraphModel dx="2547" dy="2079" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1526,16 +1526,16 @@
         <mxCell id="TXlJHcVW9PVUlx_fobpd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1300" width="1230" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="TXlJHcVW9PVUlx_fobpd-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;APM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TXlJHcVW9PVUlx_fobpd-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;APM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1445" width="329" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="TXlJHcVW9PVUlx_fobpd-5" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="1">
+        <mxCell id="TXlJHcVW9PVUlx_fobpd-5" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1690" y="1445" width="329" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="TXlJHcVW9PVUlx_fobpd-6" value="Infra" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="1">
+        <mxCell id="TXlJHcVW9PVUlx_fobpd-6" value="Infra" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1690" y="1850" width="329" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="TXlJHcVW9PVUlx_fobpd-7" value="Host" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="1">
+        <mxCell id="TXlJHcVW9PVUlx_fobpd-7" value="Host" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1840" width="329" height="290" as="geometry" />
         </mxCell>
         <mxCell id="TXlJHcVW9PVUlx_fobpd-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
