@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T07:17:28.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7ttsIR9q73l7siaxOpX3" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T07:21:28.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="c2MyTt4X3LRMGReJnsrT" version="23.1.1" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -504,7 +504,7 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-177" value="1978" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2289.5" y="326.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-179" value="解放农民生产力&lt;br&gt;出口农产品创汇解决&lt;br&gt;财政压力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-179" value="解放农民生产力&lt;br&gt;出口农产品创汇&lt;br&gt;解决财政压力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2300" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-179" edge="1">
@@ -515,8 +515,8 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-182" target="feEOzYVyzbYoH5Q8jdDR-176" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-182" value="&lt;font color=&quot;#ff3333&quot;&gt;12月改革开放&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2259.5" y="600" width="120" height="30" as="geometry" />
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-182" value="&lt;font color=&quot;#ff3333&quot;&gt;3天后宣布&lt;br&gt;改革开放&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="2259.5" y="580" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-184" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1373.5" y="317.93999999999994" width="10" height="10" as="geometry" />
@@ -1203,6 +1203,21 @@
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-1" value="1976" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2236.5" y="326.93999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmIFi-qa5Biy9fJEcqTU-4" target="feEOzYVyzbYoH5Q8jdDR-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-2" value="&lt;font&gt;2-3月打越南&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="2259.5" y="692.63" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmIFi-qa5Biy9fJEcqTU-2" target="XmIFi-qa5Biy9fJEcqTU-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="693" as="sourcePoint" />
+            <mxPoint x="2320" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-4" value="&lt;font&gt;12月宣布中美建交&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2259.5" y="639.63" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
