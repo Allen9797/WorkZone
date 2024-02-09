@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:20:08.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-fPjLO9_Plp8iIBAn0-m" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T13:33:38.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="59wx2E6gCP_g5O3n97x6" version="23.1.1" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1585" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1115,7 +1115,7 @@
           <mxGeometry x="2276" y="20" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-30" value="问题：&lt;br&gt;&lt;br&gt;1. 跟苏联咋闹翻了" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2010" y="575.58" width="180" height="54.05" as="geometry" />
+          <mxGeometry x="2001" y="550" width="180" height="54.05" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-33" value="问题：&lt;br&gt;&lt;br&gt;1. 苏联咋死的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="1005.95" width="180" height="54.05" as="geometry" />
@@ -1124,7 +1124,7 @@
           <mxGeometry x="750.49" y="80.00000000000006" width="180" height="54.05" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-35" value="问题：&lt;br&gt;&lt;br&gt;1. 毛这20年干了什么好事" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1649" y="521.5300000000001" width="180" height="54.05" as="geometry" />
+          <mxGeometry x="1649" y="550.0000000000001" width="180" height="54.05" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
