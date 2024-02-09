@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T08:49:08.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="n-Yu6v5ktQH6blrj5nFy" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T08:54:11.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-MGVKhevlgNU2DRSPnod" version="23.1.1" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1585" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3241,10 +3241,10 @@
           <mxGeometry x="496" y="2777.37" width="110" height="52.63" as="geometry" />
         </mxCell>
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-38" value="利息成本上升&lt;br&gt;财政压力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="690.01" y="2837.37" width="79.01" height="42.63" as="geometry" />
+          <mxGeometry x="689" y="2843.68" width="79.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-39" value="同时回收境内的流动性，扼杀经济（估值、就业、银行、房地产）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="679" y="2777.37" width="99.01" height="60" as="geometry" />
+          <mxGeometry x="674.5" y="2777.37" width="108.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-40" value="减少国外央行持有的资产总额" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="496" y="2842.37" width="110" height="32.63" as="geometry" />
@@ -3259,7 +3259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-42" value="做多美元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="694.52" y="2890" width="70" height="28.81" as="geometry" />
+          <mxGeometry x="693.5" y="2890" width="70" height="28.81" as="geometry" />
         </mxCell>
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3unYIklrFhx_Mp4yC3ZU-43" target="3unYIklrFhx_Mp4yC3ZU-39">
           <mxGeometry relative="1" as="geometry">
@@ -3275,7 +3275,7 @@
             <mxPoint x="16" y="-58" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3unYIklrFhx_Mp4yC3ZU-43" value="资本回流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="3unYIklrFhx_Mp4yC3ZU-43" value="资本回流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="521.49" y="2948" width="59.02" height="28.81" as="geometry" />
         </mxCell>
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-49" value="压低&lt;br&gt;美债利率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
