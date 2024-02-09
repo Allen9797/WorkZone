@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T08:09:49.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IcIXWBILX9psdiH4eki3" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T08:12:55.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="I9wzESxC3UgVe5B425PB" version="23.1.1" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1147" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1239,7 +1239,7 @@
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-42" value="美债利率主动提高：降低抛售政府的资产总额" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="840" y="710" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-46" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;观点1： 美企业不会全撤退，撤回部分去投资越南、马来、印度更多是政治上的风险分散，中国依旧是最大的市场&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-46" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;观点1： 美企业不会全撤退，撤回部分去投资越南、马来、印度更多是政治上的风险分散，中国依旧是最大的市场&lt;br&gt;&lt;br&gt;观点2：这些美国企业在资产价格变低之后，是否还会回来抄底？泰国、香港等地方 因为资产是自由的 会回来抄底，但美国企业在中国经营收到不公平对待、国进民退，这个就存疑了。实际上国进民退 也不会让民生等重要企业收到外资的沾染，像日本商社一样被大量控制&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1125.5" y="521.53" width="278.5" height="160.37" as="geometry" />
         </mxCell>
       </root>
