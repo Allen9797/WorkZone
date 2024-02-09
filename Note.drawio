@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T08:54:11.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-MGVKhevlgNU2DRSPnod" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T08:58:21.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YyCfmoNzfs7LviQ-jIO-" version="23.1.1" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1585" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3237,10 +3237,10 @@
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=3;" edge="1" parent="1" source="3unYIklrFhx_Mp4yC3ZU-37" target="3unYIklrFhx_Mp4yC3ZU-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3unYIklrFhx_Mp4yC3ZU-37" value="回收全球过剩资本：当新兴国家的资本收益率还不如美国国债的时候" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="3unYIklrFhx_Mp4yC3ZU-37" value="&lt;font color=&quot;#ff6666&quot;&gt;回收全球过剩资本&lt;/font&gt;：当新兴国家的资本收益率还不如美国国债的时候" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="496" y="2777.37" width="110" height="52.63" as="geometry" />
         </mxCell>
-        <mxCell id="3unYIklrFhx_Mp4yC3ZU-38" value="利息成本上升&lt;br&gt;财政压力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="3unYIklrFhx_Mp4yC3ZU-38" value="利息成本上升&lt;br&gt;财政压力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="689" y="2843.68" width="79.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-39" value="同时回收境内的流动性，扼杀经济（估值、就业、银行、房地产）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
@@ -3307,6 +3307,9 @@
         </mxCell>
         <mxCell id="3unYIklrFhx_Mp4yC3ZU-62" value="资本外流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="234.01" y="2928.68" width="59.02" height="28.81" as="geometry" />
+        </mxCell>
+        <mxCell id="3unYIklrFhx_Mp4yC3ZU-72" value="需求旺盛&lt;br&gt;经济过热" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="700.98" y="2976.81" width="59.02" height="28.81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
