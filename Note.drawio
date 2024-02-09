@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T07:31:17.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="S9oGEd3QQHBsUZC5Xmb1" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T07:32:30.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="foDTUJUX7cHxshxL6zhY" version="23.1.1" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1448" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -554,7 +554,7 @@
             <mxPoint x="825" y="356.2199999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-197" value="一战：法英俄国1907年组成的三国协约 VS 德国、奥匈帝国、意大利三国同盟，2100w死亡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-197" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;一战：&lt;/font&gt;&lt;/b&gt;法英俄国1907年组成的三国协约 VS 德国、奥匈帝国、意大利三国同盟，2100w死亡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="757.75" y="381.89" width="134.5" height="66.22" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-198" edge="1">
@@ -646,7 +646,7 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-244" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="750.49" y="316.93999999999994" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-245" value="1914" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-245" value="1913" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="725.49" y="286.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-246" target="feEOzYVyzbYoH5Q8jdDR-245" edge="1">
