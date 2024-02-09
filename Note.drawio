@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T07:39:25.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xAXMtS3rPNubQVlCotol" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-09T07:43:40.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZFNPx5VrufEA5-q6qpgT" version="23.1.1" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="1448" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1233,6 +1233,9 @@
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-16" value="76年华国锋接手&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;各地大干快上2年" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2216.75" y="380" width="99.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-28" value="GDP: 美2.3&amp;nbsp; &lt;br&gt;日1 苏0.8 德0.7 中0.1 w亿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2276" y="20" width="87" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
