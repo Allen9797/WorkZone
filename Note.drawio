@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:33:38.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="59wx2E6gCP_g5O3n97x6" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-10T13:21:54.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="avVyHmwY0AnpSyxrcIuC" version="23.1.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="1585" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,11 +69,6 @@
         </mxCell>
         <mxCell id="TkQU3ZpM_Q_7wprOFnkB-1" value="研究：&lt;br&gt;&lt;br&gt;1. 在2000-2020 的20年间，老龄化高峰期，是怎么度过的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="785.49" y="1440.57" width="174.37" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="TkQU3ZpM_Q_7wprOFnkB-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="872.49" y="1350" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-12" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1241" y="1870" width="593.6500000000001" height="270" as="geometry" />
@@ -508,7 +503,7 @@
             <mxPoint x="2360" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-182">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-182" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2319.5" y="291.86" as="targetPoint" />
           </mxGeometry>
@@ -549,7 +544,7 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-196" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="781" y="317.93999999999994" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-197">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-197" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="210" as="sourcePoint" />
             <mxPoint x="826" y="294" as="targetPoint" />
@@ -613,7 +608,7 @@
             <mxPoint x="869" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-232" value="习为连任&lt;br&gt;加杆杆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-232" value="习为连任&lt;br&gt;加马房地产" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="827" y="1184.43" width="83.5" height="32.87" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-235" value="2003" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -650,13 +645,13 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-245" value="1913" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="721" y="329.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-246" target="feEOzYVyzbYoH5Q8jdDR-245">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-246" target="feEOzYVyzbYoH5Q8jdDR-245" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-246" value="袁世凯任第一大总统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="695.75" y="385.47" width="110.5" height="36.53" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-248" target="feEOzYVyzbYoH5Q8jdDR-250">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-248" target="feEOzYVyzbYoH5Q8jdDR-250" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-248" value="陈独秀在上海&lt;br&gt;成立共产党" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -776,8 +771,8 @@
             <mxPoint x="869" y="1184" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-79" value="产业回流&lt;br&gt;利率抬高" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="842.5" y="1098.13" width="53" height="32.87" as="geometry" />
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-79" value="产业回流美国&lt;br&gt;利率抬高" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="831" y="1098.13" width="75.5" height="32.87" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-83" target="feEOzYVyzbYoH5Q8jdDR-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -815,7 +810,7 @@
         <mxCell id="RjBqSZwmlgp97S796oc--7" value="日本股市房地产泡沫破裂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="229.13" y="1141.5" width="75" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" target="feEOzYVyzbYoH5Q8jdDR-158" source="RjBqSZwmlgp97S796oc--7">
+        <mxCell id="RjBqSZwmlgp97S796oc--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RjBqSZwmlgp97S796oc--7" target="feEOzYVyzbYoH5Q8jdDR-158" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="1178" as="sourcePoint" />
             <mxPoint x="270" y="1240" as="targetPoint" />
@@ -1075,31 +1070,31 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-85" value="迅猛&lt;br&gt;重启加息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1029.5" y="1164.99" width="55.5" height="30.01" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-1" value="1976" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-1" value="1976" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2236.5" y="286.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XmIFi-qa5Biy9fJEcqTU-2" target="XmIFi-qa5Biy9fJEcqTU-4">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XmIFi-qa5Biy9fJEcqTU-2" target="XmIFi-qa5Biy9fJEcqTU-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-2" value="&lt;font&gt;2-3月打越南&lt;br&gt;和苏共翻脸&lt;br&gt;向美国交投名状&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-2" value="&lt;font&gt;2-3月打越南&lt;br&gt;和苏共翻脸&lt;br&gt;向美国交投名状&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="2259.5" y="117" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XmIFi-qa5Biy9fJEcqTU-4" target="feEOzYVyzbYoH5Q8jdDR-182">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XmIFi-qa5Biy9fJEcqTU-4" target="feEOzYVyzbYoH5Q8jdDR-182" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-4" value="&lt;font&gt;12月宣布中美建交&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-4" value="&lt;font&gt;12月宣布中美建交&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2259.5" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XmIFi-qa5Biy9fJEcqTU-13" target="XmIFi-qa5Biy9fJEcqTU-2">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XmIFi-qa5Biy9fJEcqTU-13" target="XmIFi-qa5Biy9fJEcqTU-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2360" y="120" as="sourcePoint" />
             <mxPoint x="2360" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-13" value="78年债务高峰" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-13" value="78年债务高峰" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2276" y="60" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XmIFi-qa5Biy9fJEcqTU-16">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XmIFi-qa5Biy9fJEcqTU-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2267" y="340" as="targetPoint" />
             <Array as="points">
@@ -1108,23 +1103,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-16" value="76年华国锋接手&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;各地大干快上2年" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-16" value="76年华国锋接手&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;各地大干快上2年" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2216.75" y="380" width="99.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-28" value="GDP: 美2.3&amp;nbsp; &lt;br&gt;日1 苏0.8 德0.7 中0.1 w亿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-28" value="GDP: 美2.3&amp;nbsp; &lt;br&gt;日1 苏0.8 德0.7 中0.1 w亿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2276" y="20" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-30" value="问题：&lt;br&gt;&lt;br&gt;1. 跟苏联咋闹翻了" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-30" value="问题：&lt;br&gt;&lt;br&gt;1. 跟苏联咋闹翻了" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2001" y="550" width="180" height="54.05" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-33" value="问题：&lt;br&gt;&lt;br&gt;1. 苏联咋死的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-33" value="问题：&lt;br&gt;&lt;br&gt;1. 苏联咋死的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="39.5" y="1005.95" width="180" height="54.05" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-34" value="问题：&lt;br&gt;&lt;br&gt;1. 中共战争、外交战略" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-34" value="问题：&lt;br&gt;&lt;br&gt;1. 中共战争、外交战略" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750.49" y="80.00000000000006" width="180" height="54.05" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-35" value="问题：&lt;br&gt;&lt;br&gt;1. 毛这20年干了什么好事" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-35" value="问题：&lt;br&gt;&lt;br&gt;1. 毛这20年干了什么好事" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1649" y="550.0000000000001" width="180" height="54.05" as="geometry" />
+        </mxCell>
+        <mxCell id="t7X92nFtn-C1FJELJJYL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t7X92nFtn-C1FJELJJYL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="904" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7X92nFtn-C1FJELJJYL-2" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;供给侧改革&lt;/font&gt;&lt;/b&gt;&lt;br&gt;处理僵尸企业出清产能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="871" y="1351.9899999999998" width="66" height="47.63" as="geometry" />
+        </mxCell>
+        <mxCell id="t7X92nFtn-C1FJELJJYL-4" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;僵尸登陆和僵尸企业&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="871" y="1399.6199999999997" width="66" height="47.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
