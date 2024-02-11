@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T13:28:06.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="y9DCiHeGPKpeOpckByXo" version="23.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-11T15:02:35.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jvi7SRdAce1VCcroRZl9" version="23.1.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="678" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,19 +390,11 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-128" target="feEOzYVyzbYoH5Q8jdDR-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-128" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1925" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-128" value="中国婴儿潮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1865" width="120" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-130" value="1975" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2211" y="329.93999999999994" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-131" value="1962" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1895" y="328.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-138" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -564,19 +556,11 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-204" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1830" y="317.43999999999994" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-205" target="feEOzYVyzbYoH5Q8jdDR-131" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-205" value="1958" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1805" y="329.43999999999994" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-207" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1880.1956521739135" y="358.9399999999999" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1805" y="288.43999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-207" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;大跃进&lt;/font&gt;&lt;/b&gt;官方数字死亡2-5kw，公安部、人口普查 死9kw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1824" y="400" width="112" height="60" as="geometry" />
+          <mxGeometry x="1820.5" y="201.86" width="112" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-210" value="日本全面老龄化&lt;br&gt;(2006) 60-70" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="618" y="780" width="120" height="60" as="geometry" />
@@ -867,7 +851,7 @@
           <mxGeometry x="1551" y="1800" width="167.5" height="34.05" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--23" value="&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%A4%A7%E9%99%B8%E6%99%82%E6%9C%9F%E6%AD%B7%E5%8F%B2%E5%B9%B4%E8%A1%A8&quot;&gt;中国年鉴&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1040.99" y="150.5" width="110" height="80" as="geometry" />
+          <mxGeometry x="1040.99" y="150.5" width="110" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--25" value="2062" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1958" y="1296.37" width="60" height="30" as="geometry" />
@@ -1123,16 +1107,76 @@
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-35" value="问题：&lt;br&gt;&lt;br&gt;1. 毛这20年干了什么好事" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1649" y="550.0000000000001" width="180" height="54.05" as="geometry" />
         </mxCell>
-        <mxCell id="t7X92nFtn-C1FJELJJYL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t7X92nFtn-C1FJELJJYL-2">
+        <mxCell id="t7X92nFtn-C1FJELJJYL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="t7X92nFtn-C1FJELJJYL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="904" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t7X92nFtn-C1FJELJJYL-2" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;供给侧改革&lt;/font&gt;&lt;/b&gt;&lt;br&gt;处理僵尸企业出清产能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t7X92nFtn-C1FJELJJYL-2" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;供给侧改革&lt;/font&gt;&lt;/b&gt;&lt;br&gt;处理僵尸企业出清产能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="871" y="1351.9899999999998" width="66" height="47.63" as="geometry" />
         </mxCell>
-        <mxCell id="t7X92nFtn-C1FJELJJYL-4" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;僵尸登陆和僵尸企业&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t7X92nFtn-C1FJELJJYL-4" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;僵尸登陆和僵尸企业&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="871" y="1399.6199999999997" width="66" height="47.63" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-1" target="feEOzYVyzbYoH5Q8jdDR-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-1" value="土改" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1624.25" y="213.55" width="39.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-3" target="F2SZfZQA1qvWX2JR25TQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-3" value="五反" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1668.5" y="213.55" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-4" value="1952" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1658.5" y="286.93999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-6" value="1951" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1639" y="329.93999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-7" target="F2SZfZQA1qvWX2JR25TQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-7" value="解放西藏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1643.5" y="398.27" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-9" target="F2SZfZQA1qvWX2JR25TQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-9" value="镇压反革命" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1624.25" y="140" width="39.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-11" value="1953" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1681" y="329.93999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-12" value="1955" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1730.5" y="329.93999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-14" value="1956" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1766" y="286.93999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-17" target="feEOzYVyzbYoH5Q8jdDR-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1925" y="310" as="targetPoint" />
+            <mxPoint x="1925" y="31" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-131" value="1962" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1895" y="288.43999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1868.5" y="232.56999999999994" width="20" height="97.37" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-128" target="F2SZfZQA1qvWX2JR25TQ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1925" y="288" as="targetPoint" />
+            <mxPoint x="1925" y="31" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-17" value="“七千人大会”后，毛泽东退居二线，刘少奇、邓小平掌党权军权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="110" width="102.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
