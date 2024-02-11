@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T16:16:59.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ApAx-4zP2OS5YfVl8Evw" version="23.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-11T16:37:51.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yCEZb0VojH6wIIJDMz2w" version="23.1.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -464,7 +464,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-170" value="中国成立" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1573.5" y="400" width="71" height="30" as="geometry" />
+          <mxGeometry x="1573.5" y="398.27" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-172" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="428" y="1284.37" width="10" height="10" as="geometry" />
@@ -555,7 +555,7 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-205" value="1958" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1805" y="287.43999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-207" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;大跃进&lt;/font&gt;&lt;/b&gt;官方数字死亡2-5kw，公安部、人口普查 死9kw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-207" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;大跃进&lt;/font&gt;&lt;/b&gt;官方数字死亡2-5kw，公安部、人口普查 死9kw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1820.5" y="201.86" width="112" height="60" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-210" value="日本全面老龄化&lt;br&gt;(2006) 60-70" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -571,7 +571,7 @@
             <mxPoint x="1559" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-227" value="国共内战" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-227" value="国共内战" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="1520.5" y="446.53" width="76.5" height="23.47" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-228" value="2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF99FF;" parent="1" vertex="1">
@@ -1052,7 +1052,7 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-85" value="迅猛&lt;br&gt;重启加息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1029.5" y="1164.99" width="55.5" height="30.01" as="geometry" />
         </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-1" value="1976" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="XmIFi-qa5Biy9fJEcqTU-1" value="1976" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2234.75" y="288.43999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XmIFi-qa5Biy9fJEcqTU-2" target="XmIFi-qa5Biy9fJEcqTU-4" edge="1">
@@ -1086,16 +1086,13 @@
           <mxGeometry x="2359" y="30.5" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-30" value="问题：&lt;br&gt;&lt;br&gt;1. 跟苏联咋闹翻了" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2001" y="550" width="180" height="54.05" as="geometry" />
+          <mxGeometry x="2021" y="620" width="180" height="54.05" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-33" value="问题：&lt;br&gt;&lt;br&gt;1. 苏联咋死的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="39.5" y="1005.95" width="180" height="54.05" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-34" value="问题：&lt;br&gt;&lt;br&gt;1. 中共战争、外交战略" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750.49" y="80.00000000000006" width="180" height="54.05" as="geometry" />
-        </mxCell>
-        <mxCell id="XmIFi-qa5Biy9fJEcqTU-35" value="问题：&lt;br&gt;&lt;br&gt;1. 毛这20年干了什么好事" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1649" y="550.0000000000001" width="180" height="54.05" as="geometry" />
         </mxCell>
         <mxCell id="t7X92nFtn-C1FJELJJYL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="t7X92nFtn-C1FJELJJYL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1112,31 +1109,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-1" value="土改" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1624.25" y="213.55" width="39.5" height="30" as="geometry" />
+          <mxGeometry x="1624.25" y="232.57000000000002" width="39.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-3" target="F2SZfZQA1qvWX2JR25TQ-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-64" target="F2SZfZQA1qvWX2JR25TQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1688.5" y="243.54999999999995" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-3" value="三反&lt;br&gt;五反" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1668.5" y="213.55" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-4" value="1952" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-4" value="1952" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="1658.5" y="286.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-6" value="1951" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1639" y="329.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-7" target="F2SZfZQA1qvWX2JR25TQ-6">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-65" target="F2SZfZQA1qvWX2JR25TQ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-7" value="解放西藏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1643.5" y="398.27" width="51" height="30" as="geometry" />
+          <mxGeometry x="1643.5" y="520" width="51" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-9" target="F2SZfZQA1qvWX2JR25TQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-9" value="镇压反革命" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1624.25" y="140" width="39.5" height="30" as="geometry" />
+          <mxGeometry x="1624.25" y="124.55000000000001" width="39.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-11" value="1953" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1681" y="329.93999999999994" width="60" height="30" as="geometry" />
@@ -1165,31 +1161,31 @@
             <mxPoint x="1925" y="31" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-17" value="“七千人大会”后，毛泽东退居二线，刘少奇、邓小平掌党权军权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-17" value="“七千人大会”后，&lt;font color=&quot;#009900&quot;&gt;毛泽东退居二线&lt;/font&gt;，刘少奇、邓小平掌党权军权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1881" y="110" width="102.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-20" target="F2SZfZQA1qvWX2JR25TQ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-20" value="毛发动“四清运动”，文革预演" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-20" value="毛发动四清运动&lt;br&gt;文革预演" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1906.75" y="391.74" width="102.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-21" value="1963" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1928" y="329.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-23" value="1966" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-23" value="1966" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="1996" y="288.43999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-24" value="1964" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1950.25" y="288.43999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-25" value="1968" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-25" value="1968" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="2043" y="286.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-26" value="1965" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1973" y="329.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-27" value="1967" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-27" value="1967" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="2021" y="329.93999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-28" value="1961" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -1198,7 +1194,7 @@
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-29" target="F2SZfZQA1qvWX2JR25TQ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-29" value="五一六通知：爆发“&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;无产阶级文化大革命&lt;/b&gt;&lt;/font&gt;”" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-29" value="五一六通知：爆发“&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;无产阶级文化大革命&lt;/font&gt;&lt;/b&gt;”" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1983.5" y="190" width="85.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-31" value="1973" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -1211,7 +1207,7 @@
           <mxGeometry x="2201.63" y="436.53" width="78.75" height="43.47" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-39" value="&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8E%86%E5%8F%B2%E5%B9%B4%E8%A1%A8&quot;&gt;共产年鉴&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1268.5" y="150.5" width="110" height="29.5" as="geometry" />
+          <mxGeometry x="1565.5" y="470" width="87" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-40" value="1977" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2268.37" y="329.43999999999994" width="60" height="30" as="geometry" />
@@ -1241,7 +1237,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-51" value="抗美&lt;br&gt;援朝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1624.25" y="60.5" width="39.5" height="30" as="geometry" />
+          <mxGeometry x="1624.25" y="69.5" width="39.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-55" value="1957" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1780" y="329.93999999999994" width="60" height="30" as="geometry" />
@@ -1258,11 +1254,26 @@
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-59" target="F2SZfZQA1qvWX2JR25TQ-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F2SZfZQA1qvWX2JR25TQ-59" value="武斗&lt;br&gt;屠杀" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-59" value="武斗&lt;br&gt;屠杀" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="2021" y="409.99999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-61" value="文革期间：大量文物被毁、公检法系统严重破坏、资助柬埔寨的红色高棉大屠杀" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2035.88" y="20" width="118.25" height="79.5" as="geometry" />
+          <mxGeometry x="2043" y="30.5" width="118.25" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-62" value="&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8E%86%E5%8F%B2&quot;&gt;共和国历史&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1563.25" y="499.49999999999994" width="91.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-64" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;五反&lt;/font&gt;&lt;/b&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;行贿、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;偷税漏税、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;偷工减料、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;盗骗国家财产、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;盗窃国家经济情报&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1643.13" y="139.5" width="90.75" height="104.05" as="geometry" />
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-7" target="F2SZfZQA1qvWX2JR25TQ-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1670" y="540" as="sourcePoint" />
+            <mxPoint x="1669" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2SZfZQA1qvWX2JR25TQ-65" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;三反&lt;/font&gt;&lt;/b&gt;：贪污、浪费、&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;官僚主义&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1643.13" y="400" width="51" height="61.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
