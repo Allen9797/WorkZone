@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T16:40:49.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RFJ8vf5XGJ4RweG1pbER" version="23.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-11T16:42:03.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eKiz5Yois3N_oWZxrZ3s" version="23.1.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,8 +471,8 @@
             <mxPoint x="433.5" y="1255.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-175" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;亚洲金融危机&lt;/font&gt;&lt;/b&gt;：几十万企业倒闭，数千万人下岗，官方数据：再就业 不参与失业统计，没有历史记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="362.5" y="1050" width="140" height="52.37" as="geometry" />
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-175" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;亚洲金融危机&lt;/font&gt;&lt;/b&gt;：几十万企业倒闭，数千万人下岗，官方数据：再就业 不参与失业统计，没有历史记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="1040" width="140" height="62.37" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-177" value="1978" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="2285.5" y="286.93999999999994" width="60" height="30" as="geometry" />
@@ -654,13 +654,13 @@
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-3" target="Fg7Yv-o50qpH0gsmprNX-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.816;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-3" target="feEOzYVyzbYoH5Q8jdDR-175" edge="1">
+        <mxCell id="RjBqSZwmlgp97S796oc--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-3" target="feEOzYVyzbYoH5Q8jdDR-175" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-3" target="Fg7Yv-o50qpH0gsmprNX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-3" value="把世界范围内的资本拉向美国，一方面&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;东亚金融危机&lt;/b&gt;&lt;/font&gt;，另一方面形成美国it泡沫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-3" value="把世界范围内的资本拉向美国，一方面&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;东亚金融危机&lt;/font&gt;&lt;/b&gt;，另一方面形成&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;美国it浪潮&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="276" y="970" width="147.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" edge="1">
@@ -674,8 +674,8 @@
         <mxCell id="RjBqSZwmlgp97S796oc--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-6" target="RjBqSZwmlgp97S796oc--62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-6" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;美国it泡沫破裂&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="462" y="937.3699999999999" width="92" height="42.63" as="geometry" />
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-6" value="&lt;font&gt;&lt;b&gt;美国it泡沫破裂&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="462" y="940" width="92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fg7Yv-o50qpH0gsmprNX-7" target="feEOzYVyzbYoH5Q8jdDR-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
