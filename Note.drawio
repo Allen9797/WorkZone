@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T16:37:51.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yCEZb0VojH6wIIJDMz2w" version="23.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-11T16:40:49.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RFJ8vf5XGJ4RweG1pbER" version="23.1.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,17 +58,11 @@
             <mxPoint x="508.00499999999954" y="1327.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="研究：&lt;br&gt;&lt;br&gt;1. 2000 年间，日本、美国用什么手段来应对第一次老龄化&lt;br&gt;&lt;br&gt;&lt;br&gt;关注：&lt;br&gt;&lt;br&gt;1. 有哪些市场具有潜力&lt;br&gt;2. 出台了哪些政策，做了哪些错误的事情&lt;br&gt;3. 利率、就业、出口、生产、产业结构、战争、美国&lt;br&gt;&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="338.63" y="1422.37" width="338.75" height="175" as="geometry" />
-        </mxCell>
-        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="862.67" y="971.31" width="20" height="720" as="geometry" />
+        <mxCell id="pJ9jbWrEM5ZpJKpATtAy-113" value="研究：&lt;br&gt;&lt;br&gt;1. 2000-2020 年间，日本、美国用什么手段来应对第一次老龄化&lt;br&gt;&lt;br&gt;&lt;br&gt;关注：&lt;br&gt;&lt;br&gt;1. 有哪些市场具有潜力&lt;br&gt;2. 出台了哪些政策，做了哪些错误的事情&lt;br&gt;3. 利率、就业、出口、生产、产业结构、战争、美国&lt;br&gt;&lt;br&gt;来源：社科院研究、书籍、论文、经济学家的采访，多消息来源" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="332.63" y="1422.37" width="351.37" height="175" as="geometry" />
         </mxCell>
         <mxCell id="sXCSqYo1SwddnmAylRoB-49" value="&lt;font color=&quot;#000000&quot;&gt;日本彻底&lt;br&gt;(2046) 结束老龄化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1651" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TkQU3ZpM_Q_7wprOFnkB-1" value="研究：&lt;br&gt;&lt;br&gt;1. 在2000-2020 的20年间，老龄化高峰期，是怎么度过的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="785.49" y="1440.57" width="174.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-12" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1241" y="1870" width="593.6500000000001" height="270" as="geometry" />
@@ -580,7 +574,7 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-229" target="feEOzYVyzbYoH5Q8jdDR-228" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-229" value="疫情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="feEOzYVyzbYoH5Q8jdDR-229" value="疫情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF99FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="941" y="1188.81" width="31" height="23.37" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-232" edge="1">
@@ -697,7 +691,7 @@
             <mxPoint x="740" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fg7Yv-o50qpH0gsmprNX-12" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;房地产 次贷危机&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Fg7Yv-o50qpH0gsmprNX-12" value="&lt;span&gt;&lt;font&gt;房地产 次贷危机&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="673" y="870.31" width="57" height="28.69" as="geometry" />
         </mxCell>
         <mxCell id="Fg7Yv-o50qpH0gsmprNX-24" value="2008" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -780,7 +774,7 @@
         <mxCell id="RjBqSZwmlgp97S796oc--3" value="人虽然未死，但财富开始交接，社会风险偏好提升" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1189" y="771.9000000000001" width="167.5" height="34.05" as="geometry" />
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--4" value="广场协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="RjBqSZwmlgp97S796oc--4" value="广场协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="129.5" y="1180" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -789,7 +783,7 @@
             <mxPoint x="151.7" y="1254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RjBqSZwmlgp97S796oc--7" value="日本股市房地产泡沫破裂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="RjBqSZwmlgp97S796oc--7" value="日本股市房地产泡沫破裂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="229.13" y="1141.5" width="75" height="41" as="geometry" />
         </mxCell>
         <mxCell id="RjBqSZwmlgp97S796oc--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RjBqSZwmlgp97S796oc--7" target="feEOzYVyzbYoH5Q8jdDR-158" edge="1">
@@ -1089,7 +1083,7 @@
           <mxGeometry x="2021" y="620" width="180" height="54.05" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-33" value="问题：&lt;br&gt;&lt;br&gt;1. 苏联咋死的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="39.5" y="1005.95" width="180" height="54.05" as="geometry" />
+          <mxGeometry x="70.5" y="1007.13" width="180" height="54.05" as="geometry" />
         </mxCell>
         <mxCell id="XmIFi-qa5Biy9fJEcqTU-34" value="问题：&lt;br&gt;&lt;br&gt;1. 中共战争、外交战略" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750.49" y="80.00000000000006" width="180" height="54.05" as="geometry" />
@@ -1101,9 +1095,6 @@
         </mxCell>
         <mxCell id="t7X92nFtn-C1FJELJJYL-2" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;供给侧改革&lt;/font&gt;&lt;/b&gt;&lt;br&gt;处理僵尸企业出清产能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="871" y="1351.9899999999998" width="66" height="47.63" as="geometry" />
-        </mxCell>
-        <mxCell id="t7X92nFtn-C1FJELJJYL-4" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;僵尸登陆和僵尸企业&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="871" y="1399.6199999999997" width="66" height="47.63" as="geometry" />
         </mxCell>
         <mxCell id="F2SZfZQA1qvWX2JR25TQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2SZfZQA1qvWX2JR25TQ-1" target="feEOzYVyzbYoH5Q8jdDR-87">
           <mxGeometry relative="1" as="geometry" />
