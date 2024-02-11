@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T17:20:27.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="idCO9zReYsIKdB-4ZEOx" version="23.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-11T17:23:50.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Lyyadrhqj7zMJmWf5S9i" version="23.1.2" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3509,11 +3509,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YgO7RwiG4UEc_-eKS6LU" name="感情分析">
-    <mxGraphModel dx="245" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-92" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oai8BpyVb0MdzdkgXFmZ-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="oai8BpyVb0MdzdkgXFmZ-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="110" width="210" height="180" as="geometry" />
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-2" value="外形" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -3612,7 +3612,7 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="180" as="sourcePoint" />
-            <mxPoint x="1070" y="140" as="targetPoint" />
+            <mxPoint x="1070" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -3624,7 +3624,7 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1110" y="190" as="sourcePoint" />
-            <mxPoint x="1070" y="140" as="targetPoint" />
+            <mxPoint x="1070" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -3636,7 +3636,7 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-62" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="240" as="sourcePoint" />
-            <mxPoint x="990" y="180" as="targetPoint" />
+            <mxPoint x="1000" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -4668,7 +4668,7 @@
         <mxCell id="LdLpC12C8dLwdPXtTVm_-4" value="瑶 pro:&lt;br&gt;1. 煮饭、处理细节、会照顾&lt;br&gt;2. 只能基本工作上下班&lt;br&gt;&lt;br&gt;con:&lt;br&gt;1. 能力：社交能力、应变能力差，且人生目标、需求不一致；有基本工作之后 没有任何变动的空间&lt;br&gt;2. 外形：矮d、面大、冇鼻；&lt;br&gt;3. 学习：学习能力差、脑力差，且s 和 n人思维方式不一致；&lt;br&gt;4. 家庭：公务员家庭，财产情况一般、认知水平一般、并不希望生活得太远&lt;br&gt;5. 性格比较自私，眼短" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1255" y="97.5" width="265" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="985" y="580" width="210" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-6" value="外形" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -4688,32 +4688,32 @@
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1135" y="730" as="sourcePoint" />
-            <mxPoint x="1045" y="730" as="targetPoint" />
+            <mxPoint x="1130" y="720" as="sourcePoint" />
+            <mxPoint x="1040" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1155" y="650" as="sourcePoint" />
-            <mxPoint x="1085" y="630" as="targetPoint" />
+            <mxPoint x="1140" y="660" as="sourcePoint" />
+            <mxPoint x="1090" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1045" y="730" as="sourcePoint" />
-            <mxPoint x="1035" y="660" as="targetPoint" />
+            <mxPoint x="1040" y="740" as="sourcePoint" />
+            <mxPoint x="1020" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1155" y="650" as="sourcePoint" />
-            <mxPoint x="1135" y="730" as="targetPoint" />
+            <mxPoint x="1140" y="660" as="sourcePoint" />
+            <mxPoint x="1130" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1085" y="630" as="sourcePoint" />
-            <mxPoint x="1035" y="660" as="targetPoint" />
+            <mxPoint x="1090" y="610" as="sourcePoint" />
+            <mxPoint x="1020" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;" edge="1" parent="1">
@@ -4724,30 +4724,30 @@
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1135" y="650" as="sourcePoint" />
+            <mxPoint x="1130" y="660" as="sourcePoint" />
             <mxPoint x="1095" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1045" y="730" as="sourcePoint" />
+            <mxPoint x="1040" y="740" as="sourcePoint" />
             <mxPoint x="1005" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1135" y="650" as="sourcePoint" />
+            <mxPoint x="1130" y="660" as="sourcePoint" />
             <mxPoint x="1132.5" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-21" value="桢 pro:&lt;br&gt;1. 能应变、但缺定力 命中缺水&lt;br&gt;2. 外形上高点，熊细d&lt;br&gt;3. 家庭经商，是否有机会共事；是否有能力共同投资；是否支持选择自己的生活&lt;br&gt;&lt;br&gt;con:&amp;nbsp;&lt;br&gt;1. 学习能力(大专+专插本)不清楚，看雅思能不能熬过去&lt;br&gt;2. 性格不强比较依赖，朋友少" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1290" y="540" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-22" value="策略：放假飞" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="370" width="100" height="30" as="geometry" />
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-22" value="策略：放假" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-24" value="策略：看雅思 要现成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="830" width="80" height="30" as="geometry" />
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-24" value="策略：看雅思 要结果，长线？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="830" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-25" value="phd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#FF6666;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1940.9500000000003" y="315" width="45.79" height="30" as="geometry" />
@@ -4763,6 +4763,12 @@
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-29" value="修炼职场话术和心境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#FF6666;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1710.95" y="195" width="45.79" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="730" as="sourcePoint" />
+            <mxPoint x="1040" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
