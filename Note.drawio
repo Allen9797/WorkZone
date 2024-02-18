@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T10:14:39.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SzTMNswof725N6e44Nc6" version="23.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-18T10:20:25.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="upncon3Sbs6vxxjKICoI" version="23.1.4" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3519,11 +3519,11 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="70" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="oai8BpyVb0MdzdkgXFmZ-2" value="外形" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="oai8BpyVb0MdzdkgXFmZ-2" value="外形&lt;br&gt;衣品、背包、车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="110" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oai8BpyVb0MdzdkgXFmZ-3" value="性格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="oai8BpyVb0MdzdkgXFmZ-3" value="性格&lt;br&gt;（是否自私、内修、情商、抗压能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="105" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-4" value="家庭&lt;br&gt;（思考方式、待人接物、财商）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="255" width="90" height="47.5" as="geometry" />
@@ -3531,8 +3531,8 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-5" value="学历&lt;br&gt;（学习、思考、规划能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="255" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="oai8BpyVb0MdzdkgXFmZ-6" value="能力&lt;br&gt;（应变能力、社交能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1022.5" y="20" width="85" height="40" as="geometry" />
+        <mxCell id="oai8BpyVb0MdzdkgXFmZ-6" value="能力&lt;br&gt;（应变、社交、营销、生存能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="1015.63" y="20" width="98.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-11" value="外形" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1976.74" y="155" width="60" height="30" as="geometry" />
@@ -3551,7 +3551,7 @@
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-30" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110" y="200" as="sourcePoint" />
+            <mxPoint x="1110" y="210" as="sourcePoint" />
             <mxPoint x="1030" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3561,7 +3561,7 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-32" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="140" as="sourcePoint" />
-            <mxPoint x="1060" y="120" as="targetPoint" />
+            <mxPoint x="1060" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-33" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -3573,12 +3573,12 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-34" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="140" as="sourcePoint" />
-            <mxPoint x="1110" y="200" as="targetPoint" />
+            <mxPoint x="1110" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-35" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="120" as="sourcePoint" />
+            <mxPoint x="1060" y="110" as="sourcePoint" />
             <mxPoint x="1010" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3615,7 +3615,7 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="140" as="sourcePoint" />
-            <mxPoint x="1070" y="100" as="targetPoint" />
+            <mxPoint x="1060" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -3627,7 +3627,7 @@
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1110" y="150" as="sourcePoint" />
-            <mxPoint x="1070" y="100" as="targetPoint" />
+            <mxPoint x="1060" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -4674,20 +4674,20 @@
         <mxCell id="LdLpC12C8dLwdPXtTVm_-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="430" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-6" value="外形" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="480" width="60" height="30" as="geometry" />
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-6" value="外形&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;衣品、背包、车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="1181" y="470" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-7" value="性格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="480" width="60" height="30" as="geometry" />
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-7" value="性格&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（是否自私、内修、情商、抗压能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="465" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-8" value="家庭&lt;br style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;（思考方式、待人接物、财商）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="616" width="110" height="50" as="geometry" />
+          <mxGeometry x="960" y="613" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-9" value="学历&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（学习、思考、规划能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="618" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-10" value="能力&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（应变能力、社交能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="1035" y="380" width="80" height="50" as="geometry" />
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-10" value="能力&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（应变、社交、营销、生存能力）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="1023.75" y="380" width="102.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-11" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4698,13 +4698,13 @@
         <mxCell id="LdLpC12C8dLwdPXtTVm_-12" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1140" y="510" as="sourcePoint" />
-            <mxPoint x="1075" y="460" as="targetPoint" />
+            <mxPoint x="1075" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-13" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1025" y="590" as="sourcePoint" />
-            <mxPoint x="1020" y="500" as="targetPoint" />
+            <mxPoint x="1010" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-14" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -4715,8 +4715,8 @@
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-15" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1075" y="460" as="sourcePoint" />
-            <mxPoint x="1020" y="500" as="targetPoint" />
+            <mxPoint x="1075" y="470" as="sourcePoint" />
+            <mxPoint x="1010" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -4727,7 +4727,7 @@
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="510" as="sourcePoint" />
+            <mxPoint x="1150" y="510" as="sourcePoint" />
             <mxPoint x="1080" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -4739,8 +4739,8 @@
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="510" as="sourcePoint" />
-            <mxPoint x="1117.5" y="580" as="targetPoint" />
+            <mxPoint x="1150" y="510" as="sourcePoint" />
+            <mxPoint x="1130" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-21" value="桢 pro:&lt;br&gt;1. 外形上高点，&lt;br&gt;2. &lt;font color=&quot;#ff6666&quot;&gt;家庭经商&lt;/font&gt;：是否有机会共事；是否有能力共同投资；是否支持选择自己的生活&lt;br&gt;&lt;br&gt;con:&amp;nbsp;&lt;br&gt;1. 外形上：&lt;font color=&quot;#009900&quot;&gt;熊细点&lt;/font&gt;&lt;br&gt;2. 性格不强比较依赖，朋友少&lt;br&gt;&lt;br&gt;机会&lt;br&gt;1. 能应变、但缺定力 命中缺水，看看&lt;font color=&quot;#004c99&quot;&gt;工作表现&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. 学习能力(大专+专插本)不清楚，看&lt;font color=&quot;#004c99&quot;&gt;雅思能不能熬过去&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -4769,7 +4769,7 @@
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF6666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1115" y="580" as="sourcePoint" />
+            <mxPoint x="1130" y="590" as="sourcePoint" />
             <mxPoint x="1025" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -4779,8 +4779,8 @@
             <mxPoint x="1110" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HbjiAlgEiLowbyHMJ9uD-1" value="当收入上来，有权选择生活的时候：&lt;br&gt;&lt;br&gt;1. 遇到 &lt;b&gt;年轻有实力&lt;/b&gt;的女生 也看不上你、老的又不愿意了&lt;br&gt;&lt;br&gt;1.1. 主要自己也不是五边形，外形欠缺、家庭、学历&lt;b&gt;全身的破绽&lt;/b&gt;，不能满足女生的慕强心理，实际上择偶权很弱&lt;br&gt;&lt;br&gt;1.2. 但其实男女的五边形战士都是很稀缺的，可以用&lt;b&gt;耐心、真诚&lt;/b&gt;来尝试争取&lt;br&gt;&lt;br&gt;2. 其他大概率遇到的都是看上你的钱，还tm以为是自己将就一下，只会 eat move shit 的美丽废物&lt;br&gt;&lt;br&gt;3. 既然自己不是五边形，那选对象的时候又愿意放弃那个角呢？" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="776" width="310" height="214" as="geometry" />
+        <mxCell id="HbjiAlgEiLowbyHMJ9uD-1" value="当收入上来，有权选择生活的时候：&lt;br&gt;&lt;br&gt;1. 遇到 &lt;b&gt;年轻有实力&lt;/b&gt;的女生 也看不上你、老的又不愿意了&lt;br&gt;&lt;br&gt;1.1. 主要自己也不是五边形，外形欠缺、家庭、学历&lt;b&gt;全身的破绽&lt;/b&gt;，不能满足女生的慕强心理，实际上择偶权很弱&lt;br&gt;&lt;br&gt;1.2. 但其实男女的五边形战士都是很稀缺的，可以用&lt;b&gt;耐心、真诚&lt;/b&gt;来尝试争取&lt;br&gt;&lt;br&gt;2. 其他大概率遇到的都是看上你的钱，还tm以为是自己将就一下，只会 eat move shit 的美丽废物&lt;br&gt;&lt;br&gt;3. 既然自己不是五边形，那选对象的时候又愿意放弃那个角呢？外形、学历" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="776" width="310" height="244" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
