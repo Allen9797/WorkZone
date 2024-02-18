@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T10:25:56.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3Ba75_r4a_mCANjJci3f" version="23.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-18T10:29:51.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3qStFQoVK26YzeejlJKt" version="23.1.4" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3666,7 +3666,7 @@
             <mxPoint x="1110" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oai8BpyVb0MdzdkgXFmZ-68" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="oai8BpyVb0MdzdkgXFmZ-68" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="2170" y="115" width="210" height="180" as="geometry" />
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-69" value="外形" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -4668,7 +4668,7 @@
         <mxCell id="LdLpC12C8dLwdPXtTVm_-3" value="me after" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="2100" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-4" value="瑶 pro:&lt;br&gt;1.&lt;font color=&quot;#ff6666&quot;&gt; 能力&lt;/font&gt;：煮饭、申请签证、会照顾；&lt;br&gt;&lt;br&gt;con:&lt;br&gt;1. &lt;font color=&quot;#009900&quot;&gt;能力&lt;/font&gt;：社交能力、应变能力差，且人生目标、需求不一致；有基本工作之后 没有任何变动的空间；只能按部就班工作上下班；但擅长厨艺&lt;br&gt;2. &lt;font color=&quot;#009900&quot;&gt;外形&lt;/font&gt;：矮d、面大、冇鼻；&lt;br&gt;3. &lt;font color=&quot;#009900&quot;&gt;学习&lt;/font&gt;：学习能力差、脑力差；s 人缺乏规划和远见，但善于执行眼下工作；&lt;br&gt;4. &lt;font color=&quot;#009900&quot;&gt;家庭&lt;/font&gt;：公务员家庭，财产情况一般，并&lt;b&gt;不希望生活得太远&lt;/b&gt;；&lt;br&gt;5. 性格：比较自私，眼短。&lt;br&gt;&lt;br&gt;机会：&lt;br&gt;1. 生活稳定、健康（广东&lt;font color=&quot;#009900&quot;&gt;内&lt;/font&gt;）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-4" value="瑶 pro:&lt;br&gt;1.&lt;font color=&quot;#ff6666&quot;&gt; 能力&lt;/font&gt;：煮饭、申请签证、会照顾；&lt;br&gt;&lt;br&gt;con:&lt;br&gt;1. &lt;font color=&quot;#009900&quot;&gt;能力&lt;/font&gt;：社交能力、应变能力差，且人生目标、需求不一致；有基本工作之后 没有任何变动的空间；只能按部就班工作上下班；但擅长厨艺&lt;br&gt;2. &lt;font color=&quot;#009900&quot;&gt;外形&lt;/font&gt;：矮d、面大、冇鼻；&lt;br&gt;3. &lt;font color=&quot;#009900&quot;&gt;学习&lt;/font&gt;：学习能力差、脑力差；s 人缺乏规划和远见，但善于执行眼下工作；&lt;br&gt;4. &lt;font color=&quot;#009900&quot;&gt;家庭&lt;/font&gt;：公务员家庭，财产情况一般，并&lt;b&gt;不希望生活得太远&lt;/b&gt;；&lt;br&gt;5. &lt;font color=&quot;#009900&quot;&gt;性格&lt;/font&gt;：比较自私，眼短。&lt;br&gt;&lt;br&gt;机会：&lt;br&gt;1. 生活稳定、健康（广东&lt;font color=&quot;#009900&quot;&gt;内&lt;/font&gt;）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1262.5" y="47.5" width="295" height="272.5" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
@@ -4743,16 +4743,16 @@
             <mxPoint x="1130" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-21" value="桢 pro:&lt;br&gt;1. 能力：应变可以，营销、社交能力&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;需锻炼&lt;/b&gt;&lt;br&gt;2. 外形上高点，车好，袋好&lt;br&gt;2. &lt;font color=&quot;#ff6666&quot;&gt;家庭经商&lt;/font&gt;：是否有机会共事；是否有能力共同投资；是否支持选择自己的生活&lt;br&gt;5.&lt;br&gt;&lt;br&gt;con:&amp;nbsp;&lt;br&gt;1. 能力：缺定力 命中缺水，行业差，看看&lt;font color=&quot;#009900&quot; style=&quot;border-color: var(--border-color);&quot;&gt;工作表&lt;/font&gt;&lt;font color=&quot;#009900&quot; style=&quot;border-color: var(--border-color);&quot;&gt;现&lt;/font&gt;&lt;br&gt;2. 外形上：&lt;font color=&quot;#009900&quot;&gt;熊细点&lt;br&gt;&lt;/font&gt;2. 学历：学习能力(大专+专插本)，看&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#004c99&quot;&gt;雅思和读研&lt;/font&gt;&lt;br&gt;3. 性格不强比较依赖，朋友少&lt;br&gt;&lt;br&gt;机会&lt;br&gt;1. 能做生意，打工有排挨&lt;br&gt;2. 一起生活只能靠屋企了" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-21" value="桢 pro:&lt;br&gt;1. 能力：应变可以，营销、社交能力&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;需锻炼&lt;/b&gt;&lt;br&gt;2. 外形上高点，车好，袋好&lt;br&gt;2. &lt;font color=&quot;#ff6666&quot;&gt;家庭经商&lt;/font&gt;：是否有机会共事；是否有能力共同投资；是否支持选择自己的生活&lt;br&gt;5.&lt;br&gt;&lt;br&gt;con:&amp;nbsp;&lt;br&gt;1. 能力：缺定力 命中缺水，行业差，看看&lt;font color=&quot;#009900&quot; style=&quot;border-color: var(--border-color);&quot;&gt;工作表&lt;/font&gt;&lt;font color=&quot;#009900&quot; style=&quot;border-color: var(--border-color);&quot;&gt;现&lt;/font&gt;&lt;br&gt;2. 外形上：&lt;font color=&quot;#009900&quot;&gt;熊细点&lt;br&gt;&lt;/font&gt;2. 学历：学习能力(大专+专插本)，看&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#004c99&quot;&gt;雅思和读研&lt;/font&gt;&lt;br&gt;3. 性格不强比较依赖，朋友少&lt;br&gt;&lt;br&gt;机会&lt;br&gt;1. 能做生意，但要先打工 有排挨&lt;br&gt;2. 一起生活&lt;font color=&quot;#3399ff&quot;&gt;只能靠屋企了&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1262.5" y="440" width="307.5" height="250" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-22" value="策略：放假" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1165" y="320" width="70" height="30" as="geometry" />
+          <mxGeometry x="1262.5" y="315" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-24" value="策略：看雅思要结果、看工作表现，宜长线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1145" y="680" width="90" height="50" as="geometry" />
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-24" value="策略：看雅思要结果、看工作表现，宜长线" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1262.5" y="700" width="287.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LdLpC12C8dLwdPXtTVm_-25" value="phd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="LdLpC12C8dLwdPXtTVm_-25" value="phd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#FF6666;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1940.9500000000003" y="315" width="45.79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-26" value="搵钱改善&lt;br&gt;买房" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#FF6666;fontStyle=1" parent="1" vertex="1">
@@ -4780,7 +4780,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HbjiAlgEiLowbyHMJ9uD-1" value="当收入上来，有权选择生活的时候，&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;现实是：&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;1. 遇到 &lt;b&gt;年轻有实力&lt;/b&gt;的女生 也看不上你、老的又不愿意了&lt;br&gt;&lt;br&gt;1.1. 主要自己也不是五边形，外形欠缺、家庭、学历&lt;b&gt;全身的破绽&lt;/b&gt;，不能满足女生的慕强心理，实际上择偶权很弱&lt;br&gt;&lt;br&gt;1.2. 但其实男女的五边形战士都是很稀缺的，可以用&lt;b&gt;耐心、真诚&lt;/b&gt;来尝试争取&lt;br&gt;&lt;br&gt;2. 其他大概率遇到的都是看上你的钱，还tm以为是自己将就一下，只会 eat move shit 的美丽废物&lt;br&gt;&lt;br&gt;3. 既然自己不是五边形，那选对象的时候又愿意放弃那个角呢？外形、学历" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="776" width="310" height="244" as="geometry" />
+          <mxGeometry x="880" y="790" width="310" height="244" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
