@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T09:50:45.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wQTLVSNY8m1pH9E9GbA_" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T09:51:19.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="1TKV_mBMlbikIJ8qXT2U" version="23.1.6" type="github">
   <diagram name="第 1 页" id="2AvsECfpP-dpQy5CQ5yH">
     <mxGraphModel dx="1449" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,7 +308,7 @@
         <mxCell id="D45DuEwmozY9MAPHDRq8-7" value="apipilot-sre-dev.intranet.local&lt;br style=&quot;font-size: 14px;&quot;&gt;tyk-gw-dev.intranet.local" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="477" y="50" width="273" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="GRSjZnAXTMxB1QKtdOID-115" value="" style="html=1;endArrow=none;elbow=vertical;startArrow=block;startFill=1;strokeColor=#545B64;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="D45DuEwmozY9MAPHDRq8-9" target="D45DuEwmozY9MAPHDRq8-6">
+        <mxCell id="GRSjZnAXTMxB1QKtdOID-115" value="" style="html=1;endArrow=classic;elbow=vertical;startArrow=block;startFill=1;strokeColor=#545B64;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;endFill=1;" edge="1" parent="1" source="D45DuEwmozY9MAPHDRq8-9" target="D45DuEwmozY9MAPHDRq8-6">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="560.31" y="253.18" as="sourcePoint" />
             <mxPoint x="663.31" y="70.18" as="targetPoint" />
