@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T10:26:51.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Zpgo7EQYOb-yE6oZPIAc" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T10:28:13.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yugkZ0jLrYkjorDqf8nZ" version="23.1.6" type="github">
   <diagram name="第 1 页" id="2AvsECfpP-dpQy5CQ5yH">
-    <mxGraphModel dx="984" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1721" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,6 +348,9 @@
         </mxCell>
         <mxCell id="D45DuEwmozY9MAPHDRq8-14" value="Load Balancer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;" parent="D45DuEwmozY9MAPHDRq8-4" vertex="1">
           <mxGeometry x="345.5" y="151.09" width="100" height="27.82" as="geometry" />
+        </mxCell>
+        <mxCell id="GRSjZnAXTMxB1QKtdOID-188" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;APM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="D45DuEwmozY9MAPHDRq8-4">
+          <mxGeometry x="356.13" y="854.75" width="80" height="27.82" as="geometry" />
         </mxCell>
         <mxCell id="D45DuEwmozY9MAPHDRq8-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet;" parent="1" vertex="1">
           <mxGeometry x="361" y="24" width="78" height="48" as="geometry" />
