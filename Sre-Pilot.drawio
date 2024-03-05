@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T07:11:20.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="syTEwsJQvPCxnsZcQuxX" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-05T07:23:08.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JMM-ImJXP6Y6NTAHiTKq" version="24.0.1" type="github" pages="2">
   <diagram name="第 1 页" id="2AvsECfpP-dpQy5CQ5yH">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,7 +386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yx83Bil_T6T4PRp2BM-n" name="v2">
-    <mxGraphModel dx="949" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,7 +409,7 @@
           <mxGeometry x="50" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-164" value="" style="group;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-11" vertex="1" connectable="0">
-          <mxGeometry x="25.00000000000003" y="190.00263294117644" width="65.04073219765107" height="60.50733882352941" as="geometry" />
+          <mxGeometry x="25.00000000000003" y="195.58263294117646" width="65.04073219765107" height="60.50733882352941" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-165" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;synthetic&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-164" vertex="1">
           <mxGeometry x="2.1316282072803006e-14" y="38.87647058823529" width="65.04073219765105" height="21.63086823529412" as="geometry" />
@@ -454,18 +454,18 @@
           <mxGeometry x="345.99999999999994" y="382" width="173" height="170" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-42" value="" style="group;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-40" vertex="1" connectable="0">
-          <mxGeometry x="20.520366098825605" y="78" width="54" height="55.82000000000001" as="geometry" />
+          <mxGeometry x="20.520366098825605" y="78" width="70" height="55.82000000000001" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-43" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-42" vertex="1">
           <mxGeometry x="5.649999999999999" y="-5.66" width="42.7" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-VioA24KB1tdNJVbn0Zf-44" value="slow-sql" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;fontFamily=Helvetica;" parent="-VioA24KB1tdNJVbn0Zf-42" vertex="1">
-          <mxGeometry x="-3.552713678800501e-15" y="35.338433131099976" width="54.00000000000001" height="20.48156686890003" as="geometry" />
+        <mxCell id="-VioA24KB1tdNJVbn0Zf-44" value="apm-slow-sql" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;fontFamily=Helvetica;" parent="-VioA24KB1tdNJVbn0Zf-42" vertex="1">
+          <mxGeometry x="-8" y="35.34" width="70" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-45" value="" style="group;fontFamily=Tahoma;" parent="-VioA24KB1tdNJVbn0Zf-40" vertex="1" connectable="0">
           <mxGeometry x="94" y="78" width="76" height="62.82000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="-VioA24KB1tdNJVbn0Zf-47" value="trace-&lt;span style=&quot;font-size: 10px;&quot;&gt;exception&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;fontFamily=Helvetica;" parent="-VioA24KB1tdNJVbn0Zf-45" vertex="1">
+        <mxCell id="-VioA24KB1tdNJVbn0Zf-47" value="apm-trace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;fontFamily=Helvetica;" parent="-VioA24KB1tdNJVbn0Zf-45" vertex="1">
           <mxGeometry x="-6" y="34.34" width="82" height="20.48" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-111" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-45" vertex="1">
@@ -505,13 +505,13 @@
           <mxGeometry width="48.75" height="48.75" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-21" value="" style="group;fontFamily=Helvetica;fontSize=10;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="361.03036609882554" y="290" width="64.98000000000002" height="72" as="geometry" />
+          <mxGeometry x="361.03036609882554" y="290" width="70" height="72" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-22" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-21" vertex="1">
           <mxGeometry x="13.920973145799252" y="8.28" width="37.138053708401515" height="35.65253156006546" as="geometry" />
         </mxCell>
-        <mxCell id="-VioA24KB1tdNJVbn0Zf-23" value="metadata" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-21" vertex="1">
-          <mxGeometry y="46.93" width="64.98" height="16.07" as="geometry" />
+        <mxCell id="-VioA24KB1tdNJVbn0Zf-23" value="apm-metadata" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-21" vertex="1">
+          <mxGeometry x="-2.51" y="50" width="70" height="16.07" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-114" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8.8;endSize=8.112;fillColor=#E6E6E6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -549,7 +549,7 @@
         <mxCell id="-VioA24KB1tdNJVbn0Zf-120" value="网关" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.api_gateway;" parent="-VioA24KB1tdNJVbn0Zf-122" vertex="1">
           <mxGeometry x="35.11" y="194" width="40.78" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-VioA24KB1tdNJVbn0Zf-77" value="用户应用" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecs;" parent="-VioA24KB1tdNJVbn0Zf-122" vertex="1">
+        <mxCell id="-VioA24KB1tdNJVbn0Zf-77" value="应用程序" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecs;" parent="-VioA24KB1tdNJVbn0Zf-122" vertex="1">
           <mxGeometry x="33.98" y="294" width="44.02" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-184" value="" style="group" parent="-VioA24KB1tdNJVbn0Zf-122" vertex="1" connectable="0">
@@ -591,10 +591,10 @@
         <mxCell id="-VioA24KB1tdNJVbn0Zf-67" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="-VioA24KB1tdNJVbn0Zf-62" vertex="1">
           <mxGeometry x="95.80710718442486" width="39.40578563115015" height="37.8319754523331" as="geometry" />
         </mxCell>
-        <mxCell id="-VioA24KB1tdNJVbn0Zf-68" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;apm&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-62" vertex="1">
+        <mxCell id="-VioA24KB1tdNJVbn0Zf-68" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;apm-metric&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-62" vertex="1">
           <mxGeometry x="82.98963390117441" y="38.87647058823529" width="65.04073219765105" height="21.63086823529412" as="geometry" />
         </mxCell>
-        <mxCell id="-VioA24KB1tdNJVbn0Zf-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;prometheus-k8s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-62" vertex="1">
+        <mxCell id="-VioA24KB1tdNJVbn0Zf-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;prometheus-k8s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=10;fontColor=#994C00;" parent="-VioA24KB1tdNJVbn0Zf-62" vertex="1">
           <mxGeometry x="82.98963390117441" y="108.54913176470589" width="65.04073219765105" height="21.63086823529412" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-70" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod;fontFamily=Helvetica;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-62" vertex="1">
@@ -613,19 +613,22 @@
           <mxGeometry x="12" y="50" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-188" value="网关日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;fontFamily=Georgia;" parent="-VioA24KB1tdNJVbn0Zf-168" vertex="1">
-          <mxGeometry x="12" y="132" width="90" height="30" as="geometry" />
+          <mxGeometry x="12" y="122" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-189" value="APM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="-VioA24KB1tdNJVbn0Zf-168" vertex="1">
-          <mxGeometry x="12" y="214" width="90" height="30" as="geometry" />
+          <mxGeometry x="12" y="193" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-190" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="-VioA24KB1tdNJVbn0Zf-168" vertex="1">
-          <mxGeometry x="12" y="296" width="90" height="30" as="geometry" />
+          <mxGeometry x="12" y="265" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-VioA24KB1tdNJVbn0Zf-191" value="中间件&lt;br style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;饱和度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="-VioA24KB1tdNJVbn0Zf-168" vertex="1">
-          <mxGeometry x="12" y="378" width="90" height="30" as="geometry" />
+        <mxCell id="-VioA24KB1tdNJVbn0Zf-191" value="中间件饱和度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="-VioA24KB1tdNJVbn0Zf-168" vertex="1">
+          <mxGeometry x="12" y="408" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-192" value="集群事件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="-VioA24KB1tdNJVbn0Zf-168" vertex="1">
-          <mxGeometry x="12" y="460" width="90" height="30" as="geometry" />
+          <mxGeometry x="12" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IfP3xBqXwr-GLDuh31kT-3" value="应用饱和度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" vertex="1" parent="-VioA24KB1tdNJVbn0Zf-168">
+          <mxGeometry x="12" y="337" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-176" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=12;endSize=7.4959999999999996;fillColor=#E6E6E6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -665,6 +668,12 @@
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-177" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png;fontSize=10;" parent="-VioA24KB1tdNJVbn0Zf-185" vertex="1">
           <mxGeometry x="11.310084825636189" y="5.420000000000016" width="41.37983034872762" height="35.96812441093309" as="geometry" />
+        </mxCell>
+        <mxCell id="IfP3xBqXwr-GLDuh31kT-1" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="455.2971071844249" y="215.78266117647058" width="39.40578563115015" height="37.8319754523331" as="geometry" />
+        </mxCell>
+        <mxCell id="IfP3xBqXwr-GLDuh31kT-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;actuator-health&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="442.47963390117445" y="258.6591317647059" width="65.04073219765105" height="21.63086823529412" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
