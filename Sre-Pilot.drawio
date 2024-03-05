@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T08:13:24.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7NNXfTCQZSIKpUXDWKia" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-05T08:14:52.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xRyrN0UvTsXkJwraJsMH" version="24.0.1" type="github" pages="2">
   <diagram name="第 1 页" id="2AvsECfpP-dpQy5CQ5yH">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -669,7 +669,7 @@
         <mxCell id="-VioA24KB1tdNJVbn0Zf-189" value="APM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="170" y="239" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-VioA24KB1tdNJVbn0Zf-190" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="-VioA24KB1tdNJVbn0Zf-190" value="应用日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="170" y="295" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-VioA24KB1tdNJVbn0Zf-191" value="中间件饱和度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Georgia;" parent="1" vertex="1">
