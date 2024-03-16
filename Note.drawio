@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T14:34:34.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GQTwmjj8ZAr-DbCT80Sv" version="24.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-16T14:37:32.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vts8j9tHVGjXlZHZi9Y_" version="24.0.6" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4663,10 +4663,10 @@
           <mxGeometry x="2130" y="800" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-1" value="me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1706.74" y="65" width="60" height="30" as="geometry" />
+          <mxGeometry x="1676.74" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-3" value="me after" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="2100" y="20" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LdLpC12C8dLwdPXtTVm_-4" value="瑶 pro:&lt;br&gt;1.&lt;font color=&quot;#ff6666&quot;&gt; 能力&lt;/font&gt;：煮饭、申请签证、会照顾；&lt;br&gt;&lt;br&gt;con:&lt;br&gt;1. &lt;font color=&quot;#009900&quot;&gt;能力&lt;/font&gt;：社交能力、应变能力差，且人生目标、需求不一致；有基本工作之后 没有任何变动的空间；只能按部就班工作上下班；但擅长厨艺&lt;br&gt;2. &lt;font color=&quot;#009900&quot;&gt;外形&lt;/font&gt;：矮d、面大、冇鼻；&lt;br&gt;3. &lt;font color=&quot;#009900&quot;&gt;学习&lt;/font&gt;：学习能力差、脑力差；s 人缺乏规划和远见，但善于执行眼下工作；&lt;br&gt;4. &lt;font color=&quot;#009900&quot;&gt;家庭&lt;/font&gt;：公务员家庭，财产情况一般，并&lt;b&gt;不希望生活得太远&lt;/b&gt;；&lt;br&gt;5. &lt;font color=&quot;#009900&quot;&gt;性格&lt;/font&gt;：比较自私，眼短。&lt;br&gt;&lt;br&gt;机会：&lt;br&gt;1. 生活稳定、健康（广东&lt;font color=&quot;#009900&quot;&gt;内&lt;/font&gt;）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1262.5" y="47.5" width="295" height="272.5" as="geometry" />
@@ -4800,7 +4800,7 @@
         <mxCell id="G2iaUgPLdPnQk_qlRTR_-23" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1085" y="1320" as="sourcePoint" />
-            <mxPoint x="995" y="1340" as="targetPoint" />
+            <mxPoint x="1010" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G2iaUgPLdPnQk_qlRTR_-24" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
@@ -4811,7 +4811,7 @@
         </mxCell>
         <mxCell id="G2iaUgPLdPnQk_qlRTR_-25" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="995" y="1340" as="sourcePoint" />
+            <mxPoint x="1010" y="1330" as="sourcePoint" />
             <mxPoint x="980" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
