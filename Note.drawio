@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T15:16:15.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Be9tF35DmulbnhzCDTJ3" version="24.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-17T15:16:27.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FU_HKJq9rUVxLjeXPAz_" version="24.0.6" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="918" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3509,7 +3509,7 @@
           <mxGeometry x="616.71" y="501" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRj_S6TmngbMtPYXEm5-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;bruce entj&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;bob isfj&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;leo entp&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1320" width="640" height="100" as="geometry" />
+          <mxGeometry x="990" y="1310" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
