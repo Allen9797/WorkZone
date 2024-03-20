@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T09:01:40.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vW0p7bqW9ui8K2RbnG-h" version="24.0.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-20T09:05:32.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AnQDUBtOlJZgMR1wNp7k" version="24.0.7" type="github" pages="5">
   <diagram name="第 1 页" id="2AvsECfpP-dpQy5CQ5yH">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -671,6 +671,54 @@
         </mxCell>
         <mxCell id="cjv44oG21lkuE-m5-ejj-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;设置&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="709.9975" y="457.09999999999997" width="70" height="28.6" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-6" value="资产" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="98" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-7" value="关系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="860" y="98" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-8" value="变更" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="142.89" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-9" value="拨测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="194.17" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-10" value="网关&lt;div&gt;可用性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="860" y="194" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-11" value="应用&lt;div&gt;可用性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="238.79" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-12" value="故障诊断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="284.25" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-13" value="故障自愈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="860" y="284.25" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-14" value="智能分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="325" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-15" value="SLO洞察" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="370.17" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-16" value="智能复盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="860" y="371" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-17" value="月报" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="408" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-18" value="周报" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="860" y="408" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-19" value="数据源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="457.1" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-20" value="黑名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="860" y="457.1" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cjv44oG21lkuE-m5-ejj-21" value="告警阈值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="790" y="491.83000000000004" width="50" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
