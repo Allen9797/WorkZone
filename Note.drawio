@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T08:52:02.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0CyvaUcs4UF6H7H-uKBe" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-04T09:19:59.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ycz89sx4kT_UjpeuKuL_" version="24.2.0" type="github" pages="8">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="764" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4587" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1309,11 +1309,11 @@
         <mxCell id="rSeaPi0g6fSyvyY-1AT3-16" value="政府债务导致的战争" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1834.65" y="1069" width="65.35" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rSeaPi0g6fSyvyY-1AT3-17" value="- 1945 广岛原子弹、日本投降结束二战&lt;div&gt;- 1965 香港股灾&lt;br&gt;&lt;div&gt;- 1999 互联网泡沫即将破裂&lt;/div&gt;&lt;div&gt;- 2019 疫情&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1760.65" y="945" width="159.35" height="65" as="geometry" />
+        <mxCell id="rSeaPi0g6fSyvyY-1AT3-17" value="&lt;div&gt;- 1929-1933 大萧条 1929股灾&lt;/div&gt;-&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;1945 广岛原子弹、日本投降结束二战&lt;/span&gt;&lt;div&gt;&lt;div&gt;- 1965 香港股灾&lt;br&gt;&lt;div&gt;- 1999 互联网泡沫即将破裂&lt;/div&gt;&lt;div&gt;- 2019 疫情&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1760.65" y="945" width="169.35" height="95" as="geometry" />
         </mxCell>
         <mxCell id="rSeaPi0g6fSyvyY-1AT3-18" value="- 1989 冷战白热化，还有2年结束&lt;div&gt;- 2007年 次贷危机前夕&lt;div&gt;- 2016 中美脱钩、开启加息&lt;/div&gt;&lt;div&gt;- 2026 AI泡沫&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1766" y="1193.37" width="164" height="56.63" as="geometry" />
+          <mxGeometry x="1766" y="1208" width="164" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
