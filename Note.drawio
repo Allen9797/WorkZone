@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T07:54:46.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="c6v9k-iP6AzkQbbH0R3m" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-04T07:57:40.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WP4UmyILVYQKDjFc1I2O" version="24.2.0" type="github" pages="8">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
-    <mxGraphModel dx="949" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,7 +505,7 @@
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-186" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1505" y="447.43999999999994" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-187" target="feEOzYVyzbYoH5Q8jdDR-111" edge="1">
+        <mxCell id="rSeaPi0g6fSyvyY-1AT3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="feEOzYVyzbYoH5Q8jdDR-187" target="feEOzYVyzbYoH5Q8jdDR-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-187" value="1945" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -560,13 +560,8 @@
             <mxPoint x="1292.5" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feEOzYVyzbYoH5Q8jdDR-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="feEOzYVyzbYoH5Q8jdDR-227" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1559" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-227" value="国共内战" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="1520.5" y="576.53" width="76.5" height="23.47" as="geometry" />
+          <mxGeometry x="1528.5" y="510.26" width="64.5" height="23.47" as="geometry" />
         </mxCell>
         <mxCell id="feEOzYVyzbYoH5Q8jdDR-228" value="2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF99FF;" parent="1" vertex="1">
           <mxGeometry x="926.5" y="1344.37" width="60" height="30" as="geometry" />
@@ -1289,6 +1284,21 @@
         </mxCell>
         <mxCell id="rSeaPi0g6fSyvyY-1AT3-5" value="1941" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1394.5" y="459.4699999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSeaPi0g6fSyvyY-1AT3-7" value="1948" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1554" y="418.43999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSeaPi0g6fSyvyY-1AT3-9" value="1947" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1528.5" y="456.93999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSeaPi0g6fSyvyY-1AT3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rSeaPi0g6fSyvyY-1AT3-12" target="rSeaPi0g6fSyvyY-1AT3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1557.05" y="71.5" as="sourcePoint" />
+            <mxPoint x="1556.05" y="448.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSeaPi0g6fSyvyY-1AT3-12" value="英国结束对印度殖民统治from1858" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="190" width="67" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
