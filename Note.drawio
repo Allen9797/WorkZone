@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T07:57:40.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WP4UmyILVYQKDjFc1I2O" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-04T08:00:31.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CSw9KuPJLFBkIIhUf1q1" version="24.2.0" type="github" pages="8">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1310" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1297,8 +1297,8 @@
             <mxPoint x="1556.05" y="448.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rSeaPi0g6fSyvyY-1AT3-12" value="英国结束对印度殖民统治from1858" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1525" y="190" width="67" height="40" as="geometry" />
+        <mxCell id="rSeaPi0g6fSyvyY-1AT3-12" value="英国结束对印度殖民统治from 1858" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF8000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1521" y="190" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
