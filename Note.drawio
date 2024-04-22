@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T03:18:20.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_Qe3I-tOWDvmdXozt1N5" version="24.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-22T03:18:59.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9vJJAY1zdhet6EpMnVxE" version="24.2.2" type="github" pages="8">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4875,14 +4875,14 @@
         <mxCell id="Lt6zHdOQDb9Cy7POQgDD-5" value="好看" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lt6zHdOQDb9Cy7POQgDD-6" value="装有钱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="930" width="60" height="30" as="geometry" />
+        <mxCell id="Lt6zHdOQDb9Cy7POQgDD-6" value="装有钱：&lt;div&gt;1. 买车&lt;/div&gt;&lt;div&gt;2. 吹牛逼&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="930" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lt6zHdOQDb9Cy7POQgDD-7" value="安全感" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lt6zHdOQDb9Cy7POQgDD-8" value="化妆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="930" width="60" height="30" as="geometry" />
+        <mxCell id="Lt6zHdOQDb9Cy7POQgDD-8" value="装好看：&lt;div&gt;1.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;化妆&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 整容&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 买衣服&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="910" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
