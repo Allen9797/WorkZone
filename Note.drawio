@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T02:35:19.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="11efJSEvQDgsawB9wSJp" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-10T02:36:41.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eZ08pAOt3lr-oawaELUM" version="24.3.1" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4938,6 +4938,36 @@
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-11" value="生意、赛道&lt;div&gt;供应商、客户&lt;br&gt;&lt;/div&gt;&lt;div&gt;管理、关键员工&lt;/div&gt;&lt;div&gt;生活方式、酒、车、食物、空气&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2163.12" y="2255" width="91.76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-13" value="&amp;lt;8k" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1686.35" y="2170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-14" value="&amp;lt;20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1809.86" y="2170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-15" value="&amp;lt;60" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1933.09" y="2170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-16" value="&amp;lt;300" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2056.35" y="2170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-17" value="300-5000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2181.35" y="2170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-18" value="&amp;lt;8k" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1685.59" y="2130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-19" value="&amp;lt;20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1809.1" y="2130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-20" value="&amp;lt;60" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1932.33" y="2130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-21" value="&amp;lt;300" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2055.5899999999997" y="2130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2cx4l118hcZpjhitIa6-22" value="&amp;gt;=300" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2180.5899999999997" y="2130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
