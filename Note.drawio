@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T13:47:36.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PYSatO4hlIfLMFZBKVw7" version="24.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-18T13:50:12.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xQyXacCSi4xLTLvTKR4N" version="24.4.0" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3592,8 +3592,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_k1j2Wu3XQIAUxKFeukf-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1676.74" y="2040" width="363.26" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="_k1j2Wu3XQIAUxKFeukf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="2017" width="640" height="270" as="geometry" />
+          <mxGeometry x="930" y="2040" width="640" height="270" as="geometry" />
         </mxCell>
         <mxCell id="oai8BpyVb0MdzdkgXFmZ-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="70" width="210" height="180" as="geometry" />
@@ -4883,88 +4886,88 @@
           <mxGeometry x="1716.74" y="1540" width="333" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FfxlEc_4y3jIkYyZ_T1d-8" value="男" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1786.74" y="1780" width="60" height="30" as="geometry" />
+          <mxGeometry x="1816.74" y="2072.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FfxlEc_4y3jIkYyZ_T1d-9" value="女" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1904.21" y="1780" width="60" height="30" as="geometry" />
+          <mxGeometry x="1934.21" y="2072.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FfxlEc_4y3jIkYyZ_T1d-10" value="需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1676.74" y="1840" width="60" height="30" as="geometry" />
+          <mxGeometry x="1706.74" y="2132.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FfxlEc_4y3jIkYyZ_T1d-11" value="对策" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1676.74" y="1930" width="60" height="30" as="geometry" />
+          <mxGeometry x="1706.74" y="2222.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FfxlEc_4y3jIkYyZ_T1d-12" value="好看" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1786.74" y="1840" width="60" height="30" as="geometry" />
+          <mxGeometry x="1816.74" y="2132.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FfxlEc_4y3jIkYyZ_T1d-13" value="装有钱：&lt;div&gt;1. 买车&lt;/div&gt;&lt;div&gt;2. 吹牛逼&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1781.74" y="1905" width="80" height="80" as="geometry" />
+          <mxGeometry x="1811.74" y="2197.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FfxlEc_4y3jIkYyZ_T1d-14" value="安全感" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1904.21" y="1840" width="60" height="30" as="geometry" />
+          <mxGeometry x="1934.21" y="2132.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FfxlEc_4y3jIkYyZ_T1d-15" value="装好看：&lt;div&gt;1.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;化妆&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 整容&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 买衣服&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1904.21" y="1900" width="90" height="70" as="geometry" />
+          <mxGeometry x="1934.21" y="2192.5" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-1" value="地摊" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1794" y="2160" width="60" height="30" as="geometry" />
+          <mxGeometry x="954" y="2183" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-2" value="优衣库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1917.51" y="2160" width="60" height="30" as="geometry" />
+          <mxGeometry x="1077.51" y="2183" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-3" value="Nike" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2040.74" y="2160" width="60" height="30" as="geometry" />
+          <mxGeometry x="1200.74" y="2183" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-4" value="Lacoste" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2164" y="2160" width="60" height="30" as="geometry" />
+          <mxGeometry x="1324" y="2183" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-5" value="Burberry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2289" y="2160" width="60" height="30" as="geometry" />
+          <mxGeometry x="1449" y="2183" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-7" value="柴米油盐&lt;div&gt;省钱&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1793.24" y="2220" width="60" height="30" as="geometry" />
+          <mxGeometry x="953.24" y="2243" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-8" value="伴侣&lt;div&gt;工作难受&lt;/div&gt;&lt;div&gt;省钱&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1917.51" y="2210" width="60" height="50" as="geometry" />
+          <mxGeometry x="1077.51" y="2233" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-9" value="技能&lt;div&gt;平台&lt;/div&gt;&lt;div&gt;职级&lt;/div&gt;&lt;div&gt;爱好&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2039.98" y="2220" width="60" height="30" as="geometry" />
+          <mxGeometry x="1199.98" y="2243" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-10" value="资产（房股票）&lt;div&gt;管理&lt;/div&gt;&lt;div&gt;家庭&lt;/div&gt;&lt;div&gt;项目&lt;/div&gt;&lt;div&gt;行业&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2151" y="2200" width="86" height="70" as="geometry" />
+          <mxGeometry x="1311" y="2223" width="86" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-11" value="生意、赛道&lt;div&gt;供应商、客户&lt;br&gt;&lt;/div&gt;&lt;div&gt;管理、关键员工&lt;/div&gt;&lt;div&gt;生活方式、酒、车、食物、空气&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2273.12" y="2205" width="91.76" height="60" as="geometry" />
+          <mxGeometry x="1433.12" y="2228" width="91.76" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-13" value="&amp;lt;8k" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1796.35" y="2120" width="60" height="30" as="geometry" />
+          <mxGeometry x="956.3499999999999" y="2143" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-14" value="&amp;lt;20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1919.86" y="2120" width="60" height="30" as="geometry" />
+          <mxGeometry x="1079.86" y="2143" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-15" value="&amp;lt;60" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2043.09" y="2120" width="60" height="30" as="geometry" />
+          <mxGeometry x="1203.09" y="2143" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-16" value="&amp;lt;300" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2166.35" y="2120" width="60" height="30" as="geometry" />
+          <mxGeometry x="1326.35" y="2143" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-17" value="300-5000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2291.35" y="2120" width="60" height="30" as="geometry" />
+          <mxGeometry x="1451.35" y="2143" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-18" value="雯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1795.59" y="2060" width="60" height="30" as="geometry" />
+          <mxGeometry x="955.5899999999999" y="2083" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-19" value="健、祥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1919.1" y="2060" width="60" height="30" as="geometry" />
+          <mxGeometry x="1079.1" y="2083" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-20" value="大厂打工人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2031.14" y="2060" width="77.67" height="30" as="geometry" />
+          <mxGeometry x="1191.14" y="2083" width="77.67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-21" value="高管、小生意&lt;div&gt;xmz&lt;/div&gt;&lt;div&gt;Bruce、&lt;span style=&quot;background-color: initial;&quot;&gt;Paul&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2159.7400000000002" y="2055" width="74.1" height="60" as="geometry" />
+          <mxGeometry x="1319.7400000000002" y="2078" width="74.1" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2cx4l118hcZpjhitIa6-22" value="&lt;div&gt;成熟生意、起步早&lt;/div&gt;笑莹&lt;div&gt;Delia&lt;/div&gt;&lt;div&gt;希瑞&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2270.85" y="2060" width="101" height="50" as="geometry" />
+          <mxGeometry x="1430.85" y="2083" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_k1j2Wu3XQIAUxKFeukf-3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;杠杆：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;1. 金融：股票、贷款&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2. 外形：身形、发型、健康&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3. 人力：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;4. 产品：可复用&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5. 声誉：媒体&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="865" y="1352.5" width="340" height="117.5" as="geometry" />
@@ -4974,6 +4977,18 @@
         </mxCell>
         <mxCell id="_k1j2Wu3XQIAUxKFeukf-5" value="How step further" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="850" y="1180" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_k1j2Wu3XQIAUxKFeukf-15" value="Theory 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="2042.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_k1j2Wu3XQIAUxKFeukf-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2065" y="2040" width="363.26" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_k1j2Wu3XQIAUxKFeukf-19" value="其实不需要过度去营销&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;实诚 + 实力 才是杀手锏&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2119.13" y="2125.5" width="255" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_k1j2Wu3XQIAUxKFeukf-25" value="Theory 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2068.26" y="2042.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
