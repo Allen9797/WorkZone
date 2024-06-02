@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T16:18:52.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="MOjwMFrqA0Lk84NKtCRj" version="24.4.13" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-02T16:23:43.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rlo_udFXXuR7xyul1Qb5" version="24.4.13" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="2345" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2816,46 +2816,64 @@
           <mxGeometry x="1700" y="30" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-4" value="27" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1725" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="1725" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-5" value="2024-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1725" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="1725" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-6" value="28" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1942" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="1942" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-7" value="2025-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1942" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="1942" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-8" value="29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="2160" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-9" value="2026-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2160" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="2160" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-10" value="30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2377" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="2377" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-11" value="2027-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2377" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="2377" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-12" value="1. 股票 120w，20原来+20赚的+40贷款+40融资" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1665" y="190" width="180" height="30" as="geometry" />
+          <mxGeometry x="1665" y="350" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-13" value="2. CFA 一级&amp;nbsp; 11月" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1665" y="240" width="180" height="30" as="geometry" />
+          <mxGeometry x="1665" y="400" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-14" value="可能1：宝洁 互联网，股票失利" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1888" y="190" width="180" height="30" as="geometry" />
+          <mxGeometry x="1888" y="350" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-15" value="可能2：申请博士，确定移民计划，当教授炒股or开公司" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1888" y="240" width="180" height="30" as="geometry" />
+          <mxGeometry x="1888" y="400" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-16" value="可能3：跟俊哥做直播，做tiktok + 套利" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1888" y="290" width="180" height="30" as="geometry" />
+          <mxGeometry x="1888" y="450" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-17" value="可能4：去金融机构，帮有钱人走钱到外面" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1888" y="340" width="180" height="30" as="geometry" />
+          <mxGeometry x="1888" y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-18" value="2023/11-02" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-19" value="2024-04" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1942" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-20" value="2024-05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-22" value="1. 发 bonus&lt;div&gt;2. 买支付宝的QDII，石油赚了20%&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1678" y="135" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-23" value="&lt;div&gt;1. 银行贷了40w，总利息成本大概在2.8%，有10w是分期，30w到期还款&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;香港开户，加上自己有54w&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="135" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-24" value="HRV 做空房地产亏了7w，隔周反手做多SOXL半导体，赚回10w" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="130" width="180" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
