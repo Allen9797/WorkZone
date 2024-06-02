@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T16:25:48.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aBAMAyPfQfZAGZzIvlK7" version="24.4.13" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-02T16:27:20.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3HSHSTxWDIUtPFCOCxcp" version="24.4.13" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="2345" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2839,23 +2839,23 @@
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-11" value="2027-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2377" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-12" value="1. 股票 120w，20原来+20赚的+40贷款+40融资" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1665" y="350" width="180" height="30" as="geometry" />
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-12" value="1. 管理规模120w=20自己+20赚的+40贷款+40融资" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1682.5" y="350" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-13" value="2. CFA 一级&amp;nbsp; 11月" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1665" y="400" width="180" height="30" as="geometry" />
+          <mxGeometry x="1682.5" y="400" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-14" value="可能1：宝洁 互联网" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1938" y="355" width="180" height="30" as="geometry" />
+          <mxGeometry x="1938" y="355" width="152" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-15" value="可能2：申请博士，确定移民计划，当教授炒股or开公司" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1938" y="405" width="180" height="30" as="geometry" />
+          <mxGeometry x="1938" y="405" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-16" value="可能3：跟俊哥做直播，做tiktok + 套利" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1938" y="455" width="180" height="30" as="geometry" />
+          <mxGeometry x="1938" y="450" width="152" height="35" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-17" value="可能4：去HK SG JP金融机构，帮有钱人走钱到外面" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1938" y="505" width="180" height="30" as="geometry" />
+          <mxGeometry x="1938" y="505" width="152" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-18" value="2023/11-02" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1725" y="100" width="60" height="30" as="geometry" />
@@ -2879,7 +2879,7 @@
           <mxGeometry x="1870" y="355" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;股票小赚&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="405" width="50" height="30" as="geometry" />
+          <mxGeometry x="1870" y="430" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-27" value="&lt;div&gt;有金融公司机会&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1870" y="500" width="50" height="45" as="geometry" />
