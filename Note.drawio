@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T10:09:44.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IByIlgVPNvsj5WuJ1TT1" version="24.2.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-02T16:13:09.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="h-IS_nuOSjgQws4ZyDpX" version="24.4.13" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="2345" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2437,7 +2437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="职业路线" id="_Za5BC0m-HuaRFZVXyjK">
-    <mxGraphModel dx="1290" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1539" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2812,11 +2812,38 @@
         <mxCell id="ty773OCRdOYvPDNeGyqH-23" value="&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;命理分析&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;/b&gt;&lt;p style=&quot;border-color: var(--border-color); font-weight: 400; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1. 31岁前 不要赌，殷实地工作和研究&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-weight: 400; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;2. keep health&lt;/span&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1330" y="600" width="310" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;路线规划&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="30" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-4" value="27" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-5" value="2024-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-6" value="28" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-7" value="2025-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-8" value="29" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-9" value="2026-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-10" value="30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-11" value="2027-07" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="xQmWjo_7CniX2GaEz4yQ" name="IT职业生涯-能力图谱">
-    <mxGraphModel dx="1290" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="xQmWjo_7CniX2GaEz4yQ" name="IT能力图谱">
+    <mxGraphModel dx="1616" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
