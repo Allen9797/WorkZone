@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T16:47:18.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hLHWr0f3-CEcKUobZjWn" version="24.4.13" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-02T16:57:35.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XB-Jem-_GeEz7MuND5Qu" version="24.4.13" type="github" pages="7">
   <diagram id="dTps3IID0lyOY1KCKMDZ" name="历史看未来">
     <mxGraphModel dx="2345" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2437,7 +2437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="事业路线" id="_Za5BC0m-HuaRFZVXyjK">
-    <mxGraphModel dx="1101" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2892,6 +2892,12 @@
         </mxCell>
         <mxCell id="mwFKhKqZkeaSTRQ0wXDm-32" value="&lt;div&gt;能亏20w， 100w 跌 20%，80w 跌 25%&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1678" y="460" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-33" value="2024/06-08" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwFKhKqZkeaSTRQ0wXDm-34" value="NVDL + SOXL，赚20w" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2315.5" y="132.5" width="129" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
