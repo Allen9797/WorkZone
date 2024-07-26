@@ -1794,16 +1794,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-25" value="AIGC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="720" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="670" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-30" value="1. 故障总结" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="250" width="85" height="30" as="geometry" />
+          <mxGeometry x="665" y="250" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-31" value="2. 诊断、止血" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="280" width="85" height="30" as="geometry" />
+          <mxGeometry x="665" y="280" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-32" value="3. 复盘报告" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="310" width="85" height="30" as="geometry" />
+          <mxGeometry x="665" y="310" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="so5e46y6MAYk0hXvswnx-33" target="so5e46y6MAYk0hXvswnx-35">
           <mxGeometry relative="1" as="geometry" />
@@ -1814,13 +1814,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-33" value="Accept" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="265" width="60" height="60" as="geometry" />
+          <mxGeometry x="800" y="265" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-35" value="记录&lt;div&gt;（ES）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;strokeColor=#FF6666;fontStyle=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="840" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="790" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="810" y="50" width="110" height="62" as="geometry" />
+          <mxGeometry x="780" y="50" width="110" height="62" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=4" vertex="1" parent="so5e46y6MAYk0hXvswnx-47">
           <mxGeometry y="16.17391304347826" width="38.78205128205128" height="13.478260869565219" as="geometry" />
@@ -1849,8 +1849,8 @@
         <mxCell id="so5e46y6MAYk0hXvswnx-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="so5e46y6MAYk0hXvswnx-49" target="so5e46y6MAYk0hXvswnx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="so5e46y6MAYk0hXvswnx-49" value="OpsPilot&lt;div&gt;监控拓扑&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="590" y="200" width="80" height="40" as="geometry" />
+        <mxCell id="so5e46y6MAYk0hXvswnx-49" value="OpsPilot&lt;div&gt;监控 - 拓扑&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
