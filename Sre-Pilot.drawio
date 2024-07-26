@@ -1821,7 +1821,7 @@
         <mxCell id="so5e46y6MAYk0hXvswnx-33" value="Accept" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="265" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="so5e46y6MAYk0hXvswnx-35" value="Actionept" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;strokeColor=#FF6666;fontStyle=1;opacity=70;" vertex="1" parent="1">
+        <mxCell id="so5e46y6MAYk0hXvswnx-35" value="记录&lt;div&gt;（ES）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;strokeColor=#FF6666;fontStyle=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="720" y="380" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
