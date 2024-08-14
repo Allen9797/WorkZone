@@ -1787,9 +1787,9 @@
         <mxCell id="so5e46y6MAYk0hXvswnx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="DyjwxOyOo-Q_-h9K6OtQ-1" target="so5e46y6MAYk0hXvswnx-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-7" value="call back refresh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="so5e46y6MAYk0hXvswnx-22">
+        <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-7" value="call back refresh&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;黄变红&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="so5e46y6MAYk0hXvswnx-22">
           <mxGeometry x="-0.0152" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="so5e46y6MAYk0hXvswnx-18" target="DyjwxOyOo-Q_-h9K6OtQ-1">
@@ -1806,11 +1806,8 @@
         <mxCell id="so5e46y6MAYk0hXvswnx-25" value="AIGC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="670" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="so5e46y6MAYk0hXvswnx-30" value="- 故障概述&amp;amp;止血" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="665" y="264" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="so5e46y6MAYk0hXvswnx-32" value="- 复盘报告" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="665" y="294" width="85" height="30" as="geometry" />
+        <mxCell id="so5e46y6MAYk0hXvswnx-30" value="- 故障概述&amp;amp;止血&lt;div&gt;- 复盘报告&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="250" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="so5e46y6MAYk0hXvswnx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="so5e46y6MAYk0hXvswnx-33" target="so5e46y6MAYk0hXvswnx-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
