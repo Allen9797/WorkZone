@@ -1900,7 +1900,7 @@
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DyjwxOyOo-Q_-h9K6OtQ-14" target="DyjwxOyOo-Q_-h9K6OtQ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-30" value="②&amp;nbsp;&lt;u&gt;/ai-inspection&lt;/u&gt; 提供指标, exception&lt;div&gt;&lt;b&gt;告警id&lt;/b&gt;&lt;br&gt;&lt;div&gt;(时间：告警 created -&amp;gt; updated 当前or结束)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DyjwxOyOo-Q_-h9K6OtQ-28">
+        <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-30" value="②&amp;nbsp;&lt;font color=&quot;#ff6666&quot;&gt;&lt;u&gt;/ai-inspection&lt;/u&gt; &lt;/font&gt;提供指标, exception&lt;div&gt;&lt;b&gt;告警id&lt;/b&gt;&lt;br&gt;&lt;div&gt;(时间：告警 created -&amp;gt; updated 当前or结束)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DyjwxOyOo-Q_-h9K6OtQ-28">
           <mxGeometry x="-0.1379" y="1" relative="1" as="geometry">
             <mxPoint x="39" y="8" as="offset" />
           </mxGeometry>
@@ -1931,13 +1931,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-22" value="ES" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="440" y="755" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="742.5" width="70" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DyjwxOyOo-Q_-h9K6OtQ-23" target="DyjwxOyOo-Q_-h9K6OtQ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-23" value="prometheus" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="700" width="70" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-35" value="指标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="692.5" width="30" height="15" as="geometry" />
