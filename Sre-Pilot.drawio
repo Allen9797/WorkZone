@@ -1881,7 +1881,7 @@
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DyjwxOyOo-Q_-h9K6OtQ-13" target="DyjwxOyOo-Q_-h9K6OtQ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-34" value="① AI诊断 call&lt;div&gt;param: 命令、告警id、中英文&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DyjwxOyOo-Q_-h9K6OtQ-33">
+        <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-34" value="① 新接口：AI诊断&lt;div&gt;param: 命令、告警id、中英文&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DyjwxOyOo-Q_-h9K6OtQ-33">
           <mxGeometry x="0.3681" y="-2" relative="1" as="geometry">
             <mxPoint x="-16" y="18" as="offset" />
           </mxGeometry>
