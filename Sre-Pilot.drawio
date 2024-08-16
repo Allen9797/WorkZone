@@ -1940,10 +1940,10 @@
           <mxGeometry x="440" y="700" width="70" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-35" value="指标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="692.5" width="30" height="15" as="geometry" />
+          <mxGeometry x="520" y="703.75" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-36" value="告警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="767.5" width="30" height="15" as="geometry" />
+          <mxGeometry x="520" y="743.75" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="DyjwxOyOo-Q_-h9K6OtQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DyjwxOyOo-Q_-h9K6OtQ-37" target="DyjwxOyOo-Q_-h9K6OtQ-21">
           <mxGeometry relative="1" as="geometry" />
