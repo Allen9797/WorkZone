@@ -2626,14 +2626,17 @@
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-37" value="（Exception, 慢SQL, 状态码, JVM）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="542.06" y="424.83" width="167.94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-38" value="秒级发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="284.11" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-39" value="5分钟发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-39" value="1分钟发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="755" y="291.57" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-40" value="秒级定位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="414.69" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-43" value="现代化运维" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="75.28" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-44" value="（分钟级修复）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="510" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
