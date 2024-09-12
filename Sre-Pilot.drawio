@@ -2575,7 +2575,7 @@
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-16" value="关系" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="487.2549019607843" y="199.71428571428572" width="73.5686274509804" height="25.142857142857142" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-17" value="告警收敛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-17" value="告警降噪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407.11764705882354" y="314.11428571428576" width="73.5686274509804" height="25.142857142857142" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-18" value="告警升级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2617,7 +2617,7 @@
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-32" value="API下钻分析" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="421.57" y="427.26" width="88.43" height="25.14" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-35" value="（监控、分析以告警为中心）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-35" value="（监控、分析以告警为中心；告警以服务粒度聚合）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="575.27" y="311.69" width="134.73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-36" value="（上下游、复杂度）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
