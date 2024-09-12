@@ -2200,7 +2200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="watch 结构">
-    <mxGraphModel dx="1619" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2117" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2454,17 +2454,8 @@
         <mxCell id="Co33RsFDT0R2ZPK_CHlG-78" value="front-end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="545" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Co33RsFDT0R2ZPK_CHlG-79" value="front-end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="935" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Co33RsFDT0R2ZPK_CHlG-80" value="Kubernetes Cron" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="585" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Co33RsFDT0R2ZPK_CHlG-81" value="front-end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1987" y="1360" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Co33RsFDT0R2ZPK_CHlG-82" value="Kubernetes Cron" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1010" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Co33RsFDT0R2ZPK_CHlG-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Co33RsFDT0R2ZPK_CHlG-83" target="Co33RsFDT0R2ZPK_CHlG-53">
           <mxGeometry relative="1" as="geometry" />
@@ -2480,6 +2471,12 @@
         </mxCell>
         <mxCell id="Co33RsFDT0R2ZPK_CHlG-93" value="&lt;div&gt;scape&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="300" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Co33RsFDT0R2ZPK_CHlG-94" value="配置化采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="860" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Co33RsFDT0R2ZPK_CHlG-95" value="告警降噪/升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="860" y="620" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
