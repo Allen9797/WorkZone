@@ -2545,16 +2545,16 @@
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-6" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="670" height="80.57" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-7" value="&lt;div&gt;采集&lt;span style=&quot;background-color: initial;&quot;&gt;自动化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;自动感知&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;（服务、异常类型、API黑名单）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-7" value="&lt;div&gt;采集&lt;span style=&quot;background-color: initial;&quot;&gt;自动化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;自动感知&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;（服务、异常类型、API黑名单）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="80" y="143.14" width="100" height="326.86" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-8" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;资产CMDB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-8" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;资产CMDB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="211.37254901960785" y="143.14285714285714" width="538.6274509803922" height="100.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-9" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;监控告警&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-9" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;监控告警&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="211.37254901960785" y="256.2857142857143" width="538.6274509803922" height="100.57142857142857" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-10" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;分析治理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-10" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;分析治理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="211.37254901960785" y="369.42857142857144" width="538.6274509803922" height="100.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-11" value="服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
