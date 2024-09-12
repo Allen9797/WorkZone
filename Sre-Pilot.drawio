@@ -2603,13 +2603,13 @@
           <mxGeometry x="319.0980392156863" y="389.54285714285714" width="73.5686274509804" height="25.142857142857142" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-28" value="治理跟进" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="421.5676470588235" y="389.54285714285714" width="73.5686274509804" height="25.142857142857142" as="geometry" />
+          <mxGeometry x="407.11764705882354" y="389.54285714285714" width="73.5686274509804" height="25.142857142857142" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-29" value="治理统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="521.4123529411766" y="389.54285714285714" width="73.5686274509804" height="25.142857142857142" as="geometry" />
+          <mxGeometry x="489.8823529411766" y="389.54285714285714" width="73.5686274509804" height="25.142857142857142" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-30" value="治理成效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="622.4645098039216" y="389.54285714285714" width="73.5686274509804" height="25.142857142857142" as="geometry" />
+          <mxGeometry x="575.2745098039215" y="389.54285714285714" width="73.5686274509804" height="25.142857142857142" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-31" value="可用性统计" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="319.0980392156863" y="427.25714285714287" width="86.70588235294119" height="25.142857142857142" as="geometry" />
