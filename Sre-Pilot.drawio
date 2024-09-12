@@ -2542,7 +2542,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-6" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-6" value="现 代 化 运 维" style="triangle;whiteSpace=wrap;html=1;direction=north;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="670" height="80.57" as="geometry" />
         </mxCell>
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-7" value="&lt;div&gt;采集&lt;span style=&quot;background-color: initial;&quot;&gt;自动化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;自动感知&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;（服务、异常类型、API黑名单）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
@@ -2626,16 +2626,13 @@
         <mxCell id="1PqSxm2hq0XE1UFu2j8X-37" value="（Exception, 慢SQL, 状态码, JVM）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="542.06" y="424.83" width="167.94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-39" value="1分钟发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-39" value="1分钟发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="755" y="291.57" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-40" value="秒级定位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-40" value="秒级定位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="760" y="414.69" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-43" value="现代化运维" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="75.28" width="75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1PqSxm2hq0XE1UFu2j8X-44" value="（分钟级修复）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1PqSxm2hq0XE1UFu2j8X-44" value="（分钟级修复）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="765" y="510" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
