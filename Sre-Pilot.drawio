@@ -2507,7 +2507,7 @@
         <mxCell id="Co33RsFDT0R2ZPK_CHlG-102" value="Lookout job" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="2100" y="205" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Co33RsFDT0R2ZPK_CHlG-107" value="&lt;span style=&quot;&quot;&gt;3. 每5min 遍历一次消息event，&lt;/span&gt;&lt;span&gt;把消息 按服务+告警名称聚合成告警Alert&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="Co33RsFDT0R2ZPK_CHlG-107" value="3. 每5min 遍历一次消息event，把消息 &lt;b&gt;按服务+告警名称&lt;/b&gt;聚合成告警Alert" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="2000" y="155" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Co33RsFDT0R2ZPK_CHlG-109" value="告警配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
