@@ -2726,11 +2726,11 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-95" value="台湾" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2895" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-96" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;基本功能、图表分析、&lt;/span&gt;治理逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2530" y="505" width="90" height="55" as="geometry" />
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-96" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;1. 基本功能、图表分析、&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;代替七成 Dynatrace&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2. 采集稳定性，&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;指标下钻深入&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;2. 治理逻辑&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3. 告警大框架改造&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2510" y="497.5" width="140" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-97" value="告警升级、大框架优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2685" y="510" width="90" height="55" as="geometry" />
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-97" value="1. 告警升级、告警抑制、告警详情页面&lt;div&gt;&lt;br&gt;&lt;div&gt;2. 下游分析&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2667.5" y="497.5" width="125" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
