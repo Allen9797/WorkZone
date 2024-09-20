@@ -2200,7 +2200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="代码结构">
-    <mxGraphModel dx="714" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="848" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2702,7 +2702,7 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-89" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1807.5" y="858.75" as="sourcePoint" />
-            <mxPoint x="2177.5" y="858.75" as="targetPoint" />
+            <mxPoint x="2441.2759560032896" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-90" value="9月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -2724,10 +2724,10 @@
           <mxGeometry x="2142.5" y="868.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-96" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;1. 基本功能完善&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. 图表分析、&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;代替七成 Dynatrace，&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;下游分析&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3. 采集稳定性，&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;指标下钻深入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;4. 治理发现 - 9.20完成&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;5. 告警UI重新设计开发- 完成&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;6. 告警大框架改造&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;- 其他产品调研&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1757.5" y="906.25" width="140" height="122.5" as="geometry" />
+          <mxGeometry x="1677.5" y="915" width="195" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-97" value="1. w2-w3:告警升级、告警抑制&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. w3: UI 重新&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 前端 agent, go agent 探索&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1915" y="918.75" width="125" height="70" as="geometry" />
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-97" value="1. w2-w3:告警升级、告警抑制&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. w3: UI 重新&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 前端 agent agent&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1895" y="915" width="165" height="131.25" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-A8EM6Drmm9x_atl1A8i-68" target="-A8EM6Drmm9x_atl1A8i-99">
           <mxGeometry relative="1" as="geometry">
@@ -2820,8 +2820,8 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-133" value="未知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2370" y="868.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-134" value="1. 告警逻辑深化&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 分析功能深化&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AIGC&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2125" y="915" width="175" height="95" as="geometry" />
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-134" value="1. 告警逻辑深化&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 分析功能深化&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AIGC&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. 前端分析&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="915" width="175" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
