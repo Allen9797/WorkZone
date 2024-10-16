@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="代码结构">
-    <mxGraphModel dx="1147" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="565" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1317,6 +1317,9 @@
             <mxPoint x="2150" y="372" as="sourcePoint" />
             <mxPoint x="2240" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="57iL8Pd9m4UWxio45bNl-46" value="&lt;b&gt;非关键API 过滤问题&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 正常应该在L1处理，而不是L2，因为在 菌落、xx酶 打到一定量的时候才会引起表征反应&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2. 但如果放在L1，在&lt;span style=&quot;background-color: initial;&quot;&gt;API缺少标注key API时，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;会屏蔽了关键问题&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.1. 解决方案1：即使在没有标注key api&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;时，也增加 判断API的&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1666.44" y="962.25" width="353.56" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
