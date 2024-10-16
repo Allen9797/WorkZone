@@ -846,7 +846,7 @@
             <mxPoint x="1920" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-16" value="Event(firing/resolve)&lt;div&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;- 粒度：api/pod+rule&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-16" value="Event (firing/resolve)&lt;div&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;- 粒度：api/pod+rule&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1680" y="247.5" width="170" height="245" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -855,10 +855,10 @@
             <mxPoint x="2241" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-17" value="Alert(firing/resolve)&lt;div&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;- 粒度：服务+rule&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-17" value="Alert (firing/resolve)&lt;div&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;- 粒度：服务+rule&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1921" y="247.5" width="260" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-18" value="Problem(open/close)&lt;div&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;- 粒度：服务&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-18" value="Problem (open/close)&lt;div&gt;&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;- 粒度：服务&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2241" y="247.5" width="230" height="245" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-21" value="L1 引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -906,10 +906,10 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2000" y="392.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-39" value="service 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-39" value="trading" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2410" y="355.5" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-40" value="trading + cpu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-40" value="trading + cpu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1930" y="347.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-41" value="member +&lt;div&gt;latency&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -945,7 +945,7 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-54" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2058" y="402.5" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-57" value="&lt;div&gt;&lt;b&gt;L2 引擎&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 服务内聚&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;是否需要告警&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;目前：只做助理 不做医生，&lt;u&gt;负责症状搜集、基本检查&lt;/u&gt;，交由医生诊断。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;未来：具备做根因分析的能力，也只是给医生（SA）&lt;u&gt;提供建议&lt;/u&gt;，&quot;我们根据逻辑/AI/过往历史数据，怀疑是xxx发生问题导致&quot;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-57" value="&lt;div&gt;&lt;b&gt;L2 引擎&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;font color=&quot;#ff6666&quot;&gt;服务内聚&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;是否需要告警&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;目前：只做助理 不做医生，&lt;u&gt;负责症状搜集、基本检查&lt;/u&gt;，交由医生诊断。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;未来：具备做根因分析的能力，也只是给医生（SA）&lt;u&gt;提供建议&lt;/u&gt;，&quot;我们根据逻辑/AI/过往历史数据，怀疑是xxx发生问题导致&quot;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1970.5" y="572.5" width="201" height="207.5" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1088,7 +1088,7 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-118" value="close" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1434" y="1298.75" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-120" value="trading + latency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-120" value="trading + latency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1930" y="305" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-122" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -1136,8 +1136,8 @@
         <mxCell id="Np6PIHcG8-9DXMtuL6il-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2058" y="450" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Np6PIHcG8-9DXMtuL6il-8" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;midware +&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;mem&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1930" y="437.5" width="60" height="30" as="geometry" />
+        <mxCell id="Np6PIHcG8-9DXMtuL6il-8" value="&lt;span style=&quot;&quot;&gt;midware +&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;mem&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1921" y="437.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Np6PIHcG8-9DXMtuL6il-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Np6PIHcG8-9DXMtuL6il-13" target="Np6PIHcG8-9DXMtuL6il-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1284,10 +1284,10 @@
         <mxCell id="57iL8Pd9m4UWxio45bNl-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;Problem&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2186" y="775" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="57iL8Pd9m4UWxio45bNl-33" value="&lt;b&gt;信息包含：&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. 程度（缺）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;时间&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;开始、持续时长&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. 上下游&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4. 占比范围&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;（缺）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="57iL8Pd9m4UWxio45bNl-33" value="&lt;b&gt;信息包含：&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. 程度（缺）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;时间&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;开始、持续时长&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. 上下游&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 占比范围&lt;span style=&quot;background-color: initial;&quot;&gt;（缺）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1850" y="805" width="157.12" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="57iL8Pd9m4UWxio45bNl-34" value="&lt;b&gt;信息包含：&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. 多少个症状&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="57iL8Pd9m4UWxio45bNl-34" value="&lt;b&gt;信息包含：&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. P1 多少个症状, P2 多少个症状&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;时间&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;开始、持续时长&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2150" y="805" width="135.44" height="151" as="geometry" />
         </mxCell>
       </root>
