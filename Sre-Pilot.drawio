@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="代码结构">
-    <mxGraphModel dx="1376" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -891,7 +891,7 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-34" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1730" y="417.5" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-35" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-35" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF66FF;" parent="1" vertex="1">
           <mxGeometry x="1750" y="447.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1081,7 +1081,7 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-120" value="trading + latency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1930" y="305" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-122" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-122" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF66FF;" parent="1" vertex="1">
           <mxGeometry x="2105" y="312.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-125" value="new" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#3399FF;" parent="1" vertex="1">
@@ -1293,7 +1293,7 @@
         <mxCell id="-A8EM6Drmm9x_atl1A8i-63" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="57iL8Pd9m4UWxio45bNl-44" vertex="1">
           <mxGeometry x="49.58083832335329" y="84.97005988023952" width="8.263473053892215" height="7.904191616766467" as="geometry" />
         </mxCell>
-        <mxCell id="-A8EM6Drmm9x_atl1A8i-130" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="57iL8Pd9m4UWxio45bNl-44" vertex="1">
+        <mxCell id="-A8EM6Drmm9x_atl1A8i-130" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF66FF;" parent="57iL8Pd9m4UWxio45bNl-44" vertex="1">
           <mxGeometry x="70.23952095808383" y="84.97005988023952" width="8.263473053892215" height="7.904191616766467" as="geometry" />
         </mxCell>
         <mxCell id="-A8EM6Drmm9x_atl1A8i-131" value="new" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#3399FF;" parent="57iL8Pd9m4UWxio45bNl-44" vertex="1">
