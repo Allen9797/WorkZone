@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="代码结构">
-    <mxGraphModel dx="1619" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1523" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1225,17 +1225,17 @@
             <mxPoint x="2095" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="57iL8Pd9m4UWxio45bNl-18" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;微服务 (120 个)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="212.5" width="99" height="30" as="geometry" />
+        <mxCell id="57iL8Pd9m4UWxio45bNl-18" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;微服务(业务影响)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2329" y="212.5" width="99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="57iL8Pd9m4UWxio45bNl-19" value="&lt;b&gt;新冠毒株&lt;/b&gt;（核酸）、xx 酶、尿酸、血压" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="57iL8Pd9m4UWxio45bNl-19" value="&lt;b&gt;新冠毒株&lt;/b&gt;（核酸）、xx 酶、尿酸、血压 (what)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1700" y="130" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="57iL8Pd9m4UWxio45bNl-21" value="头痛、眼睛烫、流鼻涕" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="57iL8Pd9m4UWxio45bNl-21" value="头痛、眼睛烫、流鼻涕 (when how)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1988" y="135" width="132.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="57iL8Pd9m4UWxio45bNl-22" value="patient" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2329" y="140" width="46" height="25" as="geometry" />
+        <mxCell id="57iL8Pd9m4UWxio45bNl-22" value="People (Who)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2329" y="140" width="91" height="25" as="geometry" />
         </mxCell>
         <mxCell id="57iL8Pd9m4UWxio45bNl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1270,8 +1270,8 @@
         <mxCell id="57iL8Pd9m4UWxio45bNl-33" value="&lt;b&gt;信息包含：&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. 程度（缺）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;时间&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;开始、持续时长&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 占比范围&lt;span style=&quot;background-color: initial;&quot;&gt;（缺）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1850" y="805" width="157.12" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="57iL8Pd9m4UWxio45bNl-34" value="&lt;b&gt;信息包含：&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. P1 多少个症状, P2 多少个症状&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;时间&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;开始、持续时长&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;辅助信息：&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 上游服务是否有问题&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="805" width="160" height="195" as="geometry" />
+        <mxCell id="57iL8Pd9m4UWxio45bNl-34" value="&lt;b&gt;信息包含：&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. who 有问题，业务影响有多大&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. 多少个症状&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="805" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="57iL8Pd9m4UWxio45bNl-44" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2280" y="310" width="138" height="132" as="geometry" />
