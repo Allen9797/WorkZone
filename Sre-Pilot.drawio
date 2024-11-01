@@ -3400,6 +3400,12 @@
         <mxCell id="LQ_rmA6ciP-lP7basD2Y-23" value="hour" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LQ_rmA6ciP-lP7basD2Y-24" value="可修改，可兜底" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LQ_rmA6ciP-lP7basD2Y-25" value="写入、查询方便" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="145" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
