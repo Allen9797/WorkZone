@@ -1487,7 +1487,7 @@
             <mxPoint x="1569" y="1679.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TKBxVEcQLdHIy63P4Af8-2" value="Alert 2：Trading-order&lt;div&gt;成功率&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TKBxVEcQLdHIy63P4Af8-2" value="Alert 3：Trading-order&lt;div&gt;成功率&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1580" y="1692.5" width="130" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="TKBxVEcQLdHIy63P4Af8-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1507,6 +1507,9 @@
         </mxCell>
         <mxCell id="TKBxVEcQLdHIy63P4Af8-9" value="Alert 1：Trading-order&lt;div&gt;成功率&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="879" y="1692.5" width="130" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TKBxVEcQLdHIy63P4Af8-10" value="Problem: Trading-order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="883.5" y="2200" width="131" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
