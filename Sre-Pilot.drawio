@@ -1265,16 +1265,28 @@
           <mxGeometry x="2670" y="1550" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-52" value="响应时间&lt;div style=&quot;font-size: 18px;&quot;&gt;成功率&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Exception&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;服务饱和度&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1655" width="110" height="105" as="geometry" />
+          <mxGeometry x="1670" y="1665" width="110" height="105" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-53" value="Pod&lt;div&gt;JVM&lt;/div&gt;&lt;div&gt;连接池&lt;/div&gt;&lt;div&gt;Exception&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1847" y="1655" width="110" height="105" as="geometry" />
+          <mxGeometry x="1847" y="1665" width="110" height="105" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-54" value="CPU Mem Conn&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mysql：Lock&lt;/div&gt;&lt;div&gt;Redis: in out IO&lt;/div&gt;&lt;div&gt;ES: Disk,&lt;/div&gt;&lt;div&gt;MQ: Lag, DLQ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2023.63" y="1660" width="150.37" height="160" as="geometry" />
+          <mxGeometry x="2023.63" y="1670" width="150.37" height="160" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-56" value="&lt;div&gt;请求量&lt;/div&gt;响应时间&lt;div style=&quot;font-size: 18px;&quot;&gt;成功率&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2206.69" y="1649" width="110" height="105" as="geometry" />
+          <mxGeometry x="2206.69" y="1659" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-57" value="特别页面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1609.75" width="115" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-58" value="general" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1842" y="1611.5" width="115" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-59" value="general" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2039" y="1611.5" width="84.5" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-60" value="general" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2209.82" y="1611.5" width="106.87" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
