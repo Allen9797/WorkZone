@@ -801,7 +801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uP9XiVicPt9YO_pJPjwT" name="周会议题">
-    <mxGraphModel dx="1007" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1204,8 +1204,8 @@
         <mxCell id="prEyb0T5-kxX46IJXEKP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="prEyb0T5-kxX46IJXEKP-31" target="prEyb0T5-kxX46IJXEKP-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="prEyb0T5-kxX46IJXEKP-31" value="告警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="1341.5" width="73" height="43.5" as="geometry" />
+        <mxCell id="prEyb0T5-kxX46IJXEKP-31" value="告警推送" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2263.81" y="1291.5" width="110" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prEyb0T5-kxX46IJXEKP-32" target="prEyb0T5-kxX46IJXEKP-36">
           <mxGeometry relative="1" as="geometry" />
@@ -1220,25 +1220,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-32" value="图表分析" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2155.5" y="1590" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="2155.5" y="1540" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="prEyb0T5-kxX46IJXEKP-33" target="prEyb0T5-kxX46IJXEKP-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-33" value="OpsPilot&lt;div&gt;右上角提醒&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2563" y="1331.5" width="122.5" height="53.5" as="geometry" />
+          <mxGeometry x="2562" y="1270" width="122.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-36" value="API 告警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1688.25" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="1880" y="1638.25" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-37" value="饱和度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2062" y="1690" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="2062" y="1640" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-38" value="中间件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2259" y="1690" width="84.5" height="43.5" as="geometry" />
+          <mxGeometry x="2259" y="1640" width="84.5" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-39" value="外部依赖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2429.82" y="1690" width="106.87" height="43.5" as="geometry" />
+          <mxGeometry x="2429.82" y="1640" width="106.87" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prEyb0T5-kxX46IJXEKP-44" target="prEyb0T5-kxX46IJXEKP-32">
           <mxGeometry relative="1" as="geometry" />
@@ -1247,7 +1247,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-44" value="故障列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2413" y="1466.5" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="2413" y="1416.5" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prEyb0T5-kxX46IJXEKP-45" target="prEyb0T5-kxX46IJXEKP-46">
           <mxGeometry relative="1" as="geometry" />
@@ -1256,40 +1256,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-45" value="AIGC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2790" y="1590" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="2790" y="1540" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-46" value="API告警&lt;div&gt;是否需要介入处理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2675" y="1680" width="115" height="90" as="geometry" />
+          <mxGeometry x="2675" y="1630" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-47" value="故障复盘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2890" y="1680" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="2890" y="1630" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-52" value="响应时间&lt;div style=&quot;font-size: 18px;&quot;&gt;成功率&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Exception&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;服务饱和度&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1795" width="110" height="105" as="geometry" />
+          <mxGeometry x="1890" y="1745" width="110" height="105" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-53" value="Pod&lt;div&gt;JVM&lt;/div&gt;&lt;div&gt;连接池&lt;/div&gt;&lt;div&gt;Exception&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2067" y="1795" width="110" height="105" as="geometry" />
+          <mxGeometry x="2067" y="1745" width="110" height="105" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-54" value="CPU Mem Conn&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mysql：Lock&lt;/div&gt;&lt;div&gt;Redis: in out IO&lt;/div&gt;&lt;div&gt;ES: Disk,&lt;/div&gt;&lt;div&gt;MQ: Lag, DLQ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2243.63" y="1800" width="150.37" height="160" as="geometry" />
+          <mxGeometry x="2243.63" y="1750" width="150.37" height="160" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-56" value="&lt;div&gt;请求量&lt;/div&gt;响应时间&lt;div style=&quot;font-size: 18px;&quot;&gt;成功率&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2426.69" y="1789" width="110" height="105" as="geometry" />
+          <mxGeometry x="2426.69" y="1739" width="110" height="105" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-57" value="特别页面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1739.75" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="1880" y="1689.75" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-58" value="general" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2062" y="1741.5" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="2062" y="1691.5" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-59" value="general" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2259" y="1741.5" width="84.5" height="43.5" as="geometry" />
+          <mxGeometry x="2259" y="1691.5" width="84.5" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-60" value="general" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2429.82" y="1741.5" width="106.87" height="43.5" as="geometry" />
+          <mxGeometry x="2429.82" y="1691.5" width="106.87" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="prEyb0T5-kxX46IJXEKP-61" value="&lt;b&gt;问题&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4h窗口 如果是为了 不重复开问题单&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 有没有必要 进行 Renew，造成查询困难&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;有没有必要在 Alert 和 Problem 进行2层 窗口控制&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;中间 Gap&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="prEyb0T5-kxX46IJXEKP-61" value="&lt;b&gt;问题&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4h窗口 如果是为了 不重复开问题单&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 有没有必要 进行 Renew，造成查询困难&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;有没有必要在 Alert 和 Problem 进行2层 窗口控制&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;中间 Gap&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2875" y="147.5" width="395" height="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-62" value="痛点：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 无监控 和 监控盲点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 告警噪音多（聚合+分析）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 爆炸半径、故障关联、故障归因&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 故障程度区分&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1955" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-63" value="底座：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 良好的采集稳定性和适配性&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Fine design 的故障系统&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 好看的UI 和 良好的使用体验&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. AIGC 助手，更快更智能，一分钟&lt;span style=&quot;background-color: initial;&quot;&gt;解读海量应用信息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2610" y="1955" width="301" height="285" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
