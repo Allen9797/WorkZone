@@ -946,8 +946,8 @@
         <mxCell id="3tbfx1glC7lXD7tKLEdf-4" value="Alert 2：Trading-order&lt;div&gt;延迟&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2231" y="651" width="131" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="3tbfx1glC7lXD7tKLEdf-5" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: 等线;&quot;&gt;告警三层聚合过程&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="15" width="115" height="65" as="geometry" />
+        <mxCell id="3tbfx1glC7lXD7tKLEdf-5" value="成功率&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;计算问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="24" width="115" height="65" as="geometry" />
         </mxCell>
         <mxCell id="3tbfx1glC7lXD7tKLEdf-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1299,6 +1299,48 @@
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-64" value="缺点：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 无网关&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 无前端&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 无K8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 无日志&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 无部署、版本信息&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2922" y="1980" width="301" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-66" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="147.5" width="420" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-67" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3670" y="152.5" width="420" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-68" value="一分钟内：收到请求共100个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3652" y="90.5" width="140" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-69" value="Exception" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="173" width="140" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-70" value="5xx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3810" y="173" width="140" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-71" value="30次异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="3507.5" y="280.25" width="85" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-72" value="30个请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="3810" y="280.25" width="140" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-73" value="20个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3675" y="292.5" width="85" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-74" value="15个请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3507.5" y="339" width="85" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-75" value="目前数据支持获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="280.25" width="85" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="prEyb0T5-kxX46IJXEKP-76" target="prEyb0T5-kxX46IJXEKP-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-76" value="既返回5xx，也抛出Exception" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3647.5" y="512" width="140" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-78" value="当前情况&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;电商：抛异常，但catch 所有异常 返回 200&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CA：既返回5xx，也抛异常&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="633.75" width="300" height="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-79" value="&lt;div&gt;痒点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. 无法根据当前成功率进行&lt;font color=&quot;#ff0000&quot;&gt;治理&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;font color=&quot;#ff6666&quot;&gt;告警&lt;/font&gt;推送不准确（暂时用关键API来解决）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3790" y="632.5" width="300" height="182.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
