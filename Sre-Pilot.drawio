@@ -801,7 +801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uP9XiVicPt9YO_pJPjwT" name="周会议题">
-    <mxGraphModel dx="1007" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2291" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1341,6 +1341,21 @@
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-79" value="&lt;div&gt;痒点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. 无法根据当前成功率进行&lt;font color=&quot;#ff0000&quot;&gt;治理&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;font color=&quot;#ff6666&quot;&gt;告警&lt;/font&gt;推送不准确（暂时用关键API来解决）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="3790" y="632.5" width="300" height="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-80" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3690" y="723.16" as="sourcePoint" />
+            <mxPoint x="3760" y="723.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-81" value="解决方案： 待定&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 分析每一条 trace，自行计算成功率，而非使用 apm 提供的聚合数据&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3790" y="920" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-83" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3930" y="830.3" as="sourcePoint" />
+            <mxPoint x="3930" y="910" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
