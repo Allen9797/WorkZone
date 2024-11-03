@@ -1291,11 +1291,14 @@
         <mxCell id="prEyb0T5-kxX46IJXEKP-61" value="&lt;b&gt;问题&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4h窗口 如果是为了 不重复开问题单&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 有没有必要 进行 Renew，造成查询困难&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;有没有必要在 Alert 和 Problem 进行2层 窗口控制&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;中间 Gap&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2875" y="147.5" width="395" height="322.5" as="geometry" />
         </mxCell>
-        <mxCell id="prEyb0T5-kxX46IJXEKP-62" value="痛点：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 无监控 和 监控盲点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 告警噪音多（聚合+分析）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 爆炸半径、故障关联、故障归因&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 故障程度区分&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1955" width="330" height="220" as="geometry" />
+        <mxCell id="prEyb0T5-kxX46IJXEKP-62" value="痛点：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 无监控 和 监控盲点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 告警噪音多（聚合+分析）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 爆炸半径、故障关联、故障归因&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 故障程度区分&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 治理成本高：数据收集、多方对齐、跟进&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1884" y="1930" width="350" height="305" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-63" value="底座：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 良好的采集稳定性和适配性&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Fine design 的故障系统&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 好看的UI 和 良好的使用体验&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. AIGC 助手，更快更智能，一分钟&lt;span style=&quot;background-color: initial;&quot;&gt;解读海量应用信息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="1955" width="301" height="285" as="geometry" />
+          <mxGeometry x="2529" y="1930" width="301" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="prEyb0T5-kxX46IJXEKP-64" value="缺点：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 无网关&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 无前端&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 无K8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 无日志&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 无部署、版本信息&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2922" y="1930" width="301" height="285" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
