@@ -801,7 +801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uP9XiVicPt9YO_pJPjwT" name="周会议题">
-    <mxGraphModel dx="3790" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1196,7 +1196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-31" value="告警推送" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2263.81" y="1291.5" width="110" height="43.5" as="geometry" />
+          <mxGeometry x="2333.81" y="1291.5" width="110" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="prEyb0T5-kxX46IJXEKP-32" target="prEyb0T5-kxX46IJXEKP-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1217,7 +1217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-33" value="OpsPilot&lt;div&gt;右上角提醒&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2562" y="1270" width="122.5" height="65" as="geometry" />
+          <mxGeometry x="2632" y="1270" width="122.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-36" value="API 告警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1880" y="1638.25" width="115" height="43.5" as="geometry" />
@@ -1238,7 +1238,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-44" value="故障列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2413" y="1416.5" width="115" height="43.5" as="geometry" />
+          <mxGeometry x="2483" y="1416.5" width="115" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="prEyb0T5-kxX46IJXEKP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="prEyb0T5-kxX46IJXEKP-45" target="prEyb0T5-kxX46IJXEKP-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1437,6 +1437,12 @@
         </mxCell>
         <mxCell id="9gFVd4fGbNOYLekH1jMw-14" value="故障三层" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1700" y="24" width="176" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9gFVd4fGbNOYLekH1jMw-15" value="人治" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2276.56" y="1455.63" width="84.5" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9gFVd4fGbNOYLekH1jMw-17" value="AI 治" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="1455.63" width="84.5" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
