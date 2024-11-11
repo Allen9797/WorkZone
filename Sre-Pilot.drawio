@@ -3371,8 +3371,15 @@
         <mxCell id="PDTo61XmlQnkWLK6ZWov-19" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web2;container=0;" parent="1" vertex="1">
           <mxGeometry x="1233.25" y="443.29999999999995" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KjVdkZIeBOWdiO0Kc3TS-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.016;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PDTo61XmlQnkWLK6ZWov-19" target="Xvb7NxP4my19MBG-TzLY-33">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KjVdkZIeBOWdiO0Kc3TS-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.016;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1231.2099999999996" y="474.0799999999999" as="sourcePoint" />
+            <mxPoint x="1139.6951" y="635.3877" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1185" y="474" />
+              <mxPoint x="1185" y="635" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xvb7NxP4my19MBG-TzLY-22" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web2;container=0;" parent="1" vertex="1">
           <mxGeometry x="1243.5" y="453.29999999999995" width="60" height="60" as="geometry" />
