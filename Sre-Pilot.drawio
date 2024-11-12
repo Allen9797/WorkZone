@@ -3340,7 +3340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="部署架构" id="2AvsECfpP-dpQy5CQ5yH">
-    <mxGraphModel dx="1602" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3367,11 +3367,11 @@
         </mxCell>
         <mxCell id="KjVdkZIeBOWdiO0Kc3TS-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.032;exitY=0.485;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1268.6159999999995" y="474.2924999999998" as="sourcePoint" />
-            <mxPoint x="1161.1550999999995" y="383.2576999999999" as="targetPoint" />
+            <mxPoint x="1265.6159999999995" y="474.2924999999998" as="sourcePoint" />
+            <mxPoint x="1158.1550999999995" y="383.2576999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1212" y="474" />
-              <mxPoint x="1212" y="383" />
+              <mxPoint x="1217" y="474" />
+              <mxPoint x="1217" y="383" />
             </Array>
           </mxGeometry>
         </mxCell>
