@@ -3340,7 +3340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="部署架构" id="2AvsECfpP-dpQy5CQ5yH">
-    <mxGraphModel dx="2019" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1716" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3667,6 +3667,9 @@
         </mxCell>
         <mxCell id="jwTXZ8xga2wDrf4IISiz-10" value="exporter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;container=0;" vertex="1" parent="1">
           <mxGeometry x="1066.69" y="510.0000000000001" width="90.5" height="23.17" as="geometry" />
+        </mxCell>
+        <mxCell id="jwTXZ8xga2wDrf4IISiz-11" value="1c2g*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="362.38" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
