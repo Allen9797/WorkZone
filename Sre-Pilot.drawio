@@ -3674,7 +3674,7 @@
         <mxCell id="jwTXZ8xga2wDrf4IISiz-13" value="&lt;font&gt;2.5c 9g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#9933FF;" vertex="1" parent="1">
           <mxGeometry x="883.24" y="331.19000000000005" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jwTXZ8xga2wDrf4IISiz-14" value="&lt;font&gt;0.1c 0.5g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#9933FF;" vertex="1" parent="1">
+        <mxCell id="jwTXZ8xga2wDrf4IISiz-14" value="&lt;font&gt;0.1c 0.5g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#9933FF;" vertex="1" parent="1">
           <mxGeometry x="1238" y="310" width="60" height="21.19" as="geometry" />
         </mxCell>
         <mxCell id="jwTXZ8xga2wDrf4IISiz-15" value="&lt;font&gt;0.5c 1g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#9933FF;" vertex="1" parent="1">
@@ -3683,10 +3683,10 @@
         <mxCell id="jwTXZ8xga2wDrf4IISiz-16" value="&lt;font&gt;0.5c 1g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#9933FF;" vertex="1" parent="1">
           <mxGeometry x="1084.51" y="331.19" width="60" height="21.19" as="geometry" />
         </mxCell>
-        <mxCell id="jwTXZ8xga2wDrf4IISiz-17" value="&lt;font&gt;0.1c 0.5g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#9933FF;" vertex="1" parent="1">
+        <mxCell id="jwTXZ8xga2wDrf4IISiz-17" value="&lt;font&gt;0.1c 0.5g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#9933FF;" vertex="1" parent="1">
           <mxGeometry x="1239.88" y="541.98" width="60" height="21.19" as="geometry" />
         </mxCell>
-        <mxCell id="jwTXZ8xga2wDrf4IISiz-18" value="&lt;font&gt;0.1c 0.5g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#9933FF;" vertex="1" parent="1">
+        <mxCell id="jwTXZ8xga2wDrf4IISiz-18" value="&lt;font&gt;0.1c 0.5g&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#9933FF;" vertex="1" parent="1">
           <mxGeometry x="1239.88" y="658.1800000000001" width="60" height="21.19" as="geometry" />
         </mxCell>
         <mxCell id="jwTXZ8xga2wDrf4IISiz-20" value="" style="group" vertex="1" connectable="0" parent="1">
