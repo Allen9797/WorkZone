@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="12">
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="OpsPilot">
-    <mxGraphModel dx="1646" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1190,41 +1190,41 @@
         <mxCell id="KeHmO1uKsLT9VLzWovdK-50" value="释放磁盘空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3007" y="1569.63" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-1" value="全局故障分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-1" value="全局故障分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="3341" y="30" width="160" height="51.25" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-2" target="-IPoAJ-yKv2jYT1A8iAU-10">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-2" target="-IPoAJ-yKv2jYT1A8iAU-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-2" value="解决痛点：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. API 告警&lt;b&gt;又多&lt;/b&gt;又混乱（即使被按照服务分类、按关键API分级、&lt;span style=&quot;background-color: initial;&quot;&gt;仍无法被分析&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. API告警之间&amp;nbsp;&lt;b&gt;关系未知&lt;/b&gt;，因果不清 无法推断&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 程度未知（爆炸半径、流量影响、告警-&amp;gt;可用性 关系不清）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 根因无法被推理&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-2" value="解决痛点：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. API 告警&lt;b&gt;又多&lt;/b&gt;又混乱（即使被按照服务分类、按关键API分级、&lt;span style=&quot;background-color: initial;&quot;&gt;仍无法被分析&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. API告警之间&amp;nbsp;&lt;b&gt;关系未知&lt;/b&gt;，因果不清 无法推断&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 程度未知（爆炸半径、流量影响、告警-&amp;gt;可用性 关系不清）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 根因无法被推理&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="3341" y="100" width="340" height="262.5" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-4" value="&lt;div&gt;降噪策略：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. 从告警范围：只看影响业务的、只看修改数据库的，一个服务限制在2-3个API以内&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 告警聚合+分级，按照服务归纳好告警的API，再从中抽出 关键API 作为判断故障级别的依据&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-4" value="&lt;div&gt;降噪策略：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. &lt;font color=&quot;#ff6666&quot;&gt;从告警范围&lt;/font&gt;：只看影响业务的、只看修改数据库的，一个服务限制在2-3个API以内&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;font color=&quot;#ff6666&quot;&gt;告警聚合+分级&lt;/font&gt;，按照服务归纳好告警的API，再从中抽出 关键API 作为判断故障级别的依据&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2537.5" y="92.5" width="352.5" height="237.5" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-5" target="-IPoAJ-yKv2jYT1A8iAU-7">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-5" target="-IPoAJ-yKv2jYT1A8iAU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-5" target="-IPoAJ-yKv2jYT1A8iAU-6">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-5" target="-IPoAJ-yKv2jYT1A8iAU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-5" value="Need Definition：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 定义问题&amp;nbsp;&lt;b&gt;需要被告警&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 哪些是噪音：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;b&gt;成功率&lt;/b&gt;的口径标准&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;b&gt;Exception&lt;/b&gt; 是否需要被特殊分析&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 流量的大小是否需要告警&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-5" value="Need Definition：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 定义问题&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;需要被告警、&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;哪些是噪音：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;b&gt;成功率 4xx需不需要告&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;b&gt;Exception&lt;/b&gt; 是否需要被特殊分析&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 流量的大小是否需要告警&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2739.5" y="341.25" width="313" height="237.5" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-6" value="太松产生 Noice：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. job、外部等 延迟：改阈值&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4xx：？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 请求量低 少量报错就触发告警：promql 已过滤&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-6" value="太松产生 Noice：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. job、外部等 延迟：改阈值&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4xx：？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 请求量低 少量报错就触发告警：promql 已过滤&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2936.75" y="645" width="352.5" height="237.5" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-7" value="&lt;b&gt;条件太苛刻 告警有盲点&lt;/b&gt;：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 大部分 API 出现 5xx、Exception、延迟飙升 无法告警&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-7" value="&lt;b&gt;条件太苛刻 告警有盲点&lt;/b&gt;：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 大部分 API 出现 5xx、Exception、延迟飙升 无法告警&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2505.5" y="642.5" width="352.5" height="237.5" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-10" target="-IPoAJ-yKv2jYT1A8iAU-11">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-10" target="-IPoAJ-yKv2jYT1A8iAU-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-10" value="措施：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. API 拓扑整理成&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;图&lt;/font&gt;&lt;/b&gt;，一个系统下 可以产生若干个图&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 使用 &lt;font color=&quot;#ff6666&quot;&gt;relation 指标&lt;/font&gt;，精确定位延迟、错误的因果&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 实时判断影响范围、是否需要告警、对可用性影响如何&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-10" value="措施：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. API 拓扑整理成&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;图&lt;/font&gt;&lt;/b&gt;，一个系统下 可以产生若干个图&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 使用 &lt;font color=&quot;#ff6666&quot;&gt;relation 指标&lt;/font&gt;，精确定位延迟、错误的因果&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 实时判断影响范围、是否需要告警、对可用性影响如何&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="3780" y="99.5" width="340" height="262.5" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-11" value="问题：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 算法如何把 2000个API 分成若干个图&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 怎么判断是否需要告警：图复杂度 和 告警占比，图的 流量影响占比&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 如何量化对可用性的影响&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 对业务的影响依然未知&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3551" y="517.5" width="340" height="222.5" as="geometry" />
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-11" value="问题：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 算法如何把 2000个API 分成若干个图&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 怎么判断是否需要告警：图复杂度 和 告警占比，图的 流量影响占比&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 如何量化对可用性的影响&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 对业务的影响依然未知&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="3551" y="427.5" width="340" height="222.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
