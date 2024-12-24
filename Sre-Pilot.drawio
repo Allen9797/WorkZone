@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="12">
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="OpsPilot">
-    <mxGraphModel dx="938" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2098" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1224,7 +1224,7 @@
           <mxGeometry x="3780" y="99.5" width="340" height="262.5" as="geometry" />
         </mxCell>
         <mxCell id="-IPoAJ-yKv2jYT1A8iAU-11" value="问题：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 算法如何把 2000个API 分成若干个图&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 怎么判断是否需要告警：图复杂度 和 告警占比，图的 流量影响占比&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 如何量化对可用性的影响&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 对业务的影响依然未知&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="3551" y="427.5" width="340" height="222.5" as="geometry" />
+          <mxGeometry x="3551" y="407.5" width="340" height="222.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
