@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="12">
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="OpsPilot">
-    <mxGraphModel dx="2098" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,7 +1200,7 @@
           <mxGeometry x="3341" y="100" width="340" height="262.5" as="geometry" />
         </mxCell>
         <mxCell id="-IPoAJ-yKv2jYT1A8iAU-4" value="&lt;div&gt;降噪策略：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. &lt;font color=&quot;#ff6666&quot;&gt;从告警范围&lt;/font&gt;：只看影响业务的、只看修改数据库的，一个服务限制在2-3个API以内&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;font color=&quot;#ff6666&quot;&gt;告警聚合+分级&lt;/font&gt;，按照服务归纳好告警的API，再从中抽出 关键API 作为判断故障级别的依据&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2537.5" y="92.5" width="352.5" height="237.5" as="geometry" />
+          <mxGeometry x="3031" y="341.25" width="352.5" height="237.5" as="geometry" />
         </mxCell>
         <mxCell id="-IPoAJ-yKv2jYT1A8iAU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-5" target="-IPoAJ-yKv2jYT1A8iAU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1209,12 +1209,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-IPoAJ-yKv2jYT1A8iAU-5" value="Need Definition：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 定义问题&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;需要被告警、&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;哪些是噪音：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;b&gt;成功率 4xx需不需要告&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;b&gt;Exception&lt;/b&gt; 是否需要被特殊分析&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 流量的大小是否需要告警&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2739.5" y="341.25" width="313" height="237.5" as="geometry" />
+          <mxGeometry x="2670" y="332.5" width="313" height="237.5" as="geometry" />
         </mxCell>
         <mxCell id="-IPoAJ-yKv2jYT1A8iAU-6" value="太松产生 Noice：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. job、外部等 延迟：改阈值&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4xx：？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 请求量低 少量报错就触发告警：promql 已过滤&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2936.75" y="645" width="352.5" height="237.5" as="geometry" />
         </mxCell>
-        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-7" value="&lt;b&gt;条件太苛刻 告警有盲点&lt;/b&gt;：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 大部分 API 出现 5xx、Exception、延迟飙升 无法告警&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="-IPoAJ-yKv2jYT1A8iAU-7" value="&lt;b&gt;条件太苛刻 告警有盲点&lt;/b&gt;：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 大部分 API 出现 5xx、&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;Exception&lt;/font&gt;&lt;/b&gt;、延迟飙升 无法告警&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2505.5" y="642.5" width="352.5" height="237.5" as="geometry" />
         </mxCell>
         <mxCell id="-IPoAJ-yKv2jYT1A8iAU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-IPoAJ-yKv2jYT1A8iAU-10" target="-IPoAJ-yKv2jYT1A8iAU-11" edge="1">
