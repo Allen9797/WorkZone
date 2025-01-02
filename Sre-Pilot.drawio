@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2" pages="12">
   <diagram id="iG_r5TBwZ5hRR2WY4JGk" name="OpsPilot">
-    <mxGraphModel dx="2534" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1226,38 +1226,44 @@
         <mxCell id="-IPoAJ-yKv2jYT1A8iAU-11" value="问题：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 算法如何把 2000个API 分成若干个图&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 怎么判断是否需要告警：图复杂度 和 告警占比，图的 流量影响占比&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 如何量化对可用性的影响&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 对业务的影响依然未知&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="3551" y="407.5" width="340" height="222.5" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="525" as="sourcePoint" />
             <mxPoint x="763.7759560032896" y="526.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-2" value="1月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-2" value="1月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100.00000000000001" y="487.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-3" value="2月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-3" value="2月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-4" value="3月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-4" value="3月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="465" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;w3 部署&lt;/span&gt;PD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;w3 部署&lt;/span&gt;PD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100.00000000000001" y="535" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;w3/4 部署TPA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;w3/4 部署TPA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="535" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;部署&lt;/span&gt;台湾" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;部署&lt;/span&gt;台湾" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="465" y="535" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-8" value="12月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-8" value="12月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="692.5" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-9" value="未知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-9" value="未知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="692.5" y="535" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUhJqFhSZuMElABpa6Qt-10" value="1. debug: 查指标、治理发现、故障聚合&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 组件优化&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AIGC 加模块&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 推广&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MUhJqFhSZuMElABpa6Qt-10" value="1. debug: 查指标、治理发现、故障聚合&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 组件优化&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AIGC 加模块&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 推广&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="642.25" y="147.5" width="155.5" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--1" value="1. skywalking 接入、采集ES分离、控制数据数量&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 治理 持续修改&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 增加P1 服务exception 和 慢SQL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;API告警 图内分析&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. ali pod&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42.25" y="585" width="155.5" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--2" value="&lt;div&gt;&lt;div&gt;1. ali relation、sky relation 对数&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 性能&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;分析：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;下游调用&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;前端：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;图展示&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 自监控&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="581.25" width="155.5" height="157.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
