@@ -1274,6 +1274,36 @@
         <mxCell id="lmtICj0A3Qni4NRkv6W--5" value="&lt;div&gt;&lt;div&gt;混沌工程&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="585" width="155.5" height="208.75" as="geometry" />
         </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="916" as="sourcePoint" />
+            <mxPoint x="743.7759560032896" y="916.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--8" value="Q1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80.00000000000001" y="877.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--9" value="Q2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--10" value="Q3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. 基础数据采集、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;数据搞准&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;故障分析 v2.0.0、混沌测试&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. 下游性能分析&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. SQL分析&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. ES MQ 操作分析&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="36.25" y="935.63" width="163.75" height="198.75" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--12" value="&lt;span style=&quot;&quot;&gt;1. OT 其他协议 探索接入&lt;/span&gt;&lt;div&gt;（Zipkin Jeager ebpf）&lt;br&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. 机器学习&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 故障分析 3.0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="927.5" width="170" height="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--13" value="Q4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--16" value="1. 走出行业（场景、实施）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 灰度监控？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 整合 CICD&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="929.38" width="155.5" height="200.62" as="geometry" />
+        </mxCell>
+        <mxCell id="lmtICj0A3Qni4NRkv6W--17" value="1. 走出行业" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="929.38" width="155.5" height="200.62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
