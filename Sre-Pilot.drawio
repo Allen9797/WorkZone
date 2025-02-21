@@ -4322,7 +4322,7 @@
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-10" value="Initialization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="95" y="30" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X6xgKVK9Jg7akcrCkXI8-21" value="&lt;div&gt;④ Rollover&lt;/div&gt;1. 按照表名结尾数字创建 新Index&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 102, 102));&quot;&gt;2. 用原有Alias 指向新Index&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FF6666);fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-21" value="&lt;div&gt;④ Rollover&lt;/div&gt;1. 按照表名结尾数字创建 新Index&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 102, 102));&quot;&gt;2. 将原有Alias 指向新Index&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FF6666);fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
