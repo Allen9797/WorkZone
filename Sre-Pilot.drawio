@@ -4266,7 +4266,7 @@
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-4" value="Indices" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="X6xgKVK9Jg7akcrCkXI8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-5" target="X6xgKVK9Jg7akcrCkXI8-6">
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);strokeWidth=2;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-5" target="X6xgKVK9Jg7akcrCkXI8-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="380" />
@@ -4307,7 +4307,7 @@
             <mxPoint x="1" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6xgKVK9Jg7akcrCkXI8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-10" target="X6xgKVK9Jg7akcrCkXI8-22">
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=light-dark(#A50040,#FF6666);fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-10" target="X6xgKVK9Jg7akcrCkXI8-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-26" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51)); font-size: 14px;&quot;&gt;③ request&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="X6xgKVK9Jg7akcrCkXI8-23">
@@ -4315,13 +4315,13 @@
             <mxPoint x="21" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6xgKVK9Jg7akcrCkXI8-10" value="Initialization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-10" value="Initialization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="95" y="30" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-21" value="&lt;div&gt;④ Rollover&lt;/div&gt;1. 按照表名结尾数字创建 新Index&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. 将原有Alias 指向新Index&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FF3333);fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X6xgKVK9Jg7akcrCkXI8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-22" target="X6xgKVK9Jg7akcrCkXI8-5">
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF3333);strokeWidth=2;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-22" target="X6xgKVK9Jg7akcrCkXI8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-25" value="③ create" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="X6xgKVK9Jg7akcrCkXI8-24">
