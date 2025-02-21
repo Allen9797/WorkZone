@@ -4266,6 +4266,14 @@
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-4" value="Indices" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="200" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-5" target="X6xgKVK9Jg7akcrCkXI8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="380" />
+              <mxPoint x="390" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-5" value="sql-log-000001" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="270" width="80" height="40" as="geometry" />
         </mxCell>
@@ -4286,7 +4294,7 @@
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-10" target="X6xgKVK9Jg7akcrCkXI8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X6xgKVK9Jg7akcrCkXI8-16" value="②创建/覆盖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X6xgKVK9Jg7akcrCkXI8-11">
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-16" value="② 创建/覆盖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X6xgKVK9Jg7akcrCkXI8-11">
           <mxGeometry x="-0.086" y="-1" relative="1" as="geometry">
             <mxPoint x="8" y="-11" as="offset" />
           </mxGeometry>
@@ -4294,7 +4302,7 @@
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6xgKVK9Jg7akcrCkXI8-10" target="X6xgKVK9Jg7akcrCkXI8-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X6xgKVK9Jg7akcrCkXI8-15" value="①创建/覆盖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X6xgKVK9Jg7akcrCkXI8-12">
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-15" value="① 创建/覆盖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X6xgKVK9Jg7akcrCkXI8-12">
           <mxGeometry x="-0.4259" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="-9" as="offset" />
           </mxGeometry>
@@ -4306,13 +4314,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6xgKVK9Jg7akcrCkXI8-14" value="③创建 &amp;amp; 指定 Alias sql-log" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;fontColor=light-dark(#000000,#FF6666);" vertex="1" connectable="0" parent="X6xgKVK9Jg7akcrCkXI8-13">
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-14" value="③ 创建 &amp;amp; 指定 Alias sql-log" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1;fontColor=light-dark(#000000,#FF6666);" vertex="1" connectable="0" parent="X6xgKVK9Jg7akcrCkXI8-13">
           <mxGeometry x="-0.0145" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X6xgKVK9Jg7akcrCkXI8-10" value="Initialization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="95" y="30" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X6xgKVK9Jg7akcrCkXI8-21" value="&lt;div&gt;④ Rollover&lt;/div&gt;1. 按照表名结尾数字创建新Index&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 102, 102));&quot;&gt;2. 用原有Alias 指向新的 Index&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FF6666);fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
