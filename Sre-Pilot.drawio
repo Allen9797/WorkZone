@@ -1467,7 +1467,7 @@
           <mxGeometry x="611.5" y="2018.19" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="poMWirdt1wEhjeBtL1Pi-35" value="可观测领域" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="53.69" y="1633.13" width="116.31" height="30" as="geometry" />
+          <mxGeometry x="51.839999999999996" y="1648.13" width="116.31" height="30" as="geometry" />
         </mxCell>
         <mxCell id="poMWirdt1wEhjeBtL1Pi-36" value="业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#6A00FF,#99004D);strokeColor=light-dark(#3700CC,#FF0080);fontStyle=0;fontColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="42.25" y="2160.5" width="80" height="40" as="geometry" />
