@@ -2655,7 +2655,7 @@
         <mxCell id="cjv44oG21lkuE-m5-ejj-19" value="服务聚合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="640" y="245.78000000000003" width="59.09090909090909" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cjv44oG21lkuE-m5-ejj-20" value="症状聚合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="cjv44oG21lkuE-m5-ejj-20" value="滑动窗口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="710.9090909090909" y="245.78000000000003" width="59.09090909090909" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cjv44oG21lkuE-m5-ejj-21" value="阈值修改" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" parent="1" vertex="1">
