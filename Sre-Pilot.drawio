@@ -4547,7 +4547,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_FpkspukabjcRlmtQTFl" name="告警逻辑">
-    <mxGraphModel dx="788" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="927" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4560,14 +4560,23 @@
         <mxCell id="0IX6Npq4c8dQmyUODeXr-1" value="指标巡检" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FF3333);fontColor=#ffffff;strokeColor=light-dark(#B20000,#FF3333);fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="60" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0IX6Npq4c8dQmyUODeXr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0IX6Npq4c8dQmyUODeXr-2" target="0IX6Npq4c8dQmyUODeXr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0IX6Npq4c8dQmyUODeXr-2" value="Alerts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="30" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0IX6Npq4c8dQmyUODeXr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0IX6Npq4c8dQmyUODeXr-3" target="0IX6Npq4c8dQmyUODeXr-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0IX6Npq4c8dQmyUODeXr-3" value="机器学习模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="60" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0IX6Npq4c8dQmyUODeXr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="60" width="90" height="40" as="geometry" />
+        <mxCell id="0IX6Npq4c8dQmyUODeXr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0IX6Npq4c8dQmyUODeXr-4" target="0IX6Npq4c8dQmyUODeXr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0IX6Npq4c8dQmyUODeXr-4" value="Check" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0IX6Npq4c8dQmyUODeXr-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="230" width="90" height="40" as="geometry" />
@@ -4578,13 +4587,16 @@
         <mxCell id="0IX6Npq4c8dQmyUODeXr-7" value="机器学习模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0IX6Npq4c8dQmyUODeXr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0IX6Npq4c8dQmyUODeXr-8" target="0IX6Npq4c8dQmyUODeXr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0IX6Npq4c8dQmyUODeXr-8" value="Alerts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="90" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0IX6Npq4c8dQmyUODeXr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0IX6Npq4c8dQmyUODeXr-11" target="0IX6Npq4c8dQmyUODeXr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0IX6Npq4c8dQmyUODeXr-11" value="动态基线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0IX6Npq4c8dQmyUODeXr-11" value="动态基线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="150" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0IX6Npq4c8dQmyUODeXr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0IX6Npq4c8dQmyUODeXr-12" target="0IX6Npq4c8dQmyUODeXr-1">
@@ -4592,6 +4604,9 @@
         </mxCell>
         <mxCell id="0IX6Npq4c8dQmyUODeXr-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0IX6Npq4c8dQmyUODeXr-18" value="Promblem生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="60" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
