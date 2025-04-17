@@ -4684,6 +4684,12 @@
             <mxPoint x="1280" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PzmmICjpaZHSiajPqk8t-57" value="影响多个服务告一条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="922.5" y="350" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzmmICjpaZHSiajPqk8t-58" value="影响多个服务，每个服务告一条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="450" width="67.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
