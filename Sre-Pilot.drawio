@@ -2536,20 +2536,23 @@
         <mxCell id="cjv44oG21lkuE-m5-ejj-21" value="自定义SLO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=10;fontFamily=Georgia;" parent="zpWpD0llrLDnPvuHEoaq-3" vertex="1">
           <mxGeometry x="281.13" y="256" width="59.09090909090909" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jhUVpX1CUW-KmxZy1eac-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="673" y="276" width="97" height="240" as="geometry" />
+        <mxCell id="jhUVpX1CUW-KmxZy1eac-9" value="OpsWatch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;" vertex="1" parent="zpWpD0llrLDnPvuHEoaq-3">
+          <mxGeometry x="25.53" y="30" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zpWpD0llrLDnPvuHEoaq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="194" y="100" width="106" height="450" as="geometry" />
         </mxCell>
+        <mxCell id="zpWpD0llrLDnPvuHEoaq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="100" width="100" height="450" as="geometry" />
+        </mxCell>
         <mxCell id="zpWpD0llrLDnPvuHEoaq-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="100" width="215" height="450" as="geometry" />
         </mxCell>
+        <mxCell id="jhUVpX1CUW-KmxZy1eac-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="673" y="276" width="97" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="zpWpD0llrLDnPvuHEoaq-1" value="&lt;font color=&quot;#0066cc&quot;&gt;&amp;nbsp; APM Agent&lt;/font&gt;" style="fillColor=none;strokeColor=#0066CC;verticalAlign=top;fontStyle=0;fontColor=#3399FF;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="19" y="160" width="114" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="zpWpD0llrLDnPvuHEoaq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="100" width="100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="zpWpD0llrLDnPvuHEoaq-27" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="338.85" y="226" width="64.3" height="58.89" as="geometry" />
