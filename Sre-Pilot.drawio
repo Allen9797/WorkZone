@@ -3794,7 +3794,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TPA部署架构" id="44Bir4Rve80-z8kcP1aS">
-    <mxGraphModel dx="1123" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fFzvvVXxjYKUjQHOteE4-0" />
         <mxCell id="fFzvvVXxjYKUjQHOteE4-1" parent="fFzvvVXxjYKUjQHOteE4-0" />
