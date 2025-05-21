@@ -3831,7 +3831,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TPA部署架构" id="44Bir4Rve80-z8kcP1aS">
-    <mxGraphModel dx="1554" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fFzvvVXxjYKUjQHOteE4-0" />
         <mxCell id="fFzvvVXxjYKUjQHOteE4-1" parent="fFzvvVXxjYKUjQHOteE4-0" />
@@ -4025,7 +4025,7 @@
           <mxGeometry x="39.34750000000006" y="60.08999999999992" width="91.3" height="29.83" as="geometry" />
         </mxCell>
         <mxCell id="wnM3-zgjP-ROSm_7OMq0-15" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 29, 188), rgb(0, 0, 255));&quot;&gt;前端体验数据上报：&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 29, 188), rgb(0, 0, 255));&quot;&gt;https://tracing-sre.zroid.xyz&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;container=0;" parent="fFzvvVXxjYKUjQHOteE4-1" vertex="1">
-          <mxGeometry x="460.01" y="412" width="170" height="38.44" as="geometry" />
+          <mxGeometry x="460.01" y="418.58" width="170" height="38.44" as="geometry" />
         </mxCell>
         <mxCell id="cpGbXWpxJLQbQa_Mrb3M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.501;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="fFzvvVXxjYKUjQHOteE4-1" source="fFzvvVXxjYKUjQHOteE4-20" target="wnM3-zgjP-ROSm_7OMq0-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4090,6 +4090,9 @@
         </mxCell>
         <mxCell id="9AWeSoClWtdbOTyet1g6-2" value="sdk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;container=0;" parent="fFzvvVXxjYKUjQHOteE4-1" vertex="1">
           <mxGeometry x="401.01" y="448.55" width="59" height="24.08" as="geometry" />
+        </mxCell>
+        <mxCell id="aL220natLC2YwmFvt4l7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fFzvvVXxjYKUjQHOteE4-1" source="9AWeSoClWtdbOTyet1g6-2" target="fFzvvVXxjYKUjQHOteE4-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
