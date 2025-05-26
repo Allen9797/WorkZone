@@ -2788,13 +2788,13 @@
           <mxGeometry x="210" y="100" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3kPILA_tZMztO-sSUnao-1" value="&lt;b&gt;眼睛&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="468" width="50" height="30" as="geometry" />
+          <mxGeometry x="1290" y="470" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kPILA_tZMztO-sSUnao-2" value="&lt;b&gt;人脑&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="317.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="1290" y="319.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kPILA_tZMztO-sSUnao-3" value="&lt;b&gt;智能&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1338" y="132.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="1293" y="134.5" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
